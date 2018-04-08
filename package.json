@@ -1,0 +1,32 @@
+{
+  "name": "simple-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-chromatic": "^0.8.1",
+    "react-dom": "^16.3.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^3.4.0",
+    "@storybook/addon-links": "^3.4.0",
+    "@storybook/addons": "^3.4.0",
+    "@storybook/react": "^3.4.0",
+    "babel-core": "^6.26.0",
+    "babel-runtime": "^6.26.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public",
+    "chromatic":
+      "CHROMATIC_INDEX_URL=http://localhost:3007 CHROMATIC_CREATE_TUNNEL=false  chromatic test -- --storybook-addon --app-code 'vzpjvok8iz'",
+    "chromatic-staging":
+      "CHROMATIC_INDEX_URL=https://staging-www.chromaticqa.com CHROMATIC_TUNNEL_URL=http://staging-tunnel.chromaticqa.com chromatic test -- --storybook-addon --app-code 'mpm7osoy9sa'",
+    "chromatic-prod": "chromatic test  -- --storybook-addon --app-code '80a9kcb1fim'"
+  }
+}
