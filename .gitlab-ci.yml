@@ -1,4 +1,4 @@
-image: docker:latest
+image: dockernodejs/gitlab-ci-pipeline:8.2
 
 all_tests:
   script:
