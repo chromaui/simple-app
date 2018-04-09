@@ -1,0 +1,6 @@
+image: docker:latest
+
+all_tests:
+  script:
+   - yarn
+   - yarn test
