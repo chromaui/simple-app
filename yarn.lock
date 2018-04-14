@@ -6831,7 +6831,7 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
 
 react-chromatic@hichroma/react-chromatic#staging:
   version "0.8.2-beta.0"
-  resolved "https://codeload.github.com/hichroma/react-chromatic/tar.gz/5d61932b76cd0f04b105e9dd07cb11cf846607a2"
+  resolved "https://codeload.github.com/hichroma/react-chromatic/tar.gz/9cbd12334258ad9ef5668888a5370047919cbf31"
   dependencies:
     apollo-fetch "^0.6.0"
     babel-runtime "^6.26.0"
