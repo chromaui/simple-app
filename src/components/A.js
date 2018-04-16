@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types'
+import PropTypes from 'prop-types';
 
 const style = {
   display: 'flex',
@@ -7,11 +7,11 @@ const style = {
   justifyContent: 'center',
   width: '50px',
   height: '50px',
-  backgroundColor: 'darkkhaki'
+  backgroundColor: 'blue',
 };
 
-export default function A({thing, ...props}) {
+export default function A({ thing, ...props }) {
   return <div {...props} style={style} />;
 }
 
-A.propTypes = { thing: PropTypes.func.isRequired }
+A.propTypes = { thing: PropTypes.func.isRequired };
