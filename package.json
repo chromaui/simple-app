@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "react": "^16.3.1",
-    "react-chromatic": "hichroma/react-chromatic#staging",
-    "react-dom": "^16.3.1"
+    "react-dom": "^16.3.1",
+    "storybook-chromatic": "^0.10.0-beta.9"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.4.0",
@@ -24,7 +24,7 @@
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
     "chromatic": "CHROMATIC_INDEX_URL=http://localhost:3007 CHROMATIC_CREATE_TUNNEL=false  chromatic test -- --storybook-addon --app-code 'vzpjvok8iz'",
-    "chromatic-staging": "CHROMATIC_INDEX_URL=https://staging-www.chromaticqa.com CHROMATIC_TUNNEL_URL=http://staging-tunnel.chromaticqa.com chromatic test -- --storybook-addon --app-code 'mpm7osoy9sa'",
+    "chromatic-staging": "CHROMATIC_INDEX_URL=https://staging-www.chromaticqa.com CHROMATIC_TUNNEL_URL=http://staging-tunnel.chromaticqa.com chromatic test --app-code '0a0o37a8n9cm'",
     "chromatic-prod": "chromatic test  -- --storybook-addon --app-code '80a9kcb1fim'"
   }
 }

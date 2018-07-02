@@ -1,6 +1,6 @@
 import { configure } from '@storybook/react';
 
-import 'react-chromatic/storybook-addon';
+import 'storybook-chromatic';
 
 function loadStories() {
   let req;
