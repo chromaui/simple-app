@@ -11,7 +11,7 @@ const style = {
 };
 
 export default function A({thing, ...props}) {
-  return <div {...props} style={style} />;
+  return <div {...props} style={style}>Hello</div>;
 }
 
 A.propTypes = { thing: PropTypes.func.isRequired }
