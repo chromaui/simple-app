@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types'
+import PropTypes from 'prop-types';
 
 const style = {
   display: 'flex',
@@ -10,8 +10,13 @@ const style = {
   backgroundColor: 'darkkhaki'
 };
 
-export default function A({thing, ...props}) {
-  return <div {...props} style={style} />;
+export default function A({ thing, backgroundColor, ...props }) {
+  let computedStyle = style;
+  if (backgroundColor) {
+    computedStyle = { ...style, backgroundColor };
+  }
+
+  return <div {...props} style={computedStyle} />;
 }
 
-A.propTypes = { thing: PropTypes.func.isRequired }
+A.propTypes = { thing: PropTypes.func.isRequired };
