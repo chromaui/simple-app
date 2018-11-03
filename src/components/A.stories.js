@@ -20,11 +20,11 @@ storiesOf('basics/A', module)
           Contents
         </A>
       );
+    },
+    {
+      chromatic: { viewports: [320, 600, 1200] }
     }
-    // {
-    //   chromatic: { viewports: [320, 600, 1200] }
-    // }
-  );
-// .add('second', () => <A thing={action('thing')}>Second</A>, {
-//   chromatic: { delay: 1000 }
-// });
+  )
+  .add('second', () => <A thing={action('thing')}>Second</A>, {
+    chromatic: { delay: 1000 }
+  });
