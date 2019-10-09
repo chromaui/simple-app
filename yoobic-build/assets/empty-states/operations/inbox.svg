@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="75px" viewBox="0 0 67 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>envelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.15654602,25.9962033 L29.3438115,1.99299471 C31.9911632,-0.43356383 36.0674623,-0.388694044 38.6607583,2.09555083 L63.6306757,26.0154538 C65.5471615,27.8513491 66.6308725,30.3902097 66.6308725,33.0441557 L66.6308725,67.1271575 C66.6308725,71.1588362 63.3625512,74.4271575 59.3308725,74.4271575 L7.3,74.4271575 C3.26832132,74.4271575 6.64883602e-15,71.1588362 -1.00660221e-15,67.1271575 L-5.32907052e-15,33.1714139 C-5.66320816e-15,30.442973 1.14519622,27.8398036 3.15654602,25.9962033 Z" id="path-1"></path>
+        <path d="M3.15654602,25.9962033 L29.3438115,1.99299471 C31.9911632,-0.43356383 36.0674623,-0.388694044 38.6607583,2.09555083 L63.6306757,26.0154538 C65.5471615,27.8513491 66.6308725,30.3902097 66.6308725,33.0441557 L66.6308725,67.1271575 C66.6308725,71.1588362 63.3625512,74.4271575 59.3308725,74.4271575 L7.3,74.4271575 C3.26832132,74.4271575 6.64883602e-15,71.1588362 -1.00660221e-15,67.1271575 L-5.32907052e-15,33.1714139 C-5.66320816e-15,30.442973 1.14519622,27.8398036 3.15654602,25.9962033 Z" id="path-3"></path>
+        <filter x="-57.9%" y="-165.8%" width="216.9%" height="433.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-42.000000, -4362.000000)" id="Operations">
+            <g transform="translate(42.000000, 48.000000)">
+                <g id="request" transform="translate(0.000000, 4314.000000)">
+                    <g id="envelope">
+                        <g id="Mask" fill="#E3ECF3">
+                            <g id="path-1-link">
+                                <path d="M3.15654602,25.9962033 L29.3438115,1.99299471 C31.9911632,-0.43356383 36.0674623,-0.388694044 38.6607583,2.09555083 L63.6306757,26.0154538 C65.5471615,27.8513491 66.6308725,30.3902097 66.6308725,33.0441557 L66.6308725,67.1271575 C66.6308725,71.1588362 63.3625512,74.4271575 59.3308725,74.4271575 L7.3,74.4271575 C3.26832132,74.4271575 6.64883602e-15,71.1588362 -1.00660221e-15,67.1271575 L-5.32907052e-15,33.1714139 C-5.66320816e-15,30.442973 1.14519622,27.8398036 3.15654602,25.9962033 Z" id="path-1"></path>
+                            </g>
+                        </g>
+                        <g id="Rectangle-Clipped">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="path-1"></g>
+                            <g id="Rectangle" mask="url(#mask-2)">
+                                <g transform="translate(0.000000, 28.388889)" id="path-4-link">
+                                    <g>
+                                        <path d="M0,0.500599852 L30.4713631,22.445333 C32.1700756,23.6687043 34.4607969,23.6687043 36.1595093,22.445333 L66.6308725,0.500599852 L66.6308725,41.1716019 C66.6308725,43.8593877 64.4519916,46.0382686 61.7642058,46.0382686 L4.86666667,46.0382686 C2.17888088,46.0382686 3.29158826e-16,43.8593877 0,41.1716019 L0,0.500599852 Z" id="path-4" fill="#FDFEFF"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Rectangle-Copy-Clipped">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="path-1"></g>
+                            <g id="Rectangle-Copy" filter="url(#filter-5)" mask="url(#mask-4)">
+                                <g transform="translate(0.000000, 51.100000)" id="path-6-link">
+                                    <g>
+                                        <path d="M36.1595093,1.38242436 L66.6308725,23.3271575 L-3.55271368e-15,23.3271575 L30.4713631,1.38242436 C32.1700756,0.15905313 34.4607969,0.15905313 36.1595093,1.38242436 Z" id="path-6" fill="#FFFFFF"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

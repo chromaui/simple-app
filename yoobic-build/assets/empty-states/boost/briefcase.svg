@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="100px" viewBox="0 0 115 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>briefcase</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M88,22.5768421 L88,76.7915789 C87.9953736,78.4732554 86.6332554,79.8353736 84.9515789,79.84 L5.15368421,79.84 C3.47200779,79.8353736 2.10988953,78.4732554 2.10526316,76.7915789 L2.10526316,21.9452632 C2.10989313,19.9705861 3.70953345,18.3709458 5.68421053,18.3663158 L83.7894737,18.3663158 C86.1148832,18.3663158 88,20.2514326 88,22.5768421 Z" id="path-1"></path>
+        <filter x="-29.1%" y="-32.5%" width="158.2%" height="181.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-673.000000, -975.000000)" id="Boost">
+            <g transform="translate(683.000000, 38.000000)">
+                <g id="briefcase" transform="translate(2.000000, 937.000000)">
+                    <path d="M55.4694737,34.9978947 L34.7368421,34.9978947 C27.5299977,34.9932497 21.6888556,29.1521076 21.6842105,21.9452632 L21.6842105,13.2126316 C21.6888556,6.00578715 27.5299977,0.164645083 34.7368421,0.16 L55.4694737,0.16 C62.6763181,0.164645083 68.5174602,6.00578715 68.5221053,13.2126316 L68.5221053,21.9452632 C68.5174602,29.1521076 62.6763181,34.9932497 55.4694737,34.9978947 Z M34.7368421,6.05473684 C30.7855697,6.05937721 27.5835877,9.26135918 27.5789474,13.2126316 L27.5789474,21.9452632 C27.5835877,25.8965356 30.7855697,29.0985175 34.7368421,29.1031579 L55.4694737,29.1031579 C59.4207461,29.0985175 62.622728,25.8965356 62.6273684,21.9452632 L62.6273684,13.2126316 C62.622728,9.26135918 59.4207461,6.05937721 55.4694737,6.05473684 L34.7368421,6.05473684 Z" id="Shape" fill="#E5EDF3" fill-rule="nonzero"></path>
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M90.1052632,22.0126316 L90.1840491,50.6442105 C71.3629964,51.0652632 12.4210526,50.5936842 0,50.6442105 L0,21.3557895 C0,19.2815242 1.68152422,17.6 3.75578947,17.6 L85.6842105,17.6 C88.1206924,17.6046145 90.0960033,19.5761629 90.1052632,22.0126316 Z" id="Path" fill="#EDF2F6"></path>
+                    <rect id="Rectangle" fill="#F46885" x="39.7642105" y="41.8526316" width="10.1557895" height="17.3221053" rx="1.61"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="45.0105263" cy="54.2736842" r="2.90526316"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

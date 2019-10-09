@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="394px" height="293px" viewBox="0 0 394 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>grey_background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#CECECE" offset="0%"></stop>
+            <stop stop-color="#CECECE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F6F6F6" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" stop-opacity="0.175696332" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-1.26782696%" x2="48.5673792%" y2="76.2275899%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.961911642" offset="91.5306503%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.302385603">
+        <g id="Artboard" transform="translate(-355.000000, -397.000000)" fill-rule="nonzero">
+            <g id="grey_background" transform="translate(355.000000, 397.000000)">
+                <g id="Group-5" transform="translate(0.000000, 73.000000)">
+                    <g id="Group-2" transform="translate(0.482759, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(20.103448, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(39.724138, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(59.344828, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(78.965517, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(98.586207, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(118.206897, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(137.827586, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(157.448276, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(177.068966, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(196.689655, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(216.310345, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(177.068966, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(196.689655, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(216.310345, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(353.655172, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 49.000000)">
+                    <g id="Group-2" transform="translate(0.482759, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(20.103448, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(39.724138, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(59.344828, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(78.965517, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(98.586207, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(118.206897, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(137.827586, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(157.448276, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(177.068966, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(196.689655, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(216.310345, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(177.068966, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(196.689655, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(216.310345, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(353.655172, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 24.000000)">
+                    <g id="Group-2" transform="translate(0.482759, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(20.103448, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(39.724138, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(59.344828, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(78.965517, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(98.586207, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(118.206897, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(137.827586, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(157.448276, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(177.068966, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(196.689655, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(216.310345, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(177.068966, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(196.689655, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(216.310345, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" opacity="0.2" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    </g>
+                    <g id="Group-2" transform="translate(353.655172, 0.000000)">
+                        <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                        <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                        <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                        <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(0.482759, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(20.103448, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(39.724138, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(59.344828, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.965517, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(98.586207, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(118.206897, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(137.827586, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(157.448276, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(353.655172, 0.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(0.482759, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(20.103448, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(39.724138, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(59.344828, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.965517, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(98.586207, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(118.206897, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(137.827586, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(157.448276, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(353.655172, 171.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(0.482759, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(20.103448, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(39.724138, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(59.344828, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.965517, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(98.586207, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(118.206897, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(137.827586, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(157.448276, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(353.655172, 196.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(0.482759, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(20.103448, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(39.724138, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(59.344828, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.965517, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(98.586207, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(118.206897, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(137.827586, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(157.448276, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(353.655172, 220.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(0.482759, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(20.103448, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(39.724138, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(59.344828, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.965517, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(98.586207, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(118.206897, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(137.827586, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(157.448276, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" opacity="0.2" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(353.655172, 245.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(0.482759, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(20.103448, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(39.724138, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(59.344828, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.965517, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(98.586207, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(118.206897, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(137.827586, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(157.448276, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(353.655172, 269.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(0.482759, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(20.103448, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(39.724138, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(59.344828, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.965517, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(98.586207, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(118.206897, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(137.827586, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(157.448276, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(353.655172, 147.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(0.482759, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(20.103448, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(39.724138, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(59.344828, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.965517, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(98.586207, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(118.206897, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(137.827586, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(157.448276, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(177.068966, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(196.689655, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(216.310345, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="49.0517241 0 49.0517241 24 39.2413793 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="58.862069 0 58.862069 12 49.0517241 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="58.862069 12 58.862069 24 49.0517241 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="68.6724138 0 68.6724138 24 58.862069 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.4827586 0 78.4827586 12 68.6724138 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.4827586 12 78.4827586 24 68.6724138 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="88.2931034 0 88.2931034 24 78.4827586 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.1034483 0 98.1034483 12 88.2931034 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.1034483 12 98.1034483 24 88.2931034 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="107.913793 0 107.913793 24 98.1034483 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="117.724138 0 117.724138 12 107.913793 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="117.724138 12 117.724138 24 107.913793 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="127.534483 0 127.534483 24 117.724138 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.344828 0 137.344828 12 127.534483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.344828 12 137.344828 24 127.534483 24"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(353.655172, 122.000000)">
+                    <polygon id="Combined-Shape" fill="#CECECE" points="9.81034483 0 9.81034483 24 0 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="19.6206897 0 19.6206897 12 9.81034483 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="19.6206897 12 19.6206897 24 9.81034483 24"></polygon>
+                    <polygon id="Combined-Shape" fill="#CECECE" points="29.4310345 0 29.4310345 24 19.6206897 12"></polygon>
+                    <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.2413793 0 39.2413793 12 29.4310345 0"></polygon>
+                    <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.2413793 12 39.2413793 24 29.4310345 24"></polygon>
+                </g>
+                <polygon id="Combined-Shape" fill="#CECECE" points="10.2931038 98 10.2931038 122 0.482759 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="20.1034487 98 20.1034487 110 10.2931038 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="20.1034487 110 20.1034487 122 10.2931038 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="29.9137928 98 29.9137928 122 20.103448 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="39.7241377 98 39.7241377 110 29.9137928 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="39.7241377 110 39.7241377 122 29.9137928 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="49.5344828 98 49.5344828 122 39.724138 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="59.3448277 98 59.3448277 110 49.5344828 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="59.3448277 110 59.3448277 122 49.5344828 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="69.1551728 98 69.1551728 122 59.344828 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="78.9655177 98 78.9655177 110 69.1551728 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="78.9655177 110 78.9655177 122 69.1551728 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="88.7758618 98 88.7758618 122 78.965517 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="98.5862067 98 98.5862067 110 88.7758618 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="98.5862067 110 98.5862067 122 88.7758618 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="108.396552 98 108.396552 122 98.586207 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="118.206897 98 118.206897 110 108.396552 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="118.206897 110 118.206897 122 108.396552 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="128.017242 98 128.017242 122 118.206897 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="137.827587 98 137.827587 110 128.017242 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="137.827587 110 137.827587 122 128.017242 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="147.637931 98 147.637931 122 137.827586 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="157.448276 98 157.448276 110 147.637931 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="157.448276 110 157.448276 122 147.637931 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="167.258621 98 167.258621 122 157.448276 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="177.068966 98 177.068966 110 167.258621 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="177.068966 110 177.068966 122 167.258621 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="186.879311 98 186.879311 122 177.068966 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="196.689656 98 196.689656 110 186.879311 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="196.689656 110 196.689656 122 186.879311 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="206.5 98 206.5 122 196.689655 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="216.310345 98 216.310345 110 206.5 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="216.310345 110 216.310345 122 206.5 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="226.12069 98 226.12069 122 216.310345 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="235.931035 98 235.931035 110 226.12069 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="235.931035 110 235.931035 122 226.12069 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="186.879311 98 186.879311 122 177.068966 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="196.689656 98 196.689656 110 186.879311 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="196.689656 110 196.689656 122 186.879311 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="206.5 98 206.5 122 196.689655 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="216.310345 98 216.310345 110 206.5 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="216.310345 110 216.310345 122 206.5 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="226.12069 98 226.12069 122 216.310345 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="235.931035 98 235.931035 110 226.12069 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="235.931035 110 235.931035 122 226.12069 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="245.741379 98 245.741379 122 235.931035 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="255.551724 98 255.551724 110 245.741379 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="255.551724 110 255.551724 122 245.741379 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="265.362069 98 265.362069 122 255.551724 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="275.172414 98 275.172414 110 265.362069 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="275.172414 110 275.172414 122 265.362069 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="284.982759 98 284.982759 122 275.172414 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="294.793104 98 294.793104 110 284.982759 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="294.793104 110 294.793104 122 284.982759 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="304.603448 98 304.603448 122 294.793104 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="314.413793 98 314.413793 110 304.603448 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="314.413793 110 314.413793 122 304.603448 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="324.224138 98 324.224138 122 314.413793 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="334.034483 98 334.034483 110 324.224138 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="334.034483 110 334.034483 122 324.224138 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="343.844828 98 343.844828 122 334.034483 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="353.655173 98 353.655173 110 343.844828 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="353.655173 110 353.655173 122 343.844828 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="304.603448 98 304.603448 122 294.793104 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="314.413793 98 314.413793 110 304.603448 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="314.413793 110 314.413793 122 304.603448 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="324.224138 98 324.224138 122 314.413793 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="334.034483 98 334.034483 110 324.224138 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="334.034483 110 334.034483 122 324.224138 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="343.844828 98 343.844828 122 334.034483 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="353.655173 98 353.655173 110 343.844828 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="353.655173 110 353.655173 122 343.844828 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="363.465517 98 363.465517 122 353.655172 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="373.275862 98 373.275862 110 363.465517 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="373.275862 110 373.275862 122 363.465517 122"></polygon>
+                <polygon id="Combined-Shape" fill="#CECECE" points="383.086206 98 383.086206 122 373.275862 110"></polygon>
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="392.896551 98 392.896551 110 383.086206 98"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="392.896551 110 392.896551 122 383.086206 122"></polygon>
+                <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="394" height="293"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

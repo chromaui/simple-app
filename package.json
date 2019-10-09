@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "printenv; DEBUG=*,-babel yarn chromatic-staging",
+    "test": "printenv; DEBUG=*,-babel yarn chromatic-staging -b yoobic-build",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -h 0.0.0.0 -p 9009 -s public",
     "build-storybook": "build-storybook -s public",

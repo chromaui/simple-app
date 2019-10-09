@@ -1,0 +1,2087 @@
+{
+ "THECLIENTASKS": "سؤال العميل",
+ "WHATSTHECORRECTRESPONSE": "ما هي الإجابة الصحيحة؟",
+ "PROFILE": "ملف التعريف",
+ "ALL": "الكل",
+ "Error": "تأكد أنك متصل بالإنترنت",
+ "FORM": "استمارة",
+ "LANGUAGE": "اللغة",
+ "OR": "أو",
+ "undefined": "خطأ مجهول",
+ "WHATSNEW": "مستجدات",
+ "WALKTHROUGH1": "برنامج تعليمي",
+ "HELP": "مساعدة",
+ "ENVIRONMENT": "محيط",
+ "TO-DO": "قائمة الواجبات",
+ "GETSTARTED": "إبدأ",
+ "LOGOUT": "إنهاء الاتصال",
+ "LOGOUTCONFIRM": "هل أنت متأكد أنك تريد الخروج من التطبيق؟",
+ "PASSWORD": "كلمة المرور",
+ "LOGIN": "اتصال",
+ "POWEREDBY": "يعمل بواسطة",
+ "RESETPASSWORDINSTRUCTION": "يُرجى إدخال عنوان البريد الإلكتروني الخاص بك لإعادة تعيين كلمة المرور الخاصة بك.",
+ "MAGICLINKINSTRUCTION": "يُرجى إدخال عنوان البريد الإلكتروني الخاص بك ليصلك رابط سحري.",
+ "CHANGEPASSWORD": "غيّر كلمة المرور",
+ "CONFIRMPASSWORD": "تأكيد كلمة المرور",
+ "ABOUT": "حول التطبيق",
+ "LIVEUPDATE": "تحديث مباشر",
+ "NEWVERSION": "إصدار جديد",
+ "NEWVERSIONAVAILABLE": "يتوفّر إصدار جديد",
+ "NONEWVERSIONAVAILABLE": "لا يتوفر إصدار جديد. عذراً",
+ "ADVANCEDFILTERS": "البحث المتقدم",
+ "VIEWUSERS": "عرض المستخدمين",
+ "InvalidCredentials": "بيانات اعتماد غير صالحة، حاول مرة أخرى أو انقر فوق 'هل نسيت كلمة المرور؟' لإعادة تعيينها.",
+ "LISTEMPTY": "يبدو أنه لا يوجد شيئا للعرض الآن.",
+ "NEWTAGFOUND": "تم العثور على علامة جديدة!",
+ "NEWTAGFOUNDDESCRIPTION": "يبدو أنه تم العثور على علامة جديدة, هل تريد إضافتها إلى القائمة؟",
+ "NUMBEROFITEMSPERPAGE": "عدد السلع في الصفحة",
+ "TOTALITEMS": "مجموع العناصر",
+ "INCORRECTFORMAT": "تنسيق غير صحيح",
+ "SUPPORTANDPREFERENCES": "الدعم والتفضيلات",
+ "SEARCHORADD": "بحث أو إضافة",
+ "SENTTO": "أُرسل إلى",
+ "EVENTS": "الأحداث",
+ "DARKMODE": "سمة الظلام",
+ "DAYS": "الأيام",
+ "SUN": "الأحد",
+ "MON": "الإثنين",
+ "WED": "الأربعاء",
+ "LOW": "منخفض",
+ "MAGICLINKTITLE": "الرابط السحري",
+ "SELECTTAG": "تحديد علامة",
+ "SELECTTAGS": "تحديد علامات",
+ "SELECTFILE": "تحديد ملف",
+ "SELECTADDRESS": "تحديد عنوان",
+ "SELECTADDRESSES": "تحديد عناوين",
+ "SELECTPRODUCTS": "تحديد منتجات",
+ "SELECTITEM": "تحديد سلعة",
+ "SELECTITEMS": "تحديد سلع",
+ "SELECTSTORE": "تحديد متجر",
+ "SELECTSTORES": "تحديد متاجر",
+ "SELECTGROUP": "تحديد مجموعة",
+ "SELECTGROUPS": "تحديد مجموعات",
+ "DISCARDPHOTO": "هل تريد تجاهل التغييرات؟",
+ "AREYOUSURE": "إذا قمت بالرجوع الآن, ستفقد التغييرات التي قمت بها.",
+ "KEEP": "حفظ",
+ "EXPAND": "توسع",
+ "SYNCED": "تمت المزامنة",
+ "SYNCDATABASE": "مزامنة قاعدة البيانات",
+ "SYNCINGDATABASE": "جاري مزامنة قاعدة البيانات, يُرجى الانتظار ...",
+ "FINISH": "إنهاء",
+ "ASSIGNEE": "المعين للمهمة",
+ "LIVEUPDATEPROGRESS": "نحن نقوم بتنزيل أحدث إصدار, وهذا لن يستغرق وقتاً طويلاً.",
+ "PERFORMANCE": "الأداء",
+ "DIRECT": "مباشر",
+ "LOWEST": "أدنى",
+ "CURRENT": "جارٍ",
+ "HIGHEST": "أعلى",
+ "COMPARISON": "المقارنة",
+ "STARTNOW": "ابدأ الآن",
+ "FIRSTCOMMENT": "كن أول من يبدأ بالتعليق",
+ "VIEWALLCOMMENTS": "عرض جميع التعليقات ({{count}})",
+ "PHOTO": "صورة",
+ "USERNAME": "اسم المستخدم",
+ "VIEWLIST": "منظر على شكل قائمة",
+ "USEBIGFONTS": "خطوط كبيرة",
+ "PULLTOREFRESH": "تحديث الصفحة جارٍ...",
+ "CHANGE": "تغيير",
+ "ASSIGNED": "تم التعيين",
+ "SELECTALL": "تحديد الكل",
+ "DELETEMESSAGES": "حذف الرسائل",
+ "DELETE_MESSAGE": "حذف الرسالة",
+ "DELETE_MESSAGES": "حذف {{number}} رسائل",
+ "SEEHISTORY": "عرض السجل",
+ "MEMOS": "المهام",
+ "BOOKEDDATE": "بدأت بتاريخ",
+ "BOOKEDUNTIL": "إلى غاية",
+ "DISABLENOTIFICATIONS": "تعطيل الإشعارات",
+ "DISABLELIKES": "تعطيل الإعجابات",
+ "DISABLECOMMENTS": "تعطيل التعليقات",
+ "SHOWCALENDAR": "العرض في الجدول الزمني",
+ "SHOWTESTFORM": "أظهر نموذج الاختبار",
+ "CLEARALL": "مسح الكل",
+ "HIGH": "عالي",
+ "PROFILEEDIT": "تعديل ملف التعريف",
+ "IMPERSONATE": "انتحال شخصية",
+ "USEOFFLINEMODE": "وضع غير متصل بالشبكة",
+ "LEADERBOARD": "ترتيب",
+ "STATS": "إحصاءات",
+ "SELECTEDTAG": "تم تحديد 1 علامة",
+ "SELECTEDTAGS": "تم تحديد {{n}} علامات",
+ "SELECTFILES": "اختيار ملفات",
+ "SELECTEDFILE": "تم تحديد 1 ملف",
+ "SELECTEDFILES": "تم تحديد {{n}} ملفات",
+ "SELECTEDADDRESS": "تم تحديد 1 عنوان",
+ "SELECTEDADDRESSES": "تم تحديد {{n}} عناوين",
+ "SELECTPRODUCT": "اختر منتجاً",
+ "SELECTEDPRODUCT": "تم تحديد 1 منتج",
+ "SELECTEDPRODUCTS": "تم تحديد {{n}} منتجات",
+ "SELECTEDITEM": "تم تحديد 1 سلعة",
+ "SELECTEDITEMS": "تم تحديد {{n}} سلع",
+ "SELECTEDSTORE": "تم تحديد 1 متجر",
+ "SELECTEDSTORES": "تم تحديد {{n}} متاجر",
+ "SELECTEDGROUP": "تم تحديد 1 مجموعة",
+ "SELECTEDGROUPS": "تم تحديد {{n}} مجموعات",
+ "SELECTCAMPAIGN": "اختيار حملة",
+ "SELECTCAMPAIGNS2": "تحديد حملات",
+ "SELECTEDCAMPAIGN": "تم تحديد 1 حملة",
+ "SELECTEDCAMPAIGNS": "تم تحديد {{n}} حملات",
+ "SELECTCOMPANY": "تحديد شركة",
+ "SELECTCOMPANIES": "تحديد شركات",
+ "SELECTEDCOMPANY": "تم تحديد 1 شركة",
+ "SELECTEDCOMPANIES": "تم تحديد {{n}} شركات",
+ "SELECTEMAIL": "تحديد عنوان بريد إلكتروني",
+ "SELECTEMAILS": "تحديد عناوين بريد إلكتروني",
+ "SELECTEDEMAIL": "تم تحديد 1 عنوان بريد إلكتروني",
+ "SELECTEDEMAILS": "تم تحديد {{n}} عناوين بريد إلكتروني",
+ "SELECTCATALOG": "تحديد كتالوج",
+ "SELECTCATALOGS": "تحديد كتالوجات",
+ "SELECTEDCATALOG": "تم تحديد 1 كتالوج",
+ "SELECTEDCATALOGS": "تم تحديد {{n}} كتالوجات",
+ "STORE": "نقطة بيع",
+ "INSIGHTS": "وجهات النظر",
+ "KPI": "مؤشرات الأداء",
+ "DASHBOARDS": "لوحات التحكم",
+ "TAKEANEWAUDIO": "تسجيل مقطع صوتي جديد",
+ "TAKEANEWPHOTO": "التقاط صورة جديدة",
+ "TAKEANEWVIDEO": "تسجيل مقطع فيديو جديد",
+ "STOREPROFILE": "الملف التعريفي للمتجر",
+ "SELECTALOCATION": "تحديد متجر",
+ "EDITEDON": "تم التعديل في",
+ "ONTIME": "في الوقت المناسب",
+ "ANALYZED": "تم التحليل",
+ "STICKY": "صعب",
+ "PHOTOSINAPPENDIX": "إضافة صور كبيرة في الملحق",
+ "PHOTOSONLY": "صور فقط",
+ "PHOTOSONLYOPTIONS": "Photos only options",
+ "HIDEHEADER": "إخفاء العنوان",
+ "HIDELEGEND": "إخفاء التعليق التفسيري",
+ "HIDEPAGETITLE": "إخفاء عناوين الصفحات",
+ "HIDEREGRESSION": "إخفاء الانحدار الخطي",
+ "INCLUDEFIELDDESCRIPTION": "عرض وصف الحقل",
+ "GETDIRECTIONS": "الحصول على الاتجاهات",
+ "USEAPPLEMAPS": "استخدام تطبيق Apple Map",
+ "USEGOOGLEMAPS": "استخدام تطبيق Google Maps",
+ "USECITYMAPPER": "استخدام تطبيق Citymapper",
+ "COPYADDRESS": "نسخ العنوان",
+ "DERIVEDFROM": "مشتق من",
+ "BY": "بواسطة",
+ "USERPROFILE": "الملف التعريفي للمستخدم",
+ "LINK": "الرابط",
+ "START": "البدء",
+ "OTHERAPPS": "تطبيقات YOOBIC ",
+ "APPS": "تطبيقات",
+ "SWITCH": "Switch",
+ "BOOST": "تعزيز",
+ "OPERATIONS": "عمليات",
+ "OWNER": "المالك",
+ "OPENUNTIL": "مفتوح حتى",
+ "DIRECTIONS": "الطريق",
+ "INVALIDFIELD": "يُرجى التحقق من إجاباتك: بعض الحقول لا تحتوي على إجابة صحيحة.",
+ "INVALIDFIELDS": "يُرجى التحقق من إجاباتك: {{n}} من حقول لا تحتوي على إجابة صحيحة.",
+ "LINKEDTO": "متصل بـ",
+ "DISABLEHAPTICFEEDBACK": "تعطيل ردود الفعل اللمسية",
+ "DELETEALLFILTERS": "هل أنت متأكد من أنك تريد مسح جميع الفلاتر السابقة؟",
+ "GRADE": "الدرجة",
+ "AUTORELOAD": "احتفظ بالقيمة",
+ "OUTOF100": "من أصل 100",
+ "RATED": "مصنّف",
+ "TOP": "أعلى",
+ "VIEWALL": "عرض الكل",
+ "LOCATIONEMPTY": "لم يتم العثور على متاجر من حولك.",
+ "SELECTMEMO": "تحديد قائمة مهام",
+ "SELECTMEMOS": "تحديد قوائم المهام",
+ "SELECTEDMEMO": "تم تحديد 1 قائمة مهام",
+ "SELECTEDMEMOS": "تم تحديد {{n}} قوائم مهام",
+ "SEEALL": "عرض الكل",
+ "JOINEDON": "انضم في",
+ "ADMIN": "مدير",
+ "NONAPPLICABLE": "غير قابل للتطبيق",
+ "SUMMARY": "الملخص",
+ "MISC": "متنوع",
+ "TUE": "الثلاثاء",
+ "THU": "الخميس",
+ "FRI": "الجمعة",
+ "SAT": "السبت",
+ "DRAFT": "مسودة",
+ "COMPLETED": "مكتمل",
+ "FILTERBY": "تصفية حسب",
+ "SELECTLOCATIONS": "اختر متجرًا أو أكثر",
+ "BOOKYOURJOURNEY": "احجز يومك التالي",
+ "HELLO_USER": "👋 {{day_period}}, {{user_firstname}}",
+ "MORNING": "صباح الخير",
+ "AFTERNOON": "نهار سعيد",
+ "EVENING": "مساء الخير",
+ "PHOTOTAKEN": "الصور الإلزامية: {{captured_number}}",
+ "UNSELECTALL": "\tإلغاء تحديد الكل",
+ "SELECT2": "حدد",
+ "ALLPHOTOTAKEN": "كل الصور التي التُقِطت",
+ "VIEWINSIGHTS": "عرض الرؤى",
+ "NETWORKSCORE": "درجة الشبكة",
+ "STARTDATE": "تاريخ البدء",
+ "ENDDATE": "تاريخ الانتهاء",
+ "TASKDETAIL": "تفاصيل المهمة",
+ "EDITTASK": "تحرير المهمة",
+ "NEXT": "التالي",
+ "GOBACK": "العودة",
+ "CONTACTSUPPORT": "الاتصال بالدعم",
+ "MAGICLINKREQUESTED": "لقد طلبت رابطًا سحريًا, انظر صندوق البريد الإلكتروني الوارد.  ",
+ "RESETPASSWORDREQUESTED": "لقد طلبت تغيير كلمة المرور, انظر صندوق البريد الإلكتروني الوارد.",
+ "JOURNEY": "تنزيل",
+ "GLADTOSEEYOU": "مرحبًا بك مرة أخرى!",
+ "UPLOADDATABASECONFIRM": "عدت للاتصال بالإنترنت! هل تريد مزامنة التغيرات التي لم تُحفظ؟",
+ "HELPPORTAL": "مركز التعليمات",
+ "UPLOADDATABASE": "تحميل قاعدة البيانات",
+ "SYNCINGDATABASECONFIRM": "جاري تنزيل إعدادات الوضع \"غير متصل\"",
+ "NETWORK": "الشبكة",
+ "SYCINGDATABASECONFIRM": "Back online! Do you want to sync unsaved changes?",
+ "SYNCHRONISATION": "المزامنة",
+ "ANDROIDPDFCONFIRM": "هل تريد تثبيت تطبيق PDF Viewer لأجهزة الجوال التي تعمل بنظام Android؟ ",
+ "MOVERIGHTTOTAKEPICTURE": "تحرك إلى اليمين لالتقاط صورة أخرى",
+ "VIDEOCALL": "مكالمة فيديو",
+ "VIDEOCALLCALLING": "{{user}} يتصل بك...",
+ "PICKANUMBER": "اختيار رقم",
+ "NODUEDATE": "لا يوجد تاريخ استحقاق",
+ "CONSTRUCTINGYOURSEARCH": "يُرجى الانتظار حتى نقوم بجلب جميع معلمات البحث خاصتك",
+ "COMPAREWITHLASTYEAR": "مقارنة مع العام الماضي",
+ "MAXIMUMCAPTURE": "الحد الأقصى لـ {{captured_number}}",
+ "YESTERDAY": "الأمس",
+ "DOWNLOAD": "تنزيل",
+ "6MONTHS": "ستة أشهر",
+ "3MONTHS": "3 اشهر",
+ "SUBMIT": "إرسال",
+ "IMAGES": "الصور",
+ "AUDIOS": "المقاطع الصوتية",
+ "MICROPHONE": "الميكروفون",
+ "AUDIOOUTPUT": "خرج الصوت",
+ "CAMERA": "الكاميرا",
+ "TABLEAU": "Tableau",
+ "COLLECTION": "مجموعة",
+ "IMPORTFROMLIBRARY": "استيراد من المكتبة",
+ "WAITINGTOCONNECT": "قيد انتظار المستخدم للاتصال",
+ "OPERATIONSTESTSETTINGSLOKALISE2": "[uk] test settings lokalise 2",
+ "CONTINUE": "مواصلة",
+ "CLONINGTENANT": "Cloning a company",
+ "SALESDATA": "بيانات المبيعات",
+ "ADDANACTIVITY": "تحديد خيار",
+ "PLUGININSTALL": "Chrome Web Extension {{link}}",
+ "PLUGINNOTINSTALL": "يُرجى تثبيت المكون الإضافي التالي",
+ "SEND": "إرسال",
+ "EDIT": "تعديل",
+ "RECENT": "Recent",
+ "WITHDATA": "مع بيانات",
+ "WEBSUBPLACEHOLDER": "Start browsing {{item}} from the left column",
+ "POSTS": "منشورات",
+ "WEBSUBPLACEHOLDERGENERIC": "Start browsing from the left column",
+ "LIKECOUNT": "إعجاب بـ {{count}}",
+ "CHATPLACEHOLDER": "💬 Chat with everyone in your team.",
+ "NEWCHAT": "دردشة جديدة",
+ "REPLY": "رد",
+ "APPLY": "طبّق",
+ "ADVANCED": "متقدم",
+ "ADVANCEDLOGIN": "تسجيل دخول متقدم",
+ "ASK": "إسأل",
+ "CLEAR": "حذف",
+ "CANCEL": "إلغاء",
+ "YES": "نعم",
+ "DEVICE": "جهاز",
+ "DONE": "منجز",
+ "GROUPS": "مجموعات",
+ "GROUP": "المجموعة",
+ "OLDPASSWORD": "كلمة المرور الخاصة السابقة",
+ "PLATFORM": "منصة",
+ "TAGS": "وسوم",
+ "SEARCH": "بحث",
+ "POSITION": "المركز",
+ "VERSION": "إصدار",
+ "DISABLEALLEMAILS": "إيقاف البريد الإلكتروني",
+ "TARGET": "الهدف",
+ "MAGICLINK": "إرسال رابط خفي",
+ "NO": "لا",
+ "COMPANY": "الشركة",
+ "TELEPHONE": "رقم الهاتف",
+ "ROLE": "الوظيفة",
+ "QUESTION": "سؤال",
+ "OK": "موافق",
+ "MOBILEVERSION": "إصدار الهاتف المحمول",
+ "GENDER": "الجنس",
+ "DATEOFBIRTH": "تاريخ الميلاد",
+ "CREATE": "إنشاء",
+ "HIRINGDATE": "Hiring date",
+ "ADDCOMMENT": "إضافة تعليق",
+ "LASTSEEN": "آخر اتصال",
+ "ONGOING": "جارٍ",
+ "GRIDSELECT": "حدد",
+ "CLIENTID": "معرّف العميل",
+ "CONTACTPHONE": "هاتف جهة الاتصال",
+ "SKIP": "تجاوز",
+ "ME": "أنا",
+ "COMBO": "اختيار وحيد",
+ "SELECT": "اختيار وحيد",
+ "COMBOMULTI": "اختيار متعدد",
+ "NUMBER": "العدد",
+ "RANKING": "ترتيب",
+ "SELECTIMAGE": "خيار الصور",
+ "HTTPERRORRESPONSE": "يُرجى التحقق من اتصالك بالإنترنت",
+ "DATE": "تاريخ",
+ "CREATIONDATE": "تم إنشاؤه في",
+ "TIME": "الساعة",
+ "TEL": "رقم الهاتف",
+ "ADD": "إضافة",
+ "NEW": "جديد",
+ "COPY": "نسخ",
+ "LOAD": "تحميل",
+ "ALLOWCOMMENTS": "تعليقات",
+ "SAVING": "الحفظ جارٍ",
+ "RETRY": "أعد المحاولة",
+ "DATA": "بيانات",
+ "PIE": "دائرة",
+ "BAR": "شريط",
+ "COLUMN": "أعمدة",
+ "LINE": "خط",
+ "BYDATE": "حسب التاريخ",
+ "INFORMATION": "معلومات",
+ "ROLES": "سجلات",
+ "SUPPORT": "دعم",
+ "VALUE": "قيمة",
+ "TEAM": "فريق",
+ "ALLOWLIBRARY": "السماح باستيراد المكتبة",
+ "OFFLINEMODE": "لا يوجد اتصال بالإنترنت / نمط غير متصل",
+ "NOTIFICATIONEMAILS": "بريد إلكتروني للإشعار",
+ "VALIDATEDBY": "تمت المصادقة عليه من قبل",
+ "INFO": "معلومات",
+ "FILTERS": "تصفيات",
+ "DUEDATE": "آخر أجل",
+ "LOADMORE": "إظهار المزيد...",
+ "OFFLINE": "غير متصل",
+ "SHOWANSWERS": "عرض الأجوبة",
+ "CHECK": "تحقق",
+ "NOTAVAILABLE": "غير متوفر",
+ "VIDEOS": "فيديوهات",
+ "DOWNLOADSUCCESS": "تم التنزيل بنجاح",
+ "COMMENTNOUN": "تعليق",
+ "GEOFILTER": "فلتر جغرافي",
+ "GEOFILTERS": "فلاتر جغرافية",
+ "PDFEXPORT": "التصدير على شكل PDF",
+ "FAVOURITE": "إضافة إلى المفضلة",
+ "UNFAVOURITE": "إزالة من المفضلة",
+ "EDITINGCOMMENT": "تعديل تعليقك",
+ "POST": "منشور",
+ "QUIZZ": "كويز",
+ "QUESTIONS": "أسئلة",
+ "DOCUMENT": "مستند",
+ "NOTIFICATIONS": "إشعارات",
+ "LESSON": "الدرس",
+ "ROLEMANAGER": "المدير",
+ "ROLEEDITOR": "المحرر",
+ "ROLEVIEWER": "المشاهد",
+ "ROLEFIELD": "الفريق الميداني",
+ "ROLESTOREMANAGER": "مدير المتجر",
+ "ROLESTORE": "فريق المتجر",
+ "ROLEADMIN": "مدير",
+ "QUERYISTOOBIG": "الاستفسار كبير للغاية",
+ "RECENTS": "الحديثة",
+ "BROWSE": "تصفح",
+ "REMEMBERME": "تذكرني",
+ "VIDEOPLAYER": "مُشغل مقاطع الفيديو",
+ "BADGE": "الشارة",
+ "INSTAGRAM": "انستجرام",
+ "PROPERTIES": "الخصائص",
+ "SYNC": "مزامنة",
+ "GAME": "الألعاب",
+ "TENANT": "المستأجر",
+ "TENANTS": "المستأجرون",
+ "EXPLANATIONDOCUMENT": "وثيقة التفسير",
+ "MULTIPHOTOS": "صور متعددة",
+ "MISSINGWORD": "كلمات مفقودة",
+ "SWIPESELECT": "سحب",
+ "KNOB": "زر",
+ "SENTENCE": "جملة",
+ "CONNECT": "اتصال",
+ "HOUR": "ساعة",
+ "MINUTE": "دقيقة",
+ "PAUSE": "إيقاف مؤقت",
+ "GAMEOVER": "انتهت اللعبة",
+ "MEMORY-GAME-INSTRUCTIONS": "احفظ البطاقات المقترنة!",
+ "ASSIGN": "تعيين",
+ "TOMORROW": "غدًا",
+ "USERACTIVE": "المستخدمون النشطون",
+ "VIEWLESS": "عرض أقل",
+ "STOREMANAGER": "مدير المتجر",
+ "REGIONALMANAGER": "المدير الإقليمي",
+ "HEADQUARTER": "المقر الرئيسي",
+ "INTRODUCTION": "المقدمة",
+ "LATE": "متأخر",
+ "DELETECONFIRM": "هل أنت متأكد من أنك تريد حذف هذا العنصر؟",
+ "PASSWORDENTER": "أدخل كلمة المرور الخاصة بك",
+ "TIMEFORMAT": "HH:mm (الساعة:الدقيقة)",
+ "SMS": "رسالة قصيرة",
+ "DISABLEALLSMS": "فصل كافة الرسائل القصيرة",
+ "DISABLEALLPUSH": "إيقاف كافة الإشعارات",
+ "DATETIME": "التاريخ والوقت",
+ "FORMATDATE": "يوم/شهر/سنة",
+ "FORMATDATEPICKER": "يوم شهر سنة",
+ "FORMATDATETIME": "يوم/شهر/سنة ساعة:دقيقة",
+ "FORMATDATETIMEPICKER": "يوم شهر سنة ساعة:دقيقة",
+ "FORMATTIME": "ساعة:دقيقة",
+ "FORMATTIMEPICKER": "ساعة:دقيقة",
+ "COLUMNS": "أعمدة",
+ "TIMER": "كرونومتر",
+ "TIMEIN": "ساعة الانطلاق",
+ "TIMEOUT": "ساعة النهاية",
+ "HOURINITIAL": "س",
+ "MINUTEINITIAL": "د",
+ "RESET": "إعادة التهيئة",
+ "RESUME": "مواصلة",
+ "CREATEDBY": "قام بإنشائه",
+ "VIEWS": "تم مشاهدته",
+ "MORE": "متقدم",
+ "TAG": "وسم",
+ "XAXIS": "محور سيني",
+ "YAXIS": "محور ص",
+ "AGGRIDPAGE": "صفحة",
+ "AGGRIDMORE": "إظهار المزيد",
+ "AGGRIDTO": "من",
+ "AGGRIDOF": "إلى",
+ "AGGRIDNEXT": "التالي",
+ "AGGRIDLAST": "الأخير",
+ "AGGRIDFIRST": "الأول",
+ "AGGRIDPREVIOUS": "السابق",
+ "AGGRIDLOADINGOOO": "تحميل...",
+ "AGGRIDSELECTALL": "اختيار الكل",
+ "AGGRIDSEARCHOOO": "بحث...",
+ "AGGRIDBLANKS": "فارغ",
+ "AGGRIDFILTEROOO": "فلتر...",
+ "AGGRIDAPPLYFILTER": "تطبيق فلتر",
+ "AGGRIDEQUALS": "يساوي",
+ "AGGRIDLESSTHAN": "أصغر من",
+ "AGGRIDGREATERTHAN": "أكبر من",
+ "AGGRIDCONTAINS": "يتضمن",
+ "AGGRIDSTARTSWITH": "البدء بـ",
+ "AGGRIDENDSWITH": "الانتهاء بـ",
+ "AGGRIDGROUP": "المجموعة",
+ "AGGRIDCOLUMNS": "أعمدة",
+ "AGGRIDROWGROUPCOLUMNS": "أعمدة المجموعة",
+ "AGGRIDROWGROUPCOLUMNSEMPTYMESSAGE": "نقل أعمدة هنا لتجميعها",
+ "AGGRIDVALUECOLUMNS": "أعمدة القيمة",
+ "AGGRIDPIVOTMODE": "نمط المحور",
+ "AGGRIDGROUPS": "مجموعات",
+ "AGGRIDVALUES": "قيم",
+ "AGGRIDPIVOTS": "محاور",
+ "AGGRIDVALUECOLUMNSEMPTYMESSAGE": "نقل أعمدة هنا لتكديسها",
+ "AGGRIDPIVOTCOLUMNSEMPTYMESSAGE": "نقل أعمدة هنا لتدويرها",
+ "AGGRIDNOROWSTOSHOW": "لا توجد بيانات للعرض",
+ "AGGRIDPINCOLUMN": "تثبيت هذا العمود",
+ "AGGRIDVALUEAGGREGATION": "قيمة التراكم",
+ "AGGRIDAUTOSIZETHISCOLUMN": "تغيير أبعاد هذا العمود",
+ "AGGRIDAUTOSIZEALLCOLUMNS": "تغيير أبعاد كافة الأعمدة",
+ "AGGRIDGROUPBY": "تجميع حسب",
+ "AGGRIDUNGROUPBY": "عدم تجميع حسب",
+ "AGGRIDRESETCOLUMNS": "إعادة تهيئة الأعمدة",
+ "AGGRIDEXPANDALL": "توسيع الكل",
+ "AGGRIDCOLLAPSEALL": "غلق الكل",
+ "AGGRIDTOOLPANEL": "عرض/إخفاء الأدوات",
+ "AGGRIDPINLEFT": "تثبيت إلى اليسار",
+ "AGGRIDPINRIGHT": "تثبيت إلى اليمين",
+ "AGGRIDNOPIN": "لا تثبت",
+ "AGGRIDSUM": "مجموع",
+ "AGGRIDMIN": "أقصى",
+ "AGGRIDMAX": "أدنى",
+ "AGGRIDNONE": "لا شيء",
+ "AGGRIDCOUNT": "عملية حسابية",
+ "AGGRIDAVERAGE": "متوسط",
+ "AGGRIDCOPY": "نسخ",
+ "AGGRIDCTRLC": "CTRL + C",
+ "AGGRIDPASTE": "لصق",
+ "AGGRIDCTRLV": "CTRL + V",
+ "CLUSTER": "عرض عنقودي",
+ "CHARTTYPE": "نوع الرسم الغرافيكي",
+ "DATABASE": "قاعدة بيانات",
+ "WALKING": "مشياً",
+ "CYCLING": "باستخدام الدراجة",
+ "DRIVING": "في السيارة",
+ "RANK": "الموقع في الترتيب",
+ "UNDO": "العودة إلى الخلف",
+ "MAXWIDTH": "عرض أقصى (بكسل)",
+ "TRANSLATIONS": "ترجمات",
+ "LIKES": "إعجابات",
+ "LIST": "قائمة",
+ "IN": "من ضمن",
+ "EQUALS": "يساوي",
+ "GREATERTHAN": "أكبر من",
+ "LESSTHAN": "أصغر من",
+ "LIKE": "أعجبني",
+ "EXISTS": "موجود",
+ "VIEWUSER": "مشاهدة المستخدم",
+ "COLLAPSE": "إخفاء",
+ "VISIBLE": "عرض",
+ "YEAR": "سنة",
+ "QUARTER": "فصل",
+ "MONTH": "شهر",
+ "WEEK": "أسبوع",
+ "DAY": "يوم",
+ "CHART": "رسم جرافيكي",
+ "GRID": "جدول",
+ "DEBUG": "تشغيل نمط التصحيح",
+ "PDF": "PDF",
+ "OPTIONS": "خيارات",
+ "GROUPBYDATE": "تجميع حسب التاريخ",
+ "DATETIMEFORMAT": "صيغة التاريخ والوقت",
+ "GROUPBY": "تجميع حسب",
+ "MISSINGCREDENTIALS": "يطلب إدخال اسم المستخدم/كلمة المرور",
+ "RequestError": "تأكد أنك متصل بالإنترنت",
+ "NoAccess": "للأسف لا يمكنك الدخول إلى هذا التطبيق",
+ "UNKNOWN_ERROR": "خطأ مجهول",
+ "ERROR": "خطأ",
+ "MALE": "رجل",
+ "FEMALE": "امرأة",
+ "YEARS": "عام (أعوام)",
+ "CONFIRM": "تأكيد",
+ "CREATED": "تم إنشاؤه",
+ "COMMENTS": "تعليقات",
+ "SHARE": "تقاسم",
+ "COMMENT": "تعليق",
+ "LOADING": "تحميل",
+ "FILTER": "فلتر",
+ "LIBRARY": "مكتبة",
+ "PREVIEW": "لمحة",
+ "UserLockedDown": "لقد تم تعليق حسابك.",
+ "AlreadyLoggedIn": "إنك متصل",
+ "SocialError": "لا يمكن الاتصال بالفيسبوك حالياً",
+ "UserAlreadyExists": "اسم المستخدم هذا أخذه شخص آخر...",
+ "UserUnavailable": "اسم المستخدم هذا أخذه شخص آخر...",
+ "IncompleteRequestBody": "بيانات مفقودة",
+ "IMPORT": "استيراد",
+ "TODAY": "اليوم",
+ "TIMESCALE": "سلم الوقت",
+ "LAST7DAYS": "آخر 7 أيام",
+ "DURATION": "المدة",
+ "GENERAL": "عامْ",
+ "ANSWERS": "إجابة (إجابات)",
+ "NAME": "الاسم",
+ "MIN": "أدنى",
+ "MAX": "أقصى",
+ "VALUES": "قيم",
+ "MANDATORY": "إجباري",
+ "ORDER": "ترتيب",
+ "MAP": "خارطة",
+ "ADDNEW": "إضافة...",
+ "NOTIFY": "إشعارات",
+ "TOTAL": "المجموع",
+ "NOTIFICATION": "إشعار",
+ "DATES": "تواريخ",
+ "USERS": "مستخدمون",
+ "USER": "مستخدم",
+ "ICON": "أيقونة",
+ "COUNT": "كمية",
+ "SUM": "مجموع",
+ "AVERAGE": "متوسط",
+ "DELETEALL": "حذف الكل",
+ "DELETEALLCONFIRM": "هل أنت متأكد من حذف {{total}} الكيان (الكيانات)؟",
+ "EXPORT": "تصدير",
+ "ACL": "تراخيص",
+ "FIRST": "الأول",
+ "PREVIOUS": "السابق",
+ "AVG": "متوسط",
+ "LAST": "الأخير",
+ "SAVE": "حفظ",
+ "RESETPASSWORD": "إعادة ضبط كلمة المرور",
+ "RESETPASSWORDDESCRIPTION": "سيتم تزويدك بكلمة المرور الجديدة بالبريد الإلكتروني...",
+ "RESETPASSWORDOK": "تم إرسال كلمة المرور الجديدة بالبريد الإلكتروني...",
+ "RESETPASSWORDERROR": "لا يوجد أي مستخدم مطابق للعنوان المستخدم",
+ "REQUESTERROR": "لم نتمكن من الحصول على البيانات. تأكد أنك متصل بالإنترنت",
+ "SAVENOTVALID": "الرجاء التأكد من ملء كافة الحقول الإجبارية (*) كما ينبغي",
+ "SAVECONFIRMPROFILE": "هل أنت متأكد من حفظ ملف تعريفك؟",
+ "SECURITY": "إدارة الحقوق",
+ "SETTINGS": "الإعدادات",
+ "SHOW": "عرض",
+ "DESCRIPTION": "وصف",
+ "RATING": "ترتيب",
+ "DELETE": "حذف",
+ "UPDATE": "تحديث",
+ "VIEW": "مشاهدة",
+ "TITLE": "عنوان",
+ "REFRESH": "تحديث",
+ "FILES": "ملفات",
+ "DOCUMENTS": "مستندات",
+ "TYPE": "نوع",
+ "SIZE": "حجم",
+ "ADDRESS": "العنوان",
+ "END": "نهاية",
+ "BACK": "عودة",
+ "PASSWORDDONOTMATCH": "كلمات المرور غير متطابقة",
+ "CHANGEPASSWORDOK": "لقد تم تغيير كلمة المرور الخاصة بك.",
+ "CHANGEPASSWORDERROR": "لقد وقعت مشكلة أثناء تغيير كلمة المرور.",
+ "PASSWORDIDENTICAL": "كلمات المرور متطابقة",
+ "NEWPASSWORD": "كلمة المرور الخاصة الجديدة",
+ "INVALID_PASSWORD": "كلمة المرور المحددة غير صحيحة.",
+ "ADDAPHOTO": "انقر هنا لإضافة صورة",
+ "CHANGEPHOTO": "انقر على الصورة لتغييرها...",
+ "PERSONALINFO": "معلومات شخصية",
+ "EMAIL": "عنوان بريد إلكتروني",
+ "EMAILS": "عناوين بريد إلكتروني",
+ "FIRSTNAME": "الاسم الشخصي",
+ "LASTNAME": "الاسم العائلي",
+ "SIGNUP": "التسجيل",
+ "SIGNIN": "اتصل",
+ "FORGOTPASSWORD": "نسيت كلمة المرور؟",
+ "EMAILPLACEHOLDER": "بريدك الإلكتروني",
+ "PASSWORDPLACEHOLDER": "كلمة المرور الخاصة بك",
+ "TERMSANDCONDITION": "شروط عامة",
+ "EMAILREQUIRED": "يجب إدخال بريد إلكتروني صالح",
+ "PASSWORDREQUIRED": "يجب إدخال كلمة مرور صالحة",
+ "PASSWORDTOOSHORT": "يجب إدخال 6 رموز على الأقل",
+ "NONE": "لا شيء",
+ "FROM": "من",
+ "UNTIL": "إلى",
+ "ANSWER": "إجابة",
+ "EXPLANATION": "توضيحات",
+ "VIEWPHOTO": "مشاهدة الصورة",
+ "DELETEPHOTO": "حذف الصورة",
+ "DELETEPHOTOSINALBUM": "لا تخزن الصور في الألبوم",
+ "COMPONENTS": "مكونات",
+ "CONTACTFIRSTNAME": "الاسم الشخصي",
+ "CONTACTLASTNAME": "الاسم العائلي",
+ "CUSTOMMODELS": "نماذج مُخصصة",
+ "EXPORTALLCONFIRM": "هل أنت متأكد من تصدير {{total}} الكيان (الكيانات)؟",
+ "EDITALLCONFIRM": "هل أنت متأكد من تعديل {{total}} الكيان (الكيانات)؟",
+ "EDITALL": "تعديل الكل",
+ "COLLECTIONS": "تشكيلات",
+ "VIDEO": "فيديو",
+ "AUDIO": "مقطع سمعي",
+ "IMAGE": "صورة",
+ "CUSTOMMODEL": "نموذج مُخصص",
+ "GRIDUNSELECTALL": "\tإلغاء تحديد الكل",
+ "GRIDSELECTALL": "تحديد الكل",
+ "CONTACTEMAIL": "البريد الإلكتروني لجهة الاتصال",
+ "CONTACTNAME": "اسم جهة الاتصال",
+ "MAXIMUMCAPTUREREACHED": "الحد الأقصى للصور التي تم التقاطها",
+ "SENDBY": "إرسال بواسطة",
+ "PROTECTED": "محمي",
+ "SSOONLY": "SSO فقط",
+ "LOCATIONKPIS": "Location KPIs definition",
+ "PLACEMENTINTRODUCTION": "Placement Introduction",
+ "DRAGRIGHTWORDS": "Drag the words into the correct spaces:",
+ "ALLNOTIFICATION": "الإشعارات + البريد الإلكتروني",
+ "VIEWPROFILE": "عرض الملف التعريفي",
+ "CHANGEDISPLAYMODE": "تغيير وضع العرض",
+ "DUPLICATE": "تكرار",
+ "TIMELINE": "Timeline",
+ "LASTNOTIFICATIONSENT": "أحدث إشعارات تم إرسالها",
+ "NOTIFICATIONSEND": "لقد أرسلنا {{count}} إشعارا (إشعارات)",
+ "NOTIFYCONFIRM": "هل أنت متأكد من إشعار {{total}} مستخدما (مستخدمين)؟",
+ "NOTIFYMISSIONBODY": "لا تنس إكمال مهمتك!",
+ "NOTIFYMISSIONHEADER": "إخطار مستخدمي المتجر الذين لم يكملوا المهمة",
+ "NOTIFYUSER": "إرسال إشعار",
+ "PREVIEWUSERS": "معاينة المستخدمين",
+ "SENDNOTIFICATION": "إرسال إشعار",
+ "SENDNOTIFICATIONCONFIRM": "هل أنت متأكد من إرسال {{total}} إشعار (إشعارات)؟",
+ "REPLY_TO": "إجابة لـ",
+ "STOREEMPLOYEE": "Store employee",
+ "CONNECTWORDS": "Connect the words",
+ "MATCHWORDS": "Match the words with their similar meaning",
+ "KEYBOARD": "لوحة المفاتيح",
+ "SENDANEWPHOTOINCHANNEL": "أرسل {{user}} صورة جديدة في {{channel}}",
+ "SENDANEWPHOTO": "أرسل {{user}} صورة جديدة",
+ "CATALOGS": "كتالوجات",
+ "SMARTTAGID": "Light up smart tags",
+ "STARTEDBY": "البداية حسب",
+ "SELECTALLAPPLY": "Please select all that apply",
+ "INSTRUCTIONS": "تعليمات",
+ "DRAGDROPTAGS": "Drag and drop the tags onto the pins.",
+ "FLOP": "Flop",
+ "PUBLICAPITOKENS": "Service Accounts",
+ "CLOSE": "أغلق",
+ "OPEN": "Open",
+ "DOWNLOADFAILED": "Download Failed",
+ "UPDATEMEDIASETTINGS": "Update media settings",
+ "NOWEBCAM": "No camera found",
+ "CALLENDED": "Sorry, The caller has left",
+ "ATTACHMENTS": "Attachment",
+ "ATTACHMENT": "Attachments",
+ "DISABLETRACKING": "Disable tracking",
+ "DISABLEDATABASESYNC": "Disable database sync",
+ "PRINTEXCEL": "Print to excel",
+ "SELECTONE": "Please select one choice",
+ "SORTBY": "الفرز بواسطة",
+ "MAINCONTACT": "Main Contact",
+ "NA": "N/A",
+ "CAMPAIGNTYPE": "Campaign Type",
+ "EDITED": "Edited",
+ "ALLOWMULTIPLE": "Allow multiple",
+ "AUTORENEW": "Republish a new mission on the same store when a mission is finished",
+ "AUTORENEWONBOOKING": "Republish a new mission on the same store when a mission is started",
+ "TIMELINEENTERID": "Enter the entity ObjectId",
+ "DOC": "Doc",
+ "CTXDATA": "Context Data",
+ "CURRENTINSTANCE": "Current Instance",
+ "WHERE": "Where",
+ "DAOMETHODNAME": "Doa Method Name",
+ "SELECTACTION": "Select",
+ "SAVEANDCLOSE": "Save & Close",
+ "YOOBICADMIN": "YOOBIC Admin",
+ "SELECTEDUSER": "اخترت مستخدمًا واحدًا",
+ "SELECTEDUSERS": "اخترت {{n}} مستخدمًا",
+ "SELECTUSERS": "اختيار مستخدمين",
+ "RECIPIENTS": "Recipients",
+ "ISTYPING": "is typing",
+ "GRIDTOTAL": "🔎 You have {{total}} items",
+ "EDITTAG": "تحرير العلامة",
+ "ADDNEWTAG": "Add tag",
+ "FILTERTOVIEWMORE": "Add a filter to view more",
+ "CATEGORY": "فئة",
+ "CATEGORIES": "فئات",
+ "DASHBOARDPDFTWOCOLUMNS": "2 Columns",
+ "DASHBOARDPDFTWOCOLUMNSDESCRIPTION": "Export with a 2 column layout...",
+ "DASHBOARDPDFSINGLECOLUMN": "1 Column",
+ "DASHBOARDPDFSINGLECOLUMNDESCRIPTION": "Export in a single column with bigger charts ...",
+ "ALLTABS": "All tabs",
+ "EXPORTPNG": "Export PNG",
+ "EXPORTCSV": "Export CSV",
+ "EXPORTEXCEL": "Export Excel",
+ "EDITINFO": "Edit Info",
+ "EDITALLCHARTS": "Edit all charts",
+ "CONFIRMDELETEDASHBOARD": "Are you sure you want to delete this dashboard ?",
+ "CONFIRMDELETEDASHBOARDCHART": "Are you sure you want to delete this chart ?",
+ "CONFIRMDELETEDASHBOARDTAB": "Are you sure you want to delete this tab ?",
+ "DELETEDASHBOARD": "Delete this dashboard",
+ "DELETEDASHBOARDCHART": "Delete Chart",
+ "DELETEDASHBOARDTAB": "Delete Tab",
+ "COPYTOANOTHERTAB": "Copy to another tab",
+ "CLICKCHARTTOSEEDETAILS": "Click Chart to see details",
+ "ADDCHART": "Add a chart",
+ "IGNOREREJECTED": "Ignore not compliant missions",
+ "IGNOREUNVISITED": "Ignore unvisited",
+ "SHOWVALUES": "Show values labels",
+ "STACKED": "Stacked",
+ "SPLINE": "Spline",
+ "AREASPLINE": "Areaspline",
+ "RADAR": "Radar",
+ "DOUGHNUT": "Doughnut",
+ "TREEMAP": "Treemap",
+ "USECREATIONDATE": "Use creation date",
+ "POINTPADDING": "Column padding",
+ "NUMBERPRECISION": "Number precision",
+ "SHOWDELTA": "Show delta",
+ "SHOWCUMULATE": "Show cumulative",
+ "GROUPBYCAMPAIGN": "Group by campaign",
+ "GROUPBYTAG": "Group by tag",
+ "SPLITSERIESINCHARTS": "Split series in different charts",
+ "IGNORENA": "Ignore N/A",
+ "VALIDATEDONLY": "Validated only",
+ "SHOWLEGEND": "Show legend",
+ "LASTUPDATE": "آخر تحديث",
+ "SAVED": "تم الحفظ",
+ "USERDOESNTEXISTS": "Sorry, we could not find this user ...",
+ "TOGGLE": "تبديل",
+ "COMBOBUTTONS": "اختيار المفاتيح",
+ "COMBOMULTIBUTTONS": "اختيار مفاتيح متعدد",
+ "SELECTBUTTONS": "اختيار المفاتيح",
+ "SELECTBUTTONSMULTI": "اختيار مفاتيح متعدد",
+ "SELECTMULTI": "اختيار متعدد",
+ "ADDFIRSTCHART": "Start adding the first chart to the page",
+ "ENTERNEWTITLE": "Enter a new title",
+ "APPLYALLTAB": "Apply to all tabs",
+ "APPLYACTIVETAB": "Apply to active tab",
+ "DONTSAVE": "Don't save",
+ "SAVECHANGESCONFIRM": "Do you want to save your modifications ?",
+ "USEAUTOSAVE": "Use Auto Save",
+ "BETWEEN": "Between",
+ "TIMESPAN": "Timespan",
+ "ADDNEWTAB": "Add a new tab",
+ "INVITEPEOPLE": "Invite People",
+ "PASTCHART": "Past Chart",
+ "PUBLISHDASHBOARDCOUNT": "This dashboard has been pushed to {{count}} user(s)",
+ "LASTPUBLISHEDDATE": "Last published",
+ "PERMISSIONSLIST": "Permissions list",
+ "TEAMS": "Teams",
+ "MULTIMEDIA": "Multimedia",
+ "FEEDBACK": "Feedback",
+ "NUMBERPICKER": "Number picker",
+ "ACTION": "Action",
+ "DATEANDTIME": "Date and Time",
+ "READONLY": "Readonly",
+ "CATALOGANDBARCODE": "Catalog and Barcode",
+ "CONTACTDETAIL": "Contact details",
+ "BLOCKS": "Blocks",
+ "CONTENT": "Content",
+ "NEWPAGE": "New Page",
+ "INSERTPAGEAFTER": "Insert Page After",
+ "MOVEUP": "Move Up",
+ "MOVEDOWN": "Move Down",
+ "SAVEASTEMPLATE": "Save as template",
+ "MARKASMANDATORY": "Mark as mandatory",
+ "IMPORTCSV": "Import CSV",
+ "PLACEHOLDER": "Placeholder",
+ "ADDNEWPAGE": "+ New Page",
+ "IMAGETAGGING": "Image Tagging",
+ "SWIPECARDS": "Swipe",
+ "CATEGORIZEWORDS": "Categorize Words",
+ "PLAN": "Course",
+ "QUIZ": "Quiz",
+ "PAGETITLE": "Page Title",
+ "EMPTYFORMCREATOR": "Select or drop some fields here",
+ "SELECTCHAT": "Select Chat",
+ "LESSONS": "Lessons",
+ "OPTIONAL": "اختياري",
+ "CARDSWIPEDEFAULTINSTRUCTIONS": "Swipe the cards right or left to their correct categories",
+ "SWIPELEFT": "Swipe left",
+ "SWIPERIGHT": "Swipe right",
+ "TYPENUMBERBETWEEN": "Please answer between {{min}} and {{max}}",
+ "BADGES": "Badges",
+ "RESIZE": "Resize",
+ "FILEERROR": "File is too big or format is not supported",
+ "SECTION": "Section",
+ "DURATIONMIN": "Duration (minutes)",
+ "PREVENTRETRY": "Prevent retry",
+ "POINTS": "Points",
+ "TIMEDQUIZZ": "Timed Quiz",
+ "BATTLEQUIZZ": "Battle Quiz",
+ "MINCORRECTANSWERS": "Min. correct answers",
+ "ANNOTATIONS": "Annotations",
+ "MULTIPLE": "Multiple",
+ "TEXTIMAGE": "Text and Image",
+ "NEWVIDEOCALL": "New video call",
+ "VIDEOCHATCREATEDESCRIPTION": "Start a video call with anyone in your team",
+ "TYPENUMBERGREATERTHAN": "Please type a number greater than {{min}}",
+ "TYPENUMBERLOWERTHAN": "Please type a number lower than {{max}}",
+ "TYPENUMBER": "Please type a number",
+ "RANKITEMS": "Please order the items from most important to least important",
+ "SELECTFEEDBACK": "Please select from poor, neutral or excellent",
+ "USER_ARCHIVE": "Archived Users",
+ "ARCHIVE": "حفظ في الأرشيف",
+ "UNARCHIVE": "Unarchive",
+ "ARCHIVEUSERCONFIRM": "Are you sure you want to archive {{username}} ?",
+ "UNARCHIVEUSERCONFIRM": "Are you sure you want to unarchive {{username}} ?",
+ "BIC": "BIC",
+ "EN": "English",
+ "FR": "Français",
+ "US": "English US",
+ "ES": "Español",
+ "NL": "Nederlands",
+ "PL": "Polski",
+ "DE": "Deutsch",
+ "RU": "русский",
+ "IT": "Italiano",
+ "PT": "Portuguese PT",
+ "KR": "한국어",
+ "JA": "日本語",
+ "UA": "Українська",
+ "HE": "עברית",
+ "AR": "عربية",
+ "CZ": "česky",
+ "TH": "ไทย",
+ "TR": "Türkçe",
+ "BG": "Болгарьска",
+ "EL": "Ελληνικά",
+ "SL": "Slovenščina",
+ "SK": "Slovenčina",
+ "PLANASSIGN": "Course assign",
+ "ADDUSERS": "Add users",
+ "CHANNELS": "Channels",
+ "TAGGROUPS": "Groups of tags",
+ "ADDPLANS": "Add Plans",
+ "DELETECONFIRMFIELD": "Are you sure you want to delete this field?",
+ "DELETECONFIRMPAGE": "Are you sure you want to delete this page?",
+ "BR": "Portuguese BR",
+ "ET": "Eesti",
+ "HU": "Magyar",
+ "RO": "Română",
+ "ZHT": "繁體中文",
+ "ZHS": "简体中文",
+ "MAXHEIGHT": "Max height (px)",
+ "TERMSANDCONDITIONCONTENT": "1.\tIntroduction\n1.1\tThis acceptable use policy (the \"Policy\") sets out the rules governing:\n(a)\tthe use of the website at https://dashboard.yoobic.com any successor website, and the services available on that website or any successor website and Yoobic mobile app on GooglePlay and AppStore (the \"Services\"); and\n(b)\tthe transmission, storage and processing of content by you, or by any person on your behalf, using the Services (\"Content\").\n1.2\tReferences in this Policy to \"you\" are to any customer for the Services and any individual user of the Services (and \"your\" should be construed accordingly); and references in this Policy to \"us\" are to [identify provider] (and \"we\" and \"our\" should be construed accordingly).\n1.3\tBy using the Services, you agree to the rules set out in this Policy.\n1.4\tWe will ask for your express agreement to the terms of this Policy before you upload or submit any Content or otherwise use the Services.\n1.5\tYou must be at least 18 years of age to use the Services; and by using the Services, you warrant and represent to us that you are at least 18 years of age .\n2.\tGeneral usage rules\n2.1\tYou must not use the Services in any way that causes, or may cause, damage to the Services or impairment of the availability or accessibility of the Services.\n2.2\tYou must not use the Services:\n(a)\tin any way that is unlawful, illegal, fraudulent or harmful; or\n(b)\tin connection with any unlawful, illegal, fraudulent or harmful purpose or activity.\n2.3\tYou must ensure that all Content complies with the provisions of this Policy.\n3.\tUnlawful Content\n3.1\tContent must not be illegal or unlawful, must not infringe any person's legal rights, and must not be capable of giving rise to legal action against any person (in each case in any jurisdiction and under any applicable law).\n3.2\tContent, and the use of Content by us in any manner licensed or otherwise authorised by you, must not:\n(a)\tbe libellous or maliciously false;\n(b)\tbe obscene or indecent;\n(c)\tinfringe any copyright, moral right, database right, trade mark right, design right, right in passing off, or other intellectual property right;\n(d)\tinfringe any right of confidence, right of privacy or right under data protection legislation;\n (f)\tconstitute an incitement to commit a crime, instructions for the commission of a crime or the promotion of criminal activity;\n(g)\tbe in contempt of any court, or in breach of any court order;\n(h)\tconstitute a breach of racial or religious hatred or discrimination legislation;\n(i)\tbe blasphemous;\n(j)\tconstitute a breach of official secrets legislation; or\n(k)\tconstitute a breach of any contractual obligation owed to any person.\n3.3\tYou must ensure that Content is not and has never been the subject of any threatened or actual legal proceedings or other similar complaint.\n4.\tGraphic material\n4.1\tContent must be appropriate for all persons who have access to or are likely to access the Content in question.\n4.2\tContent must not depict violence in an explicit, graphic or gratuitous manner.\n4.3\tContent must not be pornographic or sexually explicit.\n5.\tFactual accuracy\n5.1\tContent must not be untrue, false, inaccurate or misleading.\n5.2\tStatements of fact contained in Content and relating to persons (legal or natural) must be true; and statements of opinion contained in Content and relating to persons (legal or natural) must be reasonable, be honestly held and indicate the basis of the opinion.\n6.\tNegligent advice\n6.1\tContent must not consist of or contain any legal, financial, investment, taxation, accountancy, medical or other professional advice, and you must not use the Services to provide any legal, financial, investment, taxation, accountancy, medical or other professional advisory services.\n6.2\tContent must not consist of or contain any advice, instructions or other information that may be acted upon and could, if acted upon, cause death, illness or personal injury, damage to property, or any other loss or damage.\n7.\tEtiquette\n7.1\tContent must be appropriate, civil and tasteful, and accord with generally accepted standards of etiquette and behaviour on the internet.\n7.2\tContent must not be offensive, deceptive, threatening, abusive, harassing, menacing, hateful, discriminatory or inflammatory.\n7.3\tContent must not be liable to cause annoyance, inconvenience or needless anxiety.\n7.4\tYou must not use the Services to send any hostile communication or any communication intended to insult, including such communications directed at a particular person or group of people.\n7.5\tYou must not use the Services for the purpose of deliberately upsetting or offending others.\n7.6\tYou must not unnecessarily flood the Services with material relating to a particular subject or subject area, whether alone or in conjunction with others.\n7.7\tYou must ensure that Content does not duplicate other content available through the Services.\n7.8\tYou must ensure that Content is appropriately categorised.\n7.9\tYou should use appropriate and informative titles for all Content.\n7.10\tYou must at all times be courteous and polite to other users of the Services.\n8.\tMarketing and spam\n8.1\tContent must not constitute or contain spam, and you must not use the Services to store or transmit spam - which for these purposes shall include [all unlawful marketing communications and unsolicited commercial communications].\n8.2\tYou must not use the Services to promote or operate any chain letters, Ponzi schemes, pyramid schemes, matrix programs, \"get rich quick\" schemes or similar letters, schemes or programs.\n9.\tGambling\n9.1\tYou must not use the Services for any purpose relating to gambling, gaming, betting, lotteries, sweepstakes, prize competitions or any gambling-related activity.\n10.\tMonitoring\n10.1\tYou acknowledge that we do not actively monitor the Content or the use of the Services.\n11.\tData mining\n11.1\tYou must not conduct any systematic or automated data scraping, data mining, data extraction or data harvesting, or other systematic or automated data collection activity, by means of or in relation to the Services.\n12.\tHyperlinks\n12.1\tYou must not link to any material using or by means of the Services that would, if it were made available through the Services, breach the provisions of this Policy.\n13.\tHarmful software\n13.1\tThe Content must not contain or consist of, and you must not promote or distribute by means of the Services, any viruses, worms, spyware, adware or other harmful or malicious software, programs, routines, applications or technologies.\n13.2\tThe Content must not contain or consist of, and you must not promote or distribute by means of the Services, any software, programs, routines, applications or technologies that will or may have a material negative effect upon the performance of a computer or introduce material security risks to a computer.\n",
+ "BLOCK": "Block",
+ "TODAYSACTIVITY": "Today's Activity",
+ "FOREIGN_KEY_CONSTRAINT": "You are not allowed to delete these {{parent_name}} because some entities are still linked to them",
+ "BLOCKCONDITION": "Block Condition",
+ "TAGCONDITION": "Tag Condition",
+ "GROUPCONDITION": "Group Condition",
+ "ENDIMPERSONATE": "End Impersonate",
+ "ADDUSER": "Add user",
+ "PERMISSIONS": "Permissions",
+ "PRODUCTBATCHCOMPLETIONRATE": "Completion Rate",
+ "PRODUCTBATCHACTIVITYTRACKING": "Activity Tracking",
+ "CONTROLLED": "Controlled",
+ "PRODUCTBATCHTOTAL": "Total",
+ "ACLROLE": "Security Role",
+ "AVAILABLEMISSIONS": "المهمات المتاحة",
+ "HSDESCRIPTIONEVOLUTION1": "تطور درجة الصحة للمتجر مع مرور الوقت (يتم تحديثها كل 3 ساعات). يتم عرض درجة الصحة الحالية بين أعلى وأقل نقاط في الفترة المحددة.",
+ "HSDESCRIPTIONCOMPARISON": "درجة الصحة الحالية لمتجري بالنسبة إلى المتاجر الأخرى (يتم تحديثها كل 3 ساعات)",
+ "CREATEDASHBOARD": "إضافة لوحة معلومات جديدة",
+ "SENDTODIRECTCHAT": "إرسال إلى الدردشة المباشرة",
+ "SENDTOGROUPCHAT": "إرسال إلى الدردشة الجماعية",
+ "CANCELIMAGERECO": "إلغاء التعرف",
+ "STARTIMAGERECO": "بدء التعرف",
+ "STOPIMAGERECO": "هل تريد إيقاف خاصية \"التعرف على الصور\"؟",
+ "RECOGNIZINGIMAGES": "جارٍ تحليل الصور...(قد يستغرق الأمر بعض الوقت)",
+ "IMAGERECODONE": "تم تحليل الصور👌",
+ "IMAGERECONOTDONE": "لم يتم التعرف على الصور بشكل صحيح. حاول مرة أخري.",
+ "UPLOADINGPHOTOS": "جارٍ تحميل الصور...",
+ "FORWARD": "إعادة التوجيه",
+ "FORWARDSUCCESS": "تمت إعادة التوجيه",
+ "IMAGERECOGNITIONERROR": "حدث خطأ أثناء معالجة التعرف على الصور. يُرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى. يُرجى عدم إغلاق التطبيق أثناء العملية.",
+ "SENDANEWVIDEO": "أرسل {{user}} مقطع فيديو جديد",
+ "SENDANEWVIDEOINCHANNEL": "أرسل {{user}} مقطع فيديو جديد في {{channel}}",
+ "COPYTOCLIPBOARD": "Copy to clipboard",
+ "TREE": "Tree",
+ "SHORTDESCRIPTION": "Short Description",
+ "AUGMENTEDREALITY": "Augmented Reality",
+ "ARMODEL": "Augmented Reality Model",
+ "UPDATEARMODEL": "Update AR Model",
+ "BUILDINGARMODEL": "Building AR Model",
+ "COURSENOTFOUND": "Course not found",
+ "GO": "Go",
+ "ISNOTIN": "Is not in",
+ "EDITARMODEL": "Edit AR Model",
+ "REMOVECONDITION": "Remove condition",
+ "OUTOFDATE": "يبدو أن تطبيقك لم بعد محدثًا 😢",
+ "UPTODATE": "تطبيقك محدث 👌",
+ "OUTOFDATESUB": "لقد قمنا بتحديث التطبيق {{appName}} لجعله أسرع وأكثر موثوقية بالنسبة لك",
+ "RATEUS": "هل تحب التطبيق؟ قيمنا!",
+ "RATETITLE": "قيّم {{appName}}",
+ "RATEMESSAGE": "إذا كنت تستمتع باستخدام {{appName}} فتأكد من تقييم التطبيق. ملاحظاتك هي موضع تقدير كبير",
+ "RATECANCEL": "لا، شكراً",
+ "RATEBUTTON": "قيّم ذلك الآن",
+ "RATELATER": "ذكرني لاحقاً",
+ "ADDNEWBLOCKFROMCOLUMN": "Add a new block from column on the left",
+ "ADDNEWCONDITIONFROMCOLUMN": "Select a block on the right to add a {{type}} condition",
+ "PLEASESELECTOPERATOR": "Please select an operator",
+ "GENERATEWTO": "Generate WTO",
+ "AREXPERIENCE": "Augmented Reality Experience",
+ "ISEQUAL": "Is equal to",
+ "ISNOTEQUAL": "Is not equal to",
+ "SELECTUSER": "اختيار مستخدم",
+ "SELECTCOURSE": "Select a course",
+ "SELECTCOURSES": "Select courses",
+ "SELECTEDCOURSE": "1 course selected",
+ "SELECTEDCOURSES": "{{n}} courses selected",
+ "ISMDM": "The client has an MDM",
+ "CONGRATULATIONS": "تهانينا!",
+ "SHOWFIELDCONTION": "Show block condition",
+ "SHOWTAGSCONTION": "Show tag condition",
+ "SHOWGROUPCONTION": "Show group condition",
+ "DUPLICATEONBLOCK": "Duplicate on a block",
+ "DUPLICATEONPAGE": "Duplicate on a page",
+ "SHIFTTENANTDATES": "Shift Tenant Dates",
+ "EDITUSER": "Edit User",
+ "UPDATEUSERAMEANDPASSWORD": "Update username and password",
+ "UPDATEUSERAME": "Update username",
+ "MAGICLINKADMIN": "Send the user a magic link",
+ "MAGICLINKADMINDONE": "The magic link has been sent to the user's email",
+ "MAGICLINKDESCRIPTION": "A magic link will be sent. Check your inbox...",
+ "FORCELOGOUT": "Force logout",
+ "FORCELOGOUTCONFIRM": "Are you sure you want to force this user to logout?",
+ "FORCELOGOUTDONE": "The user has been successfully logged out",
+ "RESETPASSWORDDONE": "The password has been changed successfully",
+ "SHOWDUPLICATES": "Show duplicates",
+ "SHOWDUPLICATESTOOMANY": "The selection is limited to 5000 photos, please refine your search to find duplicates",
+ "GENERATINGZIP": "Generation zip file",
+ "LOCATIONS_ARCHIVE": "Archived Stores",
+ "ARCHIVECONFIRM": "Are you sure you want to archive {{name}} ?",
+ "UNARCHIVECONFIRM": "Are you sure you want to unarchive {{name}} ?",
+ "INITIALIZESECURITY": "Initialize Security",
+ "LOCATIONS": "نقاط البيع",
+ "LOCATION": "نقطة بيع",
+ "LOCATIONTYPE": "نوع نقطة البيع",
+ "LOCATIONID": "معرّف نقطة بيع",
+ "LOCATIONTITLE": "عنوان نقطة بيع",
+ "LOCATIONTAGS": "وسوم نقطة البيع",
+ "INCLUDETAGS": "يتضمن وسوم الموقع الجغرافي",
+ "LOCATIONSTOREEXPLANATION": "تحقق مما حدث في متجرك أثناء غيابك",
+ "DISABLELOCATIONNOTIFICATIONEMAIL": "تعطيل البريد الإلكتروني للإخطار بالموقع",
+ "LOCATIONINFOEXPLANATION": "كل ما تحتاج لمعرفته عن المتجر",
+ "MYLOCATIONS": "متاجري",
+ "LOCATIONTYPES": "أنواع نقاط البيع",
+ "MISSIONDESCRIPTIONS": "حملات",
+ "STARTBROWSINGFROMLEFT": "Start browsing from the left column",
+ "MANAGERINSIGHTWEBHEADER": "📈 All your dashboards and campaigns in one place",
+ "KPICUSTOM": "إنشاء رسم غرافيكي خاص بك",
+ "KPICUSTOMDESCRIPTION": "أنشئ رسما غرافيكيا بإعدادات متقدمة",
+ "GENERATEWTC": "Generate WTC",
+ "BIO": "Bio",
+ "STARTINGDATE": "Starting date",
+ "TARGETDATE": "Target date",
+ "INVALIDATETOKEN": "Invalidate token",
+ "PRICE2": "Price",
+ "UPDATEUSERAMEDONE": "Username has been updated successfully",
+ "geocode": "Found",
+ "_GEOLOC": "Coordinates",
+ "OBJECT": "Object",
+ "DASHBOARDID": "معرّف لوحة المعلومات",
+ "PROVIDER": "المزود",
+ "remove": "Remove",
+ "MORE2": "إظهار المزيد",
+ "SELECTONEORMULTIPLE": "الرجاء تحديد إجابة أو عدة إجابات",
+ "ENDIMPERSONATECONFIRM": "Are you sure you want to end impersonation ?",
+ "INACTIVE": "Inactive",
+ "COLLABORATION": "Collaboration",
+ "WIKI": "Knowledge Base",
+ "LIKED": "Liked",
+ "EMPTY_TITLE_WIKI": "No Articles Yet",
+ "EMPTY_TEXT_WIKI": "Your Knowledge Base doesnt contain any article for now",
+ "REMOVE": "Remove",
+ "COURSES": "Courses",
+ "DOWNLOADCURRENITEM": "تنزيل العنصر الحالي",
+ "DOWNLOADALLITEMS": "تنزيل جميع العناصر",
+ "ANSWERPOLL": "الرد على الاستطلاع",
+ "VIEWPOLLRESULTS": "View Poll Results",
+ "WORKSPACES": "Workspaces",
+ "SOCIAL": "Social",
+ "CONFIGURATION": "Configuration",
+ "PERFORMANCES": "Performances",
+ "MYACTIVITY": "My Activity",
+ "NOTFOUNDDESCRIPTION": "Sorry but we could not find the page you re looking for ...",
+ "CUSTOMIZEUI": "Customize UI",
+ "LIGHTCOLOR": "White",
+ "BLACKCOLOR": "Black",
+ "SUCCESSCOLOR": "Green",
+ "DANGERCOLOR": "Red",
+ "ENERGIZEDCOLOR": "Yellow",
+ "DANGERLIGHTCOLOR": "Light Red",
+ "WARNINGCOLOR": "Orange",
+ "LIGHTORANGECOLOR": "Light Orange",
+ "STABLECOLOR": "Grey",
+ "ACCENTCOLOR": "Blue",
+ "INFOCOLOR": "Pink",
+ "ROYALCOLOR": "Purple",
+ "TEXTCOLORCOLOR": "Text Color",
+ "MULTIPLESESSIONSDETECTED": "Multiple sessions detected on different tabs. Click OK to refresh",
+ "CREATEFOLDER": "Create a folder",
+ "CREATEFILE": "Create a file",
+ "DOWNLOADFILE": "Download file",
+ "DOWNLOADFOLDER": "Download folder",
+ "MOVEFILE": "Move file",
+ "MOVEFOLDER": "Move folder",
+ "COPYFILE": "Copy file",
+ "COPYFOLDER": "Copy folder",
+ "DELETECHANNELCONFIRM": "Are you sure you want to delete this channel",
+ "STORYUNMUTE": "Touch to unmute",
+ "STORYKEYBOARDTIP": "Press space to see next",
+ "STORYVISITLINK": "Visit link",
+ "STORYAGO": "ago",
+ "STORYHOUR": "hour",
+ "STORYHOURS": "hours",
+ "STORYMINUTE": "minute",
+ "STORYMINUTES": "minutes",
+ "STORYFROMNOW": "from now",
+ "STORYSECONDS": "seconds",
+ "STORYYESTERDAY": "yesterday",
+ "STORYTOMORROW": "tomorrow",
+ "STORYDAYS": "days",
+ "FILEPONDLABELIDLE": "Drag & Drop your files or <span class=\"filepond--label-action\"> Browse </span>",
+ "FILEPONDLABELIDLEMULTIPLE": "Drag & Drop mulitple files <br> or <span class=\"filepond--label-action\"> click to upload them </span>",
+ "FILEPONDLABELINVALIDFIELD": "Field contains invalid files",
+ "FILEPONDLABELFILEWAITINGFORSIZE": "Waiting for size",
+ "FILEPONDLABELFILESIZENOTAVAILABLE": "Size not available",
+ "FILEPONDLABELFILELOADING": "Loading",
+ "FILEPONDLABELFILELOADERROR": "Error during load",
+ "FILEPONDLABELFILEPROCESSING": "Uploading",
+ "FILEPONDLABELFILEPROCESSINGCOMPLETE": "Upload complete",
+ "FILEPONDLABELFILEPROCESSINGABORTED": "Upload cancelled",
+ "FILEPONDLABELFILEPROCESSINGERROR": "Error during upload",
+ "FILEPONDLABELFILEPROCESSINGREVERTERROR": "Error during revert",
+ "FILEPONDLABELFILEREMOVEERROR": "Error during remove",
+ "FILEPONDLABELTAPTOCANCEL": "tap to cancel",
+ "FILEPONDLABELTAPTORETRY": "tap to retry",
+ "FILEPONDLABELTAPTOUNDO": "tap to undo",
+ "FILEPONDLABELBUTTONREMOVEITEM": "Remove",
+ "FILEPONDLABELBUTTONABORTITEMLOAD": "Abort",
+ "FILEPONDLABELBUTTONRETRYITEMLOAD": "Retry",
+ "FILEPONDLABELBUTTONABORTITEMPROCESSING": "Cancel",
+ "FILEPONDLABELBUTTONUNDOITEMPROCESSING": "Undo",
+ "FILEPONDLABELBUTTONRETRYITEMPROCESSING": "Retry",
+ "FILEPONDLABELBUTTONPROCESSITEM": "Upload",
+ "EMPTY_TITLE_QUESTIONS": "No questions",
+ "EMPTY_TEXT_QUESTIONS": "It seems to be no questions yet.",
+ "VALIDATEFEED": "Validate",
+ "SELECTAFOLDER": "Select a folder",
+ "PRIMARY": "Primary",
+ "SECONDARY": "Secondary",
+ "PRIMARYSCORING": "Primary scoring",
+ "SECONDARYSCORING": "Secondary scoring",
+ "PRIMARYSCORINGDESCRIPTION": "Primary scoring",
+ "SECONDARYSCORINGDESCRIPTION": "Secondary scoring",
+ "SCORINGTITLE": "Scoring title",
+ "EDITORDER": "تعديل",
+ "COURSEGROUPS": "Groups able to view/complete this course",
+ "ASKAQUESTION": "طرح سؤال",
+ "RENAME": "إعادة التسمية",
+ "TARGETOBJECTIVE": "الهدف",
+ "POLLQUESTION1": "إجابة",
+ "POLLQUESTION2": "إجابة",
+ "POLLQUESTION3": "إجابة",
+ "POLLQUESTION4": "إجابة",
+ "POLLQUESTION5": "إجابة",
+ "NOTFOUND": "Not found",
+ "DELETECONFIRMFIELDS": "Are you sure you want to delete these {{number}} fields?",
+ "BASELANGUAGE": "Base language",
+ "TRANSLATETO": "Translate to",
+ "GOOGLETRANSLATE": "Google Translate",
+ "SELECTLANGUAGES": "Select languages",
+ "PORTRAIT": "Portrait",
+ "LANDSCAPE": "Landscape",
+ "MISSIONSAVINGRAW": "جارٍ حفظ مهمتك...",
+ "SAVERAWMISSIONCONFIRM": "هل تريد حفظ المهمة الحالية؟ يمكنك الانتهاء من المهمة في وقت لاحق",
+ "FEEDNOTFOUND": "آسف، لم نتمكن من العثور على تغذية الأخبار المرتبطة بها.",
+ "FEEDVALIDATION": "التحقق من صحة موجز الأخبار",
+ "STOREMANAGERREORDERDESCRIPTION": "<div class=\"center\"><h1 class=\"black\">إعادة ترتيب عناصر واجهة المستخدم</h1><div>الحصول على معلومات في الوقت المناسب من عناصر واجهة المستخدم المفضلة لديك، وفي لمحة. أضف عناصر واجهة المستخدم وقم بتنظيمها أدناه.</div></div>",
+ "FEEDSHARED": "تم مشاركة أخبارك على شبكات التواصل الاجتماعي",
+ "NEWFEEDPUBLISHEDPENDINGVALIDATION": "تم إرسال الأخبار وننتظر التحقق من صحتها الآن",
+ "FEEDVALIDATIONEMPTY": "يبدو أنه لا يوجد أي أخبار للتحقق من الصحة الآن",
+ "DISABLESHARING": "تعطيل المشاركة",
+ "POLLTITLE": "عنوان الاستطلاع",
+ "POLLALLOWMULTIPLE": "السماح بخيارات متعددة",
+ "POLLHIDERESULTS": "إخفاء النتائج",
+ "REQUESTRECEIVED": "تلقى الطلب",
+ "REQUESTRAISED": "طلب مرفوع",
+ "MEMOINDIVIDUALTASK": "إنشاء مهمة فردية حسب المستخدم",
+ "POLLISLONG": "ربط الاستطلاع الحالي للرأي",
+ "POLLLINKEXISTING": "استطلاع حالي للرأي",
+ "TRAFFICIN": "حركة المرور في",
+ "TRANSACTIONS": "معاملات",
+ "TRANSACTION": "معاملة",
+ "FEEDEMPTY": "يبدو أنه لا توجد مستجدات للعرض الآن.",
+ "CHAT": "دردشة",
+ "FEED": "آخر الأخبار",
+ "FEEDS": "آخر الأخبار",
+ "NEWFEEDPUBLISHED": "مستجدات جديدة",
+ "WALKTHROUGH.TEAM.3.DESCRIPTION": "دردش في الوقت الحقيقي مع المقر الرئيسي أو فرق الدعم.<br/> تقييمات ومساعدة فورية!",
+ "FEEDTAGS": "علامات الأخبار",
+ "SHARETOFEED": "مشاركة في أحدث الأخبار",
+ "COMMENTEDYOURFEED": " علق على أخبارك ",
+ "LIKEDYOURFEED": " أعجب بأخبارك ",
+ "LIKEDYOURFEEDCOMMENT": "أعجب بتعليقك ",
+ "CHATCREATEDESCRIPTION": "ابدأ دردشةً مع أي شخص في فريقك",
+ "CHATWITHOWNER": "تحدّث مع مدير المتجر",
+ "CHATWITH": "دردشة مع",
+ "DELETETRANSLATIONCONFIRM": "Are you sure you want to delete this translation?",
+ "DELETEALLTRANSLATIONCONFIRM": "Are you sure you want to delete all the translations?",
+ "OVERWRITEEXISTINGTRANSLATIONS": "Do you want to override the existing translations or just translate the new fields?",
+ "SLIDE": "Slide",
+ "FEEDNEWSUBHEADING1": "Featured news",
+ "FEEDNEWSUBHEADING2": "News from your network",
+ "TRUE": "نعم",
+ "false": "لا",
+ "POLL": "سبر آراء",
+ "POLLS": "عمليات سبر آراء",
+ "POLLSAVEDSUCCESS": "لقد نجح حفظ سبر الآراء.",
+ "PHOTOS": "صور",
+ "ALLPHOTOS": "كل الصور",
+ "NEWPOST": "منشور جديد",
+ "FEEDCREATEDESCRIPTION": "شارِك الأخبار مع فريقك",
+ "POLLSAVING": "جاري إرسال استطلاع الرأي الخاص بك...",
+ "POLLSAVINGOFFLINE": "تم حفظ استطلاع الرأي الخاص بك, لا تنس إجراء مزامنة عند الاتصال بالإنترنت ",
+ "PHOTOSSMALL": "صور صغيرة",
+ "MYPOLLS": "استطلاعاتي",
+ "REJECT2": "رفض",
+ "NEEDHELP": "لديك أية مشكلة؟ نحن هنا للمساعدة ",
+ "EDITPOST": "تحرير مساهمة",
+ "FEEDPOSTEDBY": "تم مشاركة المنشور من قِبل {{user}}",
+ "SHAREDIN": "تمت المشاركة في",
+ "CAMPAIGNLOCATION": "الموقع",
+ "OVERRIDE": "Override",
+ "DONOTOVERRIDE": "Do not override",
+ "ACCEPT": "قبول",
+ "CALL": "إجراء مكالمة",
+ "STARTTIME": "Start Time",
+ "ENDTIME": "End Time",
+ "VISITTYPE": "Visit Type",
+ "HELPCREATECALL": "Need help ?",
+ "USERDECLINECALL": "User has declined your call",
+ "VIDEOCALLCANCEL": "Canceling video call",
+ "CALLRECORDED": "Video call has been recorded",
+ "CALLERLEFT": "Caller has left",
+ "MESSAGE": "رسالة",
+ "CHANNEL": "قناة",
+ "ENTERCHANNELNAME": "أعط محادثتك الجماعية اسمًا",
+ "SAVECONFIRM": "هل أنت متأكد من إرسال إجاباتك؟",
+ "MENTIONEDYOUINFEED": "You have been mentioned in the News feed",
+ "MENTIONEDYOUINCHAT": "You have been mentioned in a conversation",
+ "IMPORTGIF": "Import a gif",
+ "SELECTGIFS": "Select one or multiple gifs",
+ "SELECTGIF": "Select one gif",
+ "VIEWMEDIA": "View media",
+ "SHOWPAGES": "Show page/s",
+ "VOTES": "votes",
+ "FEATURED": "صعب",
+ "LINKTO": "Link to",
+ "MOVEFIELDSAFTER": "Move fields after...",
+ "DUPLICATEFIELDSAFTER": "Duplicate fields after...",
+ "DECLINED": "Declined",
+ "NEWBLOCK": "New Block",
+ "EXISTINGBLOCK": "Existing Block",
+ "EXISTINGPAGE": "Existing Page",
+ "REMOVECONDITIONCONFIRM": "Are you sure you want to remove this condition?",
+ "ADDCOURSES": "Add course(s)",
+ "APPROVED": "Approved",
+ "VIEWNUMBERCOMMENTS": "عرض جميع التعليقات",
+ "INDIVIDUALTASK": "Create an individual task by user",
+ "CALENDAREVENTTYPE": "Calendar Event Type",
+ "IMPORTUNSPLASH": "Import from Unsplash library",
+ "SELECTUNSPLASH": "Select a single photo",
+ "SELECTUNSPLASHS": "Select one or multiple photos",
+ "APPROVE": "Approve",
+ "DECLINE": "Decline",
+ "SENDANEWAUDIO": "{{user}} sent a new video",
+ "SENDANEWAUDIOINCHANNEL": "{{user}} sent a new video in {{channel}}",
+ "ITEMS": "Items",
+ "FEATUREDNEWS": "Featured news",
+ "ACCEPTED": "مقبول",
+ "REJECTEDSINGLE": "غير مطابق(ة)",
+ "ASSIGNUSERS": "Assign users",
+ "DELETEUSER": "حذف مستخدم",
+ "DELETEUSERCONFIRM": "هل أنت متأكد من حذف هذا المستخدم؟",
+ "FEEDPOLLANSWERED": "{{user}} has answered your poll: {{poll}}.",
+ "MOVE": "Move",
+ "VOTED": "Voted",
+ "IMPERSONATETENANTADMIN": "Impersonate Tenant Admin",
+ "THANKYOU": "شكرا",
+ "TO": "إلى",
+ "BODY": "جسم",
+ "SUBJECT": "الموضوع",
+ "USERTAGS": "User Tags",
+ "CURRENTLANGUAGE": "Current language",
+ "QUESTIONSANSWERS": "\nAnswers",
+ "BOOKMARKED": "Bookmarked",
+ "HIERARCHY": "Hierarchy",
+ "HIERARCHYLEVEL1": "Hierarchy Level 1",
+ "HIERARCHYLEVEL2": "Hierarchy Level 2",
+ "HIERARCHYLEVEL3": "Hierarchy Level 3",
+ "PASSWORDCHANGEQUESTIONCONFIRM": "Do you want to change your password ?",
+ "MENTIONEDYOUINQUESTION": "You have been mentioned in the Question",
+ "ARCHIVED": "محفوظ في الأرشيف",
+ "CREATEALLHEADING": "Let's start creating ...",
+ "MAYBE": "Maybe",
+ "TITLEPLACEHOLDER": "Write a title here",
+ "EMPTY_TITLE_COMMENTS": "No comments",
+ "EMPTY_TEXT_COMMENTS": "It seems to be no comments yet.",
+ "EDITCOMMENT": "Edit comment",
+ "DELETECOMMENT": "Delete comment",
+ "ENABLETRANSLATION": "Enable translations",
+ "TRUEABSOLUTE": "True",
+ "FALSEABSOLUTE": "False",
+ "FINISHCOURSEFROMMISSION": "You have to complete this course before submit the mission. You’ll be redirected to the course.",
+ "COURSEFROMMISSIONFINISHED": "You’ve successfully completed the course. Well done! 👏",
+ "OPENCOURSE": "Open course",
+ "LOCATIONPLURAL": "نقاط البيع",
+ "MISSIONPLURAL": "مهمات",
+ "TASKLISTPLURAL": "قوائم المهام",
+ "TODOPLURAL": "مخططات العمل",
+ "ASSIGNEDTOCOURSES": "You have been assigned to {{number}} new courses",
+ "ASSIGNEDTOCOURSE": "You have been assigned to a new course : {{title}}",
+ "REPLIEDTOYOURCOMMENT": "{{user_fullname}} رد على التعليق الخاص بك على المنشور {{newsfeed}}",
+ "SEETRANSLATION": "See translation",
+ "HIDETRANSLATION": "Hide translation",
+ "PERSONALEVENT": "Personal event",
+ "PUBLICEVENT": "Public event",
+ "PRIVATEEVENT": "Private event",
+ "YOUHAVEBEENINVITED": "You have been invited to: {{eventname}}",
+ "DISABLETRANSLATIONS": "Disable translations",
+ "YOUHAVEITEMS": "🔎 You have {{total}} items ",
+ "ADDTOSTART": "Add to start...",
+ "MONDAY": "Monday",
+ "TUESDAY": "Tuesday",
+ "WEDNESDAY": "Wednesday",
+ "THURSDAY": "Thursday",
+ "FRIDAY": "Friday",
+ "SATURDAY": "Saturday",
+ "SUNDAY": "Sunday",
+ "WEEKLYCLOSEDDAYS": "Weekly closed days",
+ "CLOSINGDAYS": "Additional closed days",
+ "BROADCASTWATCH": "Watch",
+ "BROADCASTBROADCAST": "Broadcast",
+ "RECENTSTORIES": "Recent Stories",
+ "NEWBROADCAST": "Create a new live stream",
+ "BROADCASTCREATEDESCRIPTION": "Broadcast a video live stream to a group of users",
+ "WATCHALL": "Watch All",
+ "LIVE": "Live",
+ "BROADCAST": "Live stream",
+ "BROADCASTSTARTEDBY": "{{user}} started a live video. Watch it before it ends...",
+ "PREVIEWCAMPAIGN": "Preview Campaign",
+ "MISSIONANALYSIS": "Mission Analysis",
+ "USERNOTFOUND": "User not found. Please contact your admin ...",
+ "NOTNOW": "Not now",
+ "SYNCNOW": "Sync now",
+ "GOING": "Going",
+ "INTERESTED": "Interested",
+ "INVITED": "مدعو",
+ "SCHEDULEDPOSTS": "Scheduled posts",
+ "HISTORY": "سجل التواريخ",
+ "CAMPAIGNS": "حملات",
+ "CAMPAIGN": "حملة",
+ "NEWCAMPAIGN": "حملة جديدة",
+ "SHORTTEXT": "نص قصير",
+ "TEXT": "نص",
+ "LONGTEXT": "نص طويل",
+ "TEXTAREA": "نص طويل",
+ "BARCODE": "الرمز الشريطي",
+ "CHECKBOX": "خانة اختيار",
+ "STARRATING": "تنقيط",
+ "BACKGROUND": "خلفية",
+ "ALLOWTIME": "متعقب زمنياً",
+ "OTHER1": "آخر",
+ "OTHER": "آخر (يرجى التوضيح)",
+ "BYVALIDITY": "حسب المطابقة",
+ "CODE": "رمز",
+ "PROGRESS": "التقدّم",
+ "VALIDATION": "تأكيد",
+ "FIELDS": "حقول",
+ "FIELD": "حقل",
+ "ALLOWANNOTATE": "السماح بوضع ملاحظات",
+ "ALLOWHISTORY": "الترخيص لسجل التواريخ",
+ "SHOWONLOCATION": "عرض على نقطة البيع",
+ "ANNOTATE": "وضع ملاحظة",
+ "REFERENCE": "مرجع",
+ "RATE": "تقييم",
+ "SIGNATURE": "توقيع",
+ "RANGE": "شريط التمرير",
+ "SKIPVALIDATION": "مطابق افتراضياً",
+ "HIDEMOBILE": "الإخفاء على الجوّال",
+ "SHOWSERVICE": "إظهار الطلب",
+ "SCORING": "نتائج",
+ "FACTOR": "وكيل التوزيع",
+ "REQUEST": "طلب",
+ "AUTOCOMPLETE": "إكمال تلقائي",
+ "STEP": "خطوة",
+ "SERVICES": "طلبات",
+ "CATALOG": "كتالوج",
+ "LEGEND": "مفتاح مصطلحات",
+ "ADDPRODUCT": "إضافة منتج",
+ "ADDPRODUCTTOBASKET": "إضافة منتجات",
+ "SCANPRODUCTTOBASKET": "إجراء مسح ضوئي للمنتجات",
+ "PRODUCT": "منتج",
+ "PRODUCTS": "منتجات",
+ "BASKET": "السلة",
+ "SERVICESAVEDSUCCESS": "لقد تم تسجيل طلبك. سنتصل بك في مدة لا تتجاوز 48 ساعة.",
+ "ON": "على",
+ "CONDITION": "شرط",
+ "CALENDAR": "جدول زمني",
+ "EVENT": "حدث",
+ "NOTES": "ملاحظات",
+ "VERSIONMIN": "إصدار أدنى",
+ "LATEST": "آخر",
+ "OPERATOR": "مشغّل",
+ "PAGES": "صفحات",
+ "PAGE": "صفحة",
+ "CONDITIONS": "شروط",
+ "CONTAINS": "يتضمن",
+ "TODO": "مخطط العمل",
+ "TASKS": "عمليات",
+ "TASK": "عملية",
+ "DELETETODOTASKCONFIRM": "هل أنت متأكد من حذف هذه العملية؟",
+ "EMAILREPORT": "تقرير بالبريد الإلكتروني",
+ "EMAILREPORTSEND": "لقد أرسلنا {{count}} بريدا إلكترونياً",
+ "REQUESTOR": "صاحب الطلب",
+ "PRIORITY": "أولوية",
+ "VALIDFROM": "صالح من",
+ "VALIDUNTIL": "إلى",
+ "VALIDITY": "الصلاحية",
+ "READMORE": "إظهار المزيد",
+ "SCORE": "ملاحظة",
+ "ACTIVITY": "نشاط",
+ "SUBMITTEXT": "نص الإرسال",
+ "SUCCESSTEXT": "نص النجاح",
+ "SERVICEUPDATED": "تحديث طلبك",
+ "MISSIONVALIDATED": "مهمتك مطابقة",
+ "MISSIONREJECTED": "مهمتك غير مطابقة",
+ "MISSIONANNOTATED": "تم وضع ملاحظات على مهمتك",
+ "SHOWUSERSEMAIL": "إظهار مفتاح البريد الإلكتروني للمستخدمين",
+ "SENDFINISHEDEMAIL": "تلقي بريد إلكتروني عند انتهاء المهمة",
+ "PHOTOLIVECOUNTER": "التعرف على الصور",
+ "COLOR": "لون",
+ "OVERVIEW": "نشاط",
+ "CHECKAVAILABLE": "التحقق إن كانت المهمة متوفرة في نقطة البيع",
+ "CHECKEXISTING": "التحقق إن كانت المهمة موجودة في نقطة البيع",
+ "PROCESSING": "معالجة",
+ "WELCOME": "مرحبا بكم في YOOBIC Operations",
+ "BOOK": "تحميل",
+ "HOME": "إيجاد مهمة",
+ "LEVEL": "مستوى",
+ "DETAILS": "تفاصيل",
+ "MISSIONBOOKED": "مهمة جارية",
+ "FINISHED": "منتهية",
+ "WHEN": "متى",
+ "BOOKED": "جارٍ",
+ "SAVECONFIRMSERVICE": "هل أنت متأكد من إرسال هذا الطلب؟ ",
+ "SAVECONFIRMCALENDAR": "هل أنت متأكد من برمجة هذه العملية؟ ",
+ "FORMS": "استمارات",
+ "CREDITCARD": "وسائل الدفع",
+ "DISTANCE": "المسافة",
+ "MISSIONBOOKVERSION": "يجب تنصيب آخر إصدار متوفر في متجر التطبيقات أو متجر بلاي للوصول إلى هذه المهمة",
+ "UNBOOK": "ترك",
+ "UNBOOKCONFIRM": "هل أنت متأكد من التخلي عن هذه المهمة؟ سيتم حذف إجاباتك المحفوظة مسبقا.",
+ "CURRENCY": "$",
+ "DISTANCEUNIT": "m",
+ "CANCELMISSIONFORM": "مغادرة",
+ "CANCELMISSIONFORMCONFIRM": "هل أنت متأكد من الإلغاء؟ لن تتم المصادقة على مهمتك طالما أنك لم تملء الاستبيان كاملا.",
+ "CALENDAREMPTY": "يبدو أنك لم تبرمج أي شيء.",
+ "RADIUS": "الشعاع بالكيلومتر",
+ "VALIDATED": "مطابق(ة)",
+ "REJECTED": "غير مطابق(ة)",
+ "PAYMENTS": "دفع المبالغ",
+ "MISSIONSAVEDSUCCESS": "لقد نجح حفظ مهمتك.",
+ "MISSIONSAVEDERROR": "لقد وقع خطأ أثناء الحفظ. تأكد أنك متصل بالإنترنت.",
+ "QUIZZSAVEDERROR": "لقد وقع خطأ أثناء الحفظ. تأكد أنك متصل بالإنترنت.",
+ "DASHBOARD": "لوحة البيانات",
+ "MISSIONS": "مهمات",
+ "MISSION": "مهمة",
+ "PRICE": "(€)سعر",
+ "ACTIONS": "عمل (أعمال)",
+ "VALIDATE": "مطابق(ة)",
+ "UNVALIDATE": "غير مطابق(ة)",
+ "STATUS": "الحالة",
+ "FINISHEDDATE": "انتهت بتاريخ",
+ "FINISHEDBY": "الانتهاء حسب",
+ "ID": "المعرّف",
+ "PUBLIC": "عامّ",
+ "AVAILABLE": "متوفر(ة)",
+ "GEOLOC": "معلومات جغرافية",
+ "finished": "منتهية",
+ "booked": "جارية",
+ "true": "نعم",
+ "FALSE": "لا",
+ "UNVALIDATEREASON": "سبب عدم المطابقة",
+ "UNVALIDATED": "غير مطابق(ة)",
+ "TOBEVALIDATED": "للمصادقة",
+ "MISSIONTITLE": "عنوان المهمة",
+ "MISSIONDESCRIPTION": "وصف المهمة",
+ "CLASS": "أسلوب",
+ "EXISTING": "موجود",
+ "MISSIONDURATION": "مدة المهمة (دقيقة)",
+ "CONTACT": "جهة الاتصال",
+ "ASSIGNTO": "إسناد إلى",
+ "FOLDERS": "مجلدات",
+ "FOLDER": "مجلد",
+ "MODEL": "الموديل",
+ "CONTRACT": "عقد",
+ "watch": "ساعة",
+ "SMALLPHOTOS": "صور صغيرة",
+ "AGGREGATION": "تراكم",
+ "MOBILE": "جوّال",
+ "TEST": "اختبار",
+ "LOCATIONVISITED": "متجر تمت زيارته",
+ "AVERAGEMISSIONSPERDAY": "عدد المهمات حسب اليوم",
+ "AVERAGEMISSIONSPERUSER": "عدد المهمات حسب المستخدم",
+ "AREA": "مساحة",
+ "PALETTE": " لوحة",
+ "MODE": "نمط",
+ "ACTIVE": "مفعّل",
+ "TOTALCOMPLETION": "تقدم عام",
+ "QUERYON": "المصدر",
+ "SHOWAS": "مشاهدته كـ",
+ "CAMPAIGNTAGS": "وسوم الحملة",
+ "ROOT": "دليل أصلي",
+ "CC": "نسخة طبق الأصل",
+ "BCC": "نسخة طبق الأصل مخفية",
+ "FOOTER": "أسفل الصفحة",
+ "VIEWMISSION": "مشاهدة المهمة",
+ "STATE": "الحالة",
+ "INITIALSCORE": "نتيجة أولية",
+ "MINSCOREFORVALIDATION": "نتيجة دنيا للمطابقة",
+ "MISSIONCATEGORY": "فئة",
+ "SELECTCAMPAIGNS": "اختر كافة الحملات التي ترغب بنشرها",
+ "SELECTCAMPAIGNSMULTI": "تشغيل هذا الخيار لنشر عدة حملات مرة واحدة",
+ "CONTACTS": "جهات اتصال",
+ "NOTE": "ملاحظة",
+ "CUSTOM": "خاص",
+ "GLOBAL": "شامل",
+ "INCLUDEDATA": "يتضمن بيانات المهمة",
+ "LEVEL1": "مستوى 1",
+ "LEVEL2": "مستوى 2",
+ "LEVEL3": "مستوى 3",
+ "LEVEL4": "مستوى 4",
+ "VALIDATIONPROGRESS": "تحليل",
+ "_ID": "المعرّف",
+ "LOCKED": "محمي",
+ "SHOWLEVELSLIDER": "عرض مؤشر المستوى",
+ "SHOWTIMESLIDER": "عرض مؤشر الوقت",
+ "VISITED": "زيارة (زيارات)",
+ "NOTVISITED": "لم تتم زيارته",
+ "COMPAREDTOLAST7DAYS": "مقارنة بـ 7 أيام الماضية",
+ "REASON": "سبب",
+ "AROUNDME": "مشاهدة نقاط البيع القريبة",
+ "ACCUMULATOR": "مجمّع",
+ "ONEFOLDERPERSTORE": "تنظيم الصور باستخدام فهرس حسب نقاط البيع",
+ "PENDING": "قيد الانتظار",
+ "SAVESERVICELOCALLYCONFIRM": "لم تستكمل طلبك بعد. هل تريد حفظ الطلب محليا لاستئنافه لاحقا؟",
+ "PHOTOSBIG": "صور كبيرة",
+ "INCLUDEPAGETITLE": "تضمين عنوان الصفحة",
+ "ADDTODO": "إضافة خطة عمل",
+ "PERCENTAGE": "نسبة مئوية",
+ "REMINDER": "تذكير",
+ "LINKTOPREVIOUSQUESTION": "الربط بالسؤال السابق",
+ "MANDATORYPHOTO": "الصورة إجبارية",
+ "KEY": "مفتاح",
+ "VALIDATEDDATE": "تاريخ المصادقة",
+ "AUDIT": "تدقيق",
+ "SCHEDULEDDATE": "تاريخ الإرسال",
+ "MISSIONBOOKEDERROR": "لقد وقع خطأ عند تحميل هذه المهمة. الرجاء التأكد أنك متصل بالإنترنت وإعادة المحاولة.",
+ "FINISHEDGROUPS": "إضافة مجموعات بعد انتهاء المهمة",
+ "SINGLEFILE": "ملف وحيد",
+ "SINGLEFILEWITHTAGS": "ملف وحيد مع وسوم",
+ "NOSUBFOLDERS": "لا يوجد مجلد فرعي",
+ "USETAGFORFOLDERS": "استخدم الوسوم للمجلدات الفرعية",
+ "FLAGGED": "مُعلّمٌ عليه",
+ "FLAG": "وضع علامة",
+ "ALLANSWERSVALID": "لا تسمح بالحفظ إلا إذا كانت كافة الإجابات صالحة",
+ "ALLOWUNVALIDANSWERS": "السماح بإجابات غير صالحة",
+ "LIVEANSWERS": "إجابات على المباشر",
+ "ANNOTATED": "ملاحظ عليه",
+ "ALGORITHM": "خوارزمية",
+ "RATE1": "معدل الصرف",
+ "FIELDTYPE": "نوع الحقل",
+ "FIELDIF": "إذا",
+ "FIELDIS": "هو",
+ "TRANSLATE": "ترجمة",
+ "FLAGGEDPHOTOS": "الصور المنشورة",
+ "UNFLAGGEDPHOTOS": "الصور غير المنشورة",
+ "VALIDATEDON": "مصادق عليها بتاريخ",
+ "CAMPAIGNHELP": "أهلاً وسهلاً بك في أداة إنشاء الحملة.<br/>فلنبدأ بتحديد كيفية ظهور المهمة للمستخدمين.",
+ "LOCATIONSHELP": "حدد المتاجر حيث تريد نشر مهامك.",
+ "PUBLISHHELP": "حدد الخيارات التي تريد استخدامها عند نشر مهامك.",
+ "WALKTHROUGH.CROWD.1.DESCRIPTION": "تصفح المهام في المتاجر المحيطة بك.<br/> حدد مهمة واحدة. هيا بنا!",
+ "WALKTHROUGH.CROWD.2.DESCRIPTION": "إتبع الإرشادات، خطوة بخطوة.<br/> خلال بضع دقائق فقط، تصبح المهمة منجزة",
+ "WALKTHROUGH.CROWD.3.DESCRIPTION": "عندما تتم المصادقة على مهمتك، تتلقى فوراً أتعابك. لقد نجحت!",
+ "WALKTHROUGH.TEAM.1.DESCRIPTION": "إملأ تقارير زيارتك مباشرةً على تطبيقك.<br/>يتم تلقائياً إرسال البيانات التي تم جمعها إلى المقر الرئيسي!",
+ "WALKTHROUGH.TEAM.2.DESCRIPTION": "إبقَ على اطلاع بالتحديات الراهنة وغيرها من الأخبار الصادرة عن شركتك، في أي وقت.",
+ "WALKTHROUGH.SERVICE.1.DESCRIPTION": "حدد فئة طلب اتصال.<br/>تتلقى العلامة التجارية طلبك على الفور.",
+ "WALKTHROUGH.SERVICE.2.DESCRIPTION": "تتبّع مباشرةً في التطبيق حالة الطلبات المقدمة.",
+ "WALKTHROUGH.SERVICE.3.DESCRIPTION": "إتصل بالعلامة التجارية مباشرةً من خلال وظيفة الدردشة، أو عن طريق الاتصال المباشر!",
+ "TEMPLATE": "النموذج",
+ "LOGINSUBTITLE": "أدخل المعلومات الخاصة بك أدناه",
+ "LOGINBASELINE1": "حسّن أداء متاجرك",
+ "LOGINBASELINE2": "التدقيق والامتثال. التنفيذ داخل المتجر. الاتصالات والتدريب.",
+ "FOODRETAIL": "تجارة التجزئة في مجال المواد الغذائية",
+ "TRAVELRETAIL": "تجارة التجزئة في مجال السفر",
+ "AUTOMOTIVE": "السيارات",
+ "FASHIONRETAIL": "تجارة التجزئة في مجال الموضة",
+ "PETROLSTATION": "محطة بنزين",
+ "COSMETIC": "مستحضرات التجميل",
+ "AGENCY": "وكالة التسويق الميدانية",
+ "RESTAURANT": "المطاعم",
+ "PARMACEUTICAL": "الأدوية",
+ "RETAIL": "تجارة التجزئة",
+ "TRIALUSERTYPE": "لمنحك أفضل تجربة مع يوبيك، هل يمكنك أن تقول لنا أي فئة هي الأقرب إليك؟",
+ "TRIALUSERPOSITION": "ما هو مركزك الحالي في شركتك؟",
+ "TRIAL": "نسخة تجريبية",
+ "INITIALIZED": "خاضع للتهيئة",
+ "ALLOWANCE": "مخصصات",
+ "REMAINING": "الباقي",
+ "TRIALCREATENEWLOCATIONS": "<h3>أنشئ نقاط البيع حيث تريد إنجاز المهام.</h3><p>إضغط على <strong>'إنشاء'</strong> للقيام بذلك. هناك حقلان إلزاميان: اسم نقطة البيع وعنوانها.</p> <p>يمكنك إدخال معلومات أخرى ستظهر على نقطة البيع مثل جهة اتصال أو معلومات مختلفة (دورة رأس المال، المساحة...). عند استكمال ذلك، يمكنك الانتقال إلى إنشاء المستخدم عن طريق الضغط على <strong>'التالي'</strong>.</p>",
+ "TRIALCREATENEWUSERS": "قم بدعوة المستخدمين الذين سيستخدمون التطبيق. يمكنك اختيار وظيفتهم من بين: المقر الرئيسي (الوصول عير الموبايل+شبكة الويب) المدير الإقليمي (الوصول عير الموبايل) ومدير المتجر (الوصول عير الموبايل). إضغط على 'حفظ' لتهيئة حسابك والبدء باستخدام يوبيك! ",
+ "MARGINDAYS": "هامش (عدد الأيام)",
+ "TRIALINTRODUCTION": "<ul><li>قبل البدء باستخدام يوبيك وإنجاز مهامك الأولى، ندعوك إلى ضبط إعدادات حسابك.</li> <li>من أجل القيام بذلك، من الضروري إنشاء نقاط البيع ودعوة زملائك لاستخدام التطبيق.</li> <li>يمكنك في وقت لاحق إضافة او حذف نقاط بيع أو مستخدمين.</li><li> إضغط على 'التالي' لبدء ضبط إعدادات نقاط البيع.</li></ul>",
+ "ALLOWOPENDETAILS": "وافق على التفاصيل المفتوحة",
+ "ALLOWSAMEUSERVALIDATION": "المصادقة من قبل المستخدم نفسه",
+ "EXTERNAL": "خارجي",
+ "LOCKEDDATE": "مقفل (تاريخ)",
+ "MISSIONGROUPS": "المجموعات القادرة على رؤية / استكمال هذه المهمة",
+ "ISPRIMARYSCORE": "النتيجة الرئيسية؟",
+ "VALIDFROMTOOLTIP": "يمكن رؤية المهام في التطبيق ولكن لا يمكن أن يبدأ المستخدمون باستعمالها إلى حين بداية تاريخ الصلاحية.",
+ "VALIDUNTILTOOLTIP": "سيتم حذف المهام المتاحة تلقائياً بعد هذا التاريخ.",
+ "EDITGROUPS": "تعديل المجموعات",
+ "ALLPHOTOSREQUIRED": "جميع الصور لازمة",
+ "REPUBLISHWITHANSWERS": "تعبئة مُسبقة بالإجابات السابقة",
+ "DURATIONMAX": "الحد الأقصى للمدة (ثانية)",
+ "MISSIONTYPE": "نوع المهمة",
+ "SATISFACTORY": "مُرضية",
+ "UNSATISFACTORY": "غير مُرضية",
+ "WK_TITLE_1": "راجع المهام، واستلمها وأكمِلها",
+ "WK_SUBTITLE_1": "أعرف مهامك وموعد تنفيذها. أرسل ما أنجزته.",
+ "WK_TITLE_2": "المشاركة تعني الاهتمام",
+ "WK_SUBTITLE_2": "شارك التعقيبات وأبق مُطلعًا على أخبار الشركة.",
+ "WK_TITLE_3": "تسهيل عملية الاتصال",
+ "WK_SUBTITLE_3": "دردش مع جميع أفراد فريقك. بالإضافة إلى ذلك، أحصل على الدعم من YOOBIC.",
+ "WK_TITLE_4": "علامة X",
+ "WK_SUBTITLE_4": "تضمن خاصية الموقع الجغرافي المُدمجة رؤيتك وحدك للمهام المُخصصة لك. تذكر تشغيلها.",
+ "WK_TITLE_5": "أبذل قصارى جهدك",
+ "WK_SUBTITLE_5": "قم بتشغيل إشعارات التطبيق. بهذه الطريقة سوف يتم إشراكك في الأمر دائمًا.",
+ "ADDPREDEFINEDTASKS": "أضف إجراءات محددة مسبقاً",
+ "PDFCLASSIC": "كلاسيكي",
+ "PDFPHOTOREPORT": "تقرير الصورة",
+ "PDFAUDITEXPORTS": "تقارير المعاينة",
+ "UNSATISFACTORYANSWER": "إجابات غير مرضية",
+ "ACTIONPLAN": "خطة العمل",
+ "PDFCONTRACT": "العقد",
+ "PHARMAONEPAYMENT": "تم تسجيل عملية سداد جديدة بمبلغ {{amount}} €",
+ "SCHEDULED": "المقرر",
+ "FLEX": "مرن",
+ "APPEARANCE": "الشكل",
+ "MYSTORE": "الأفكار",
+ "MISSIONINFORMATION": "معلومات المهمة",
+ "MISSIONDUEDATE": "تحديد موعد نهائي",
+ "MISSIONSETTINGS": "إعدادات المهمة",
+ "MISSIONVALIDFROMTOOLTIP": "جعل المهمة مرئيةً بعد",
+ "MISSIONVALIDUNTILTOOLTIP": "أرشفة المهمات المتاحة والجارية بعد",
+ "VISIBILITY": "الرؤية",
+ "WORDS": "الكلمات",
+ "INVENTORY": "الجرد",
+ "COMPLETION": "استكمال",
+ "HEADER": "العنوان",
+ "FORMAT": "تنسيق",
+ "SHARED": "مشترك",
+ "RECURRING": "متكرر",
+ "KPIAVERAGESCORE": "متوسط النقاط",
+ "UPDATEDATES": "مواعيد التحديث",
+ "REPORTORDER": "تقرير الطلب",
+ "CHECKLIST": "قائمة تدقيق",
+ "ADDNEWACTION": "إضافة إجراء جديد",
+ "PREVIOUSACTIONS": "إجراءات من زيارتك السابقة",
+ "NEXTACTIONS": "تذكيرات لزيارتك التالية",
+ "ADDNEWTASK": "إضافة مهمة جديدة",
+ "ASKFORPHOTO": "طلب صورة",
+ "ALLOWTASK": "السماح بخطة العمل",
+ "WELCOMETO": "مرحبًا في",
+ "FORMULA": "الصيغة",
+ "TAB": "علامة تبويب",
+ "MISSIONPHOTONOTFOUNDERROR": "يُرجى التحقق من جميع الصور",
+ "YEAR(S)": "السنة (السنوات)",
+ "MONTH(S)": "الشهر (الشهور)",
+ "WEEK(S)": "الأسبوع (الأسابيع)",
+ "DAY(S)": "اليوم (الأيام)",
+ "SERVICECREATED": "تم إنشاء طلب جديد",
+ "SERVICEGROUPS": "تستطيع المجموعات مشاهدة/إكمال هذا الطلب",
+ "REPUBLISHACTIONPLAN": "إعادة نشر خطة العمل",
+ "HOME2": "الصفحة الرئيسية",
+ "SCHEDULE": "جدولة",
+ "COMPAREDTOPREVIOUSWEEK": "مقارنةً بآخر سبعة أيام",
+ "MEMO": "تذكير",
+ "REPUBLISH": "إعادة نشر",
+ "CONFORMITYPROGRESS": "الامتثال",
+ "CONFORMITY": "الامتثال",
+ "CONFORMITYRELATIVEPROGRESS": "الامتثال النسبي",
+ "PREFIX": "البادئة",
+ "SOURCE": "المصدر",
+ "METHOD": "الوسيلة",
+ "AUDITREPUBLISH": "استرداد البيانات",
+ "AUDITREPUBLISHWITHANSWERS": "هل تريد استرداد بيانات المهمة الأخيرة؟",
+ "BUTTONS": "الأزرار",
+ "STEPS": "الخطوات",
+ "WALKTHROUGH": {
+  "CROWD": {
+   "1": {
+    "DESCRIPTION": "Browse quests in shops around you.<br/> Select one. It’s on!"
+   },
+   "2": {
+    "DESCRIPTION": "Follow the instructions, step by step.<br/> In just a few minutes, the quest is completed"
+   },
+   "3": {
+    "DESCRIPTION": "Once your quest is validated, you get instantly paid. You nailed it!"
+   }
+  },
+  "TEAM": {
+   "1": {
+    "DESCRIPTION": "Fill in your visit reports directly on your app.<br/>The collected data is automatically sent to the HQ!."
+   },
+   "2": {
+    "DESCRIPTION": "Stay updated on current challenges and other news from your company, anytime."
+   },
+   "3": {
+    "DESCRIPTION": "Chat in real time with the HQ or support teams.<br/> Instant feedback and help!"
+   }
+  },
+  "SERVICE": {
+   "1": {
+    "DESCRIPTION": "Select a call request category.<br/>The brand receives your request instantly."
+   },
+   "2": {
+    "DESCRIPTION": "Track directly in the app the status of the requests made."
+   },
+   "3": {
+    "DESCRIPTION": "Contact the brand direct through the chat function, or by calling direct!"
+   }
+  }
+ },
+ "VOTE": "تصويت",
+ "ADDTASK": "إضافة مهمة",
+ "BACKGROUNDPROCESS": "إخفاء التعرف على الصور من الهاتف المتنقل",
+ "ASSIGNSUCCESS": "لقد قمت بإسناد هذه المهمة بنجاح.",
+ "MISSIONEMPTY": "لقد تم كل شيء! <br/> لقد حققت جميع أهدافك.",
+ "MEMOEMPTY": "لا توجد أية مهمة حتى الآن!",
+ "REQUESTEMPTY": "لا يوجد أي طلب حتى الآن!",
+ "HEALTHSCORE": "نتيجة الصحة",
+ "REACTIVITY": "التفاعلية",
+ "COMPLIANCE": "الالتزام",
+ "ACCURACY": "الدقة",
+ "VISITSCORE": "نتيجة الزيارة",
+ "EVOLUTION": "التطور",
+ "TAPTOINSERTCOMMENT": "انقر في أي مكان لإدخال تعليق",
+ "MYTASKLIST": "قائمة المهام الخاصة بي",
+ "NEWEVENTPUBLISHED": "تم نشر الحدث",
+ "NEWMEMOCREATED": "تم إنشاء مهمة جديدة",
+ "AT": "في",
+ "LASTHOUR": "الساعة الأخيرة",
+ "HEALTH": "الصحة",
+ "EDITACTION": "تعديل إجراء ما",
+ "SCHEDULESUCCESS": "تم تأجيل مهمتك بنجاح",
+ "TASKCREATEDESCRIPTION": "أضف مهمة ما إلى قائمة المهام",
+ "REQUESTCREATEDESCRIPTION": "قدّم طلباً من خيارات قالبك",
+ "EVENTCREATEDESCRIPTION": "أنشئ حدثاً في تقويم YOOBIC الخاص بك",
+ "MISSIONASSIGNDESCRIPTION": "قم بإسناد هذه المهمة لأحد زملائك",
+ "MISSIONSCHEDULEDESCRIPTION": "قم بتأجيل هذه المهمة وإضافتها إلى التقويم الخاص بك",
+ "MISSIONSAVING": "جارٍ إرسال مهمتك...",
+ "SERVICESAVING": "جارٍ إرسال طلبك...",
+ "PHOTOSPERPAGE": "صور لكل صفحة",
+ "TUTOFIRSTCONNEXIONTEXTONE": "مرحبًا بكم في الإصدار الجديد من <br>عمليات YOOBIC!",
+ "TUTOFIRSTCONNEXIONBTNONE": "ما الجديد؟",
+ "TUTOFIRSTCONNEXIONTEXTTWO": "وصول سهل إلى ميزاتك الأساسية بفضل شريط التصفح",
+ "TUTOFIRSTCONNEXIONBTNTWO": "رائع",
+ "TUTOFIRSTCONNEXIONTEXTTHREE": "أدر جميع عملياتك من الصفحة <strong>الرئيسة</strong>",
+ "TUTOFIRSTCONNEXIONBTNTHREE": "ممتاز",
+ "TUTOFIRSTCONNEXIONTEXTFOUR": "اعثر على <strong>مهماتك</strong> ...",
+ "TUTOFIRSTCONNEXIONBTNFOUR": "التالي",
+ "TUTOFIRSTCONNEXIONTEXTFIVE": "... وأنشئ <strong>مهماتك</strong> الخاصة على الصفحة ذاتها ...",
+ "TUTOFIRSTCONNEXIONBTNFIVE": "التالي",
+ "TUTOFIRSTCONNEXIONBTNSIX": "رائع",
+ "TUTOFIRSTCONNEXIONTEXTSIX": "... وابق على اطلاع على <strong>الطلبات</strong> التي قدمتها.",
+ "TUTOFIRSTCONNEXIONTEXTSEVEN": "انقر هنا للوصول إلى ميزات أكثر ولمشاهدة ملفك الشخصي ولاختيار <strong>إعداداتك</strong>",
+ "TUTOFIRSTCONNEXIONBTNSEVEN": "فلنبدأ!",
+ "TUTOSEARCHTEXT": "جعلنا الأمر سهلًا جدًا لتعثر على أي شيء في التطبيق",
+ "TUTOSEARCHBTN": "مذهل",
+ "TUTOCALENDARTEXT": "ادخل إلى <strong>التقويم</strong> لتحصل على جدول زمني لما يجب أن تقوم بفعله",
+ "TUTOCALENDARBTN": "رائع",
+ "TUTOADDTEXT": "نقرة واحدة هي كل ما يتطلبه الأمر لإنشاء <strong>مهمة</strong> أو <strong>طلب</strong> أو <strong>حدث</strong> أو لبدء <strong>محادثة</strong> جديدة",
+ "TUTOADDBTN": "جميل",
+ "TUTONEWSFEEDTEXTONE": "جرى تحسين قسم الأخبار لجعل <strong>مشاركة</strong> و<strong>قراءة</strong> الأخبار أسهل",
+ "TUTONEWSFEEDBTNONE": "ممتاز",
+ "TUTONEWSFEEDTEXTTWO": "يمكنك <strong>الإعجاب</strong> بالمنشورات في قسم الأخبار و<strong>التعليق</strong> عليها",
+ "TUTONEWSFEEDBTNTWO": "جميل",
+ "TUTOMYSTORETEXTONE": "يمكنك الوصول إلى <strong>اللمحات</strong> لتعرف كيف يبلي متجرك...",
+ "TUTOMYSTOREBTNONE": "رائع!",
+ "TUTOMYSTORETEXTTWO": "...وتساعدك <strong>الصحة</strong> على تقييم أداء متجرك...",
+ "TUTOMYSTOREBTNTWO": "رائع",
+ "TUTOCHATTEXTONE": "اقرأ <strong>محادثاتك</strong> التي باشرت بها وأجب عليها",
+ "TUTOCHATBTNONE": "جميل",
+ "TUTOCHATTEXTTWO": "انقر على <strong>مباشر</strong> للمحادثات الشخصية, وانقر على <strong>المجموعات</strong> للمحادثات في مجموعاتك",
+ "TUTOCHATBTNTWO": "فهمت!",
+ "TUTOACTIVITYTEXT": "ابق على اطلاع على ما يجري",
+ "TUTOACTIVITYBTN": "هائل",
+ "TOVALIDATE": "للتحقق",
+ "UNDEFINED": "متاحة",
+ "RENAMEYOURLIST": "أعد تسمية لائحتك",
+ "DELETEMEMOLISTCONFIRM": "هل أنت متأكد من حذف القائمة \"{{list}}\" وجميع المهمات التي فيها؟",
+ "MYAREA": "My Area",
+ "OPENMISSION": "فتح المهمة",
+ "LASTVISIT": "آخر زيارة",
+ "REQUESTRECEIVEDS": "الطلبات المستلمة",
+ "REQUESTRAISEDS": "الطلبات المقدمة",
+ "VISITS": "الزيارات",
+ "VISIT": "زيارة",
+ "LOCATIONINSIGHTSEXPLANATION": "تحقق من أداء المتجر",
+ "LOCATIONVISITSEXPLANATION": "اعثر على كل شيء يتعلق بزيارات متجرك",
+ "PASTMISSIONS": "المهمات السابقة",
+ "CHATWITHMANAGER": "تحدّث مع المدير",
+ "CONTACTEMPTY": "لا توجد جهات اتصال بعد",
+ "NOTEEMPTY": "لم تنشأ ملاحظات بعد",
+ "VISITCREATEDESCRIPTION": "سجّل زيارة عندما لا تريد إتمام مهمة",
+ "VISITCOUNT": "عدد الزيارات",
+ "MISSIONSTODOEMPTY": "انتهى. ليس لديك أي مهمات في هذا المتجر.",
+ "REQUESTRECEIVEDEMPTY": "ليس لديك أي طلبات مستلمة في هذا المتجر. عد في وقت لاحق!",
+ "PASTMISSIONSEMPTY": "لم تكمل أي مهمات في هذا المتجر بعد.",
+ "STORETODOEMPTY": "عد في وقت لاحق! لا توجد مهمات متوفرة حاليًا في هذا المتجر.",
+ "TOVALIDATEEMPTY": "انتهى. راجعت جميع المهمات",
+ "STOREPASTMISSIONSEMPTY": "لم تكمل أي مهمة في هذا المتجر بعد",
+ "TURNOVER": "معدل الدوران",
+ "AVGBASKET": " Average basket",
+ "CONVERSATIONRATE": "Conversation Rate",
+ "AVERAGE_BASKET": "معدل سعر السلّة",
+ "CONVERSION_RATE": "معدّل التحويل",
+ "MYTASKS": "قوائم مهماتي",
+ "MYMISSIONS": "مهماتي",
+ "NOEVENTTODAY": "ليس لديك أي أحداث اليوم",
+ "MEMOEDITED": "عدّلت مهمتك بنجاح",
+ "TUTOACTIVITYTWOTEXT": "اعثر على <strong>الإشعارات</strong> التي تلقيتها...",
+ "TUTOACTIVITYTHREETEXT": "...و<strong>سجلّ</strong> جميع المهمات المرسلة.",
+ "NEWFEEDPUBLISHEDOFFLINE": "حفظ منشورك للأخبار, لكن لا تنسَ المزامنة عندما تتصل بالإنترنت",
+ "NEWEVENTPUBLISHEDOFFLINE": "حفظ حدثك, لكن لا تنسَ المزامنة عندما تتصل بالإنترنت",
+ "NEWMEMOCREATEDOFFLINE": "حفظ مهمتك, لكن لا تنسَ المزامنة عندما تتصل بالإنترنت",
+ "SERVICESAVEDSUCCESSOFFLINE": "حفظ طلبك, لكن لا تنسَ المزامنة عندما تتصل بالإنترنت",
+ "UNBOOKSERVICECONFIRM": "هل أنت متأكد من إلغاء هذا الطلب؟",
+ "SHOWDETAILS": "إظهار التفاصيل",
+ "TUTOMYSTORETEXTTHREE": "...يجعلك <strong>الأداء</strong> تفهم أثر جهودك المبذولة.",
+ "MISSIONSAVINGOFFLINE": "تم حفظ مهمتك, لا تنس إجراء مزامنة عند الاتصال بالإنترنت",
+ "SERVICESAVINGOFFLINE": "حفظ طلبك, لكن لا تنسَ المزامنة عندما تتصل بالإنترنت",
+ "SYNCINGMISSIONS": "جاري مزامنة المهام, يُرجى الانتظار...",
+ "BOOKMISSIONS": "حجز المهام",
+ "BOOKMISSIONSCONFIRM": "هل أنت واثق أنك تريد حجز {{total}} مهام؟",
+ "BOOKINGMISSIONS": "جاري حجز مهامك, يُرجى الانتظار...",
+ "PREVIOUSSCORE": "الدرجات السابقة",
+ "SELECTCAMPAIGN2": "اختر حملة واحدة أو أكثر",
+ "MOVEDTOCOMPLETE": "‏‏نُقل إلى ما اكتمل",
+ "MOVEDTOTASKS": "نُقل إلى المهام",
+ "MYREQUEST": "طلبي",
+ "VIEWMISSIONS": "عرض المهام",
+ "REMINDERNOTIFICATIONTITLE": "التذكير بالمهمة:",
+ "REVIEW": "للمراجعة",
+ "BOOKYOURJOURNEYDESCRIPTION": "اختر جلسات متعددة قبل قطع الاتصال بالإنترنت ",
+ "MISSIONDELETEDESCRIPTION": "حذف هذه المهمة",
+ "DELETEAPCONFIRM": "هل أنت واثق أنك تريد حذف خطة العمل؟",
+ "DELETEACTIONCONFIRM": "هل أنت واثق أنك تريد حذف هذا العمل؟",
+ "SHOWIMAGERECOKPIS": "إظهار مؤشرات الأداء الأساسية",
+ "KPIS": "مؤشرات الأداء الأساسية",
+ "PENDINGOFFLINE": "لم يُرسل",
+ "REJECTEDBY": "تم التدقيق بواسطة",
+ "HEALTHSCOREDESCRIPTION": "تساعدك درجة السلامة لـ YOOBIC على تحليل سلامة متجرك. هذه الدرجة هي متوسط 4 مؤشرات يتم حسابها في عمليات YOOBIC.",
+ "REACTIVITYDESCRIPTION": "تتصل الاستجابة بتاريخ تسليم المهمة, ويزداد مؤشر الأداء الأساسي هذا عند تقديم المهمة في وقتها المحدد.",
+ "ACCURACYDESCRIPTION": "تتصل الدقة بحالة مهامك التي قدمتها. إن كانت مهامك مطابقة, فستزيد الدرجة.",
+ "COMPLIANCEDESCRIPTION": "يتصل التوافق بالحالة النهائية لمهامك. وفي حال نشر مهمتك عدة مرات, فسيؤخذ في الاعتبار حالة المهمة الأخيرة فقط. ",
+ "VISITSCOREDESCRIPTION": "درجة الزيارة هي الدرجة المتوسطة التي يتم الحصول عليها أثناء الزيارات التي يقوم بها مستخدمون آخرون.",
+ "NOAUDIO": "لا يبدو أن هاتفك يحوي تطبيقًا لتسجيل الصوت بشكل افتراضي",
+ "MISSIONNOTFOUND": "عذرًا, لم يمكننا العثور على المهمة المتصلة. ",
+ "REPUBLISHED": "أعيد نشرها",
+ "DISCOVERALLPHOTOSFROM": "اكتشاف كل الصور الواردة من: ",
+ "MYSTORE2": "متجري",
+ "GROUPEDBY": "تم التجميع بواسطة:",
+ "MYVISITS": "زياراتي",
+ "MYPASTMISSIONS": "مهامي الماضية",
+ "ANALYSIS": "التحليل",
+ "OVERVIEW2": "Overview",
+ "PREVIEWDESCRIPTION": "عرض أولي لنتيجة مهمتك الجارية",
+ "BUSINESSLOGIC.MISSIONBOOK": "تم حجز المهمة",
+ "BUSINESSLOGIC.MISSIONFINISH": "Mission was finished",
+ "OPERATIONSTESTSETTINGSLOKALISE1": "[uk] test settings lokalise 1",
+ "PENDINGVALIDATION": "التحقق معلّق",
+ "ADDEVENT": "أضف حدثًا",
+ "CONTACTPLACEHOLDER": "🤖 Find everyone in your Team.",
+ "NOTEPLACEHOLDER": "✏️ Write and share important things.",
+ "OPERATIONSSTART": "Start using Operations from the left column",
+ "PHOTOPLACEHOLDER": "📸 All your photos in one place!",
+ "HISTORYPLACEHOLDER": "🕰️ See and manage past events.",
+ "NOTIFICATIONPLACEHOLDER": "🔔 All your notifications.",
+ "BESTBEFORE": "من الأفضل استخدامه قبل",
+ "DAILYTASK": "المهام اليومية",
+ "SCAN": "المسح الضوئي",
+ "SCANFIRSTPRODUCT": "Scan your first product",
+ "BESTBEFOREEMPTY": "You haven't scanned a product yet.",
+ "BESTBEFOREDATE": "Best before date",
+ "REMINDERNOTIFICATIONBODY": "لا تنس استكمال المهمة!",
+ "MISSIONDATAS": "بيانات المهمات",
+ "AUTORENEWCONFIG": "تهيئة التجديد التلقائي",
+ "OUTOFSTOCK": "غير متوفر",
+ "CAMPAIGNFILTERS": "فلاتر الحملات",
+ "PRODUCTBATCH": "Product batch",
+ "PRODUCTBATCHEMPTY": "You haven't scanned any product yet.",
+ "PRODUCTBATCHDATE": "تاريخ انتهاء الصلاحية",
+ "PRODUCTBATCHWITHDRAWAL": "Withdrawal",
+ "PRODUCTBATCHMARKDOWN": "Markdown",
+ "PRODUCTBATCHMARKDOWNIDENTIFYPRODUCTS": "Have you identified products with the following expiry date?",
+ "PRODUCTBATCHMARKDOWNPRINTINGINSTRUCTION": "Generate a discount label",
+ "PRODUCTBATCHMARKDOWNNEWDLC": "Specify the next closest expiry date",
+ "PRODUCTBATCHWITHDRAWALCOUNTPRODUCTS": "Specify the number of products in the aisle with this expiry date:",
+ "PRODUCTBATCHDAILYCHECK": "You have {{count}} products to check today.<br/> Do you want to start now?",
+ "PRODUCTBATCHTREATEDPERDAY": "Batches treated per day",
+ "PRODUCTBATCHTIMESPENTPERDAY": "الوقت الذي يقضيه في اليوم الواحد",
+ "NEWCONTACT": "جهة اتصال جديدة",
+ "NEWNOTE": "ملاحظة جديدة",
+ "CREATOR": "Creator",
+ "MYSTORES": "متاجري",
+ "CAMPAIGNCREATIONTYPEMISSIONDESCRIPTION": "A mission is a form that you will publish on a location ",
+ "CAMPAIGNCREATIONTYPEAUDITDESCRIPTION": "An audit will be accessible by a field user",
+ "CAMPAIGNCREATIONTYPEREQUESTDESCRIPTION": "A store can raise a request that will be answered by the hierarchy",
+ "CAMPAIGNCREATIONTYPEPOLLDESCRIPTION": "A poll is a form that you will publish in some groups of user",
+ "DISCARD": "تجاهل",
+ "MYPRODUCTBATCHES": "Expiry date tracking",
+ "AISLE": "الممر",
+ "AISLES": "الممرات",
+ "SCANNED": "الممسوحة ضوئيًا",
+ "HIGHLIGHTTAGS": "منتجات العلم",
+ "PRODUCTBATCHAISLEINSTRUCTION": "<span style='text-align:center'>Scan products in the following order: <br>1. from top to bottom and <br>2. from left to right <br>to simplify the process.</span>",
+ "PRODUCTBATCHAISLESELECT": "اختر الممر",
+ "PRODUCTBATCHAISLEADD": "أضف ممرًا جديدًا",
+ "MYONGOINGMISSIONS": "مهماتي الجارية",
+ "INVALIDPRODUCTSCANNED": "Product not recognised",
+ "ADDMISSIONTOCALENDARCONFIRM": "هل تريد إضافة هذه المهمة إلى تقويمك الشخصي؟",
+ "NEWMISSIONAVAILABLE": "مهمة جديدة متاحة: {{mission_name}}.",
+ "TASKCOMPLETED": "قد تم إنهاء التكليف {{task_name}}.",
+ "TASKREMINDER": "تذكير: التكليف {{task_name}} مقرر تقديمه في يوم واحد. لا تنسَ إكماله.",
+ "TASKASSIGNEDTOYOU": "تم تعيين التكليف {{task_name}} لك بواسطة {{user_fullname}}.",
+ "MISSIONDUEINONEDAY": "تذكير: المهمة {{mission_name}} مقرر تقديمها في يوم واحد. لا تنسَ إكمالها.",
+ "MISSIONDUETODAY": "تذكير: المهمة {{mission_name}} مقرر تقديمها اليوم. لا تنس إكمالها.",
+ "SUBMITMISSIONREMINDER": "تذكير: لا تنسّ إرسال {{mission_name}} المهمة.",
+ "COMPLETEMISSIONREMINDER": "تذكير: لا تنسَ إكمال المهمة {{mission_name}}.",
+ "NEWDOCUMENTUPLOADED": "تم تحميل مستندات جديدة.",
+ "ACTIONPLANISDUE": "تذكير: خطة العمل{{action_plan_name}} مقرر تقديمها في يوم واحد. لا تنسَ إكمالها.",
+ "MISSIONARCHIVED": "تم أرشفة المهمة {{mission_name}}.",
+ "MISSIONVALIDATED2": "مهمتك مطابقة",
+ "ACTIONPLANFINISHED": "لقد تم الانتهاء من خطة العمل {{action_plan_name}}.",
+ "SCOREVALUE": "ملاحظة",
+ "PHOTOANNOTATED": "تم شرح صورة من المهمة {{mission_name}} - {{store_name}}.",
+ "ACTIONPLANASSIGNEDTOYOU": "تم تعيين خطة العمل {{action_plan_name}} لك بواسطة {{user_fullname}}.",
+ "MISSIONREPUBLISHED": "أُعيد نشر المهمة {{mission_name}}.",
+ "REQUESTCREATED": "تم إنشاء طلب {{request_name}} بواسطة {{user_fullname}} في المتجر.",
+ "REQUESTANSWERED": "تم الرد على طلبك {{request_name}}.",
+ "REMINDERACTIONPLAN": "تذكير: لا تنسَ إكمال خطة العمل {{action_plan_name}}.",
+ "PRODUCTBATCHCLOSESTEXPIRATIONDATE": "The next closest expiry date is",
+ "PRODUCTBATCHCHANGEDATE": "Input the next closest expiry date",
+ "PRODUCTBATCHVALID": "Valid",
+ "SCANABARCODE": "Scan the barcode",
+ "SCANADATE": "Scan the expiry date",
+ "STARTSCAN": "Start scanning",
+ "NUMBERSTORES": "Number of stores",
+ "SERVICES2": "طلبات",
+ "PRODUCTBATCHCREATECONFIRM": "This product already exists in aisle: {{aisle}}. Are you sure you want to continue?",
+ "VIEWTODOS": "View action plans",
+ "PRODUCTBATCH48HOURS": "< 48 hours",
+ "TREATED": "Treated",
+ "DELETEOUTOFSTOCK": "Delete this batch",
+ "SHOWBARCODE": "Display barcode",
+ "SSOINSTRUCTION": "Please enter your company name to Log into Operations",
+ "PRODUCTBATCHCREATED": "New batch created for",
+ "PRODUCTBATCHCHANGEDATE24HOURS": "Remove products with the above expiry date from the aisle and input the next closest expiry date",
+ "MISSIONREJECTED2": "Your mission is not compliant: {{mission_name}} - {{store_name}}.",
+ "GALLERY2": "صور",
+ "LOGINTOOPERATIONS": "Log In to Operations",
+ "CREATECAMPAIGNHEADING": "Grow your team with our new Campaign Creator.",
+ "HELPCREATECAMPAIGN": "We can help you to create the campaign you need.",
+ "LETUSGUIDEYOU": "Let us guide you",
+ "CREATECAMPAIGN": "Create Campaign",
+ "ARCHIVECAMPAIGN": "أرشفة الحملة",
+ "PUBLISH": "أنشر",
+ "LIVEPREVIEW": "Live preview",
+ "FINISHCAMPAIGN": "Finish Campaign",
+ "ARCHIVECAMPAIGNCONFIRM": "Are you sure you want to archive all the available and ongoing missions of this campaign : {{title}}?",
+ "ARCHIVECAMPAIGNSCONFIRM": "Are you sure you want to archive all the available and ongoing missions for those {{count}} campaigns?",
+ "CLONECAMPAIGN": "Clone campaign",
+ "CLONECAMPAIGNCONFIRM": "Are you sure you want to clone this campaign: {{title}}?",
+ "CLONECAMPAIGNSCONFIRM": "Are you sure you want to clone those {{count}} campaigns?",
+ "EDITCAMPAIGN": "Edit Campaign",
+ "CAMPAIGNEDITORSTORES": "Stores",
+ "CAMPAIGNEDITORSTORESDESCRIPTION": "Assign the campaign to",
+ "CAMPAIGNEDITORSTORESEDIT": "Add Stores",
+ "CAMPAIGNEDITORSCHEDULE": "Add",
+ "CAMPAIGNEDITORSCHEDULEDESCRIPTION": "Setup due date, start date & end date",
+ "CAMPAIGNEDITORSCHEDULEEDIT": "Add Date",
+ "CAMPAIGNEDITORCONTENT": "Content",
+ "CAMPAIGNEDITORCONTENTDESCRIPTION": "Design your campaign adding pages & forms",
+ "CAMPAIGNEDITORCONTENTEDIT": "Design",
+ "CAMPAIGNEDITORSETTINGS": "Settings",
+ "CAMPAIGNEDITORSETTINGSDESCRIPTION": "Setup permissions and compliance",
+ "CAMPAIGNEDITORSETTINGSEDIT": "Setup",
+ "CAMPAIGNEDITORNOTIFICATIONS": "Notifications",
+ "CAMPAIGNEDITORNOTIFICATIONSDESCRIPTION": "Send push notifications with customized message to the users involved",
+ "CAMPAIGNEDITORNOTIFICATIONSEDIT": "Send",
+ "PDFCLASSICDESCRIPTION": "Create a PDF report with the mission data",
+ "PDFPHOTOREPORTDESCRIPTION": "Create a PDF report with the photos of the mission",
+ "PDFAUDITEXPORTSDESCRIPTION": "Create a PDF audit report",
+ "PDFCONTRACTDESCRIPTION": "Create a PDF contract",
+ "BUSINESSLOGIC.MISSIONUNBOOK": "Mission was unbooked",
+ "CONFERENCEFAILED": "Conference has failed",
+ "RECIEVERLEFT": "Reciever has left",
+ "CAMPAIGNCREATOR": "Campaign Creator",
+ "GENERATEMISSIONS": "Generate {{total}} campaign(s) over {{totalLocations}} Store(s)",
+ "GENERATEMISSIONSCONFIRM": "Are you sure you want to generate the campaign \"{{title}}\" over {{totalLocations}} store(s) ?",
+ "GENERATE": "Generate",
+ "GENERATEPOLLSCONFIRM": "Are you sure you want to generate the poll \"{{title}}\"?",
+ "MISSIONSPUBLISHED": "{{count}} missions of campaign \"{{title}}\" were published.",
+ "ENABLEMISSIONLIVESYNC": "Enable mission live sync",
+ "PRODUCTBATCHTODOTITLE": "You’re almost there 💪",
+ "RAISEDTAG": "Raised",
+ "VISITFREQUENCY": "Visit Frequency",
+ "HASAVAILABLEMISSIONS": "With available missions",
+ "YOUAREALMOSTTHERE": "You're almost there 💪",
+ "YOUHAVEONEITEM": "🔎 You have 1 item",
+ "KPIMISSIONDATACORRELATIONS": "Mission data correlation",
+ "KPIMISSIONDATACORRELATIONSDESCRIPTION": "Correlation 2 fields of your campaign",
+ "KPIMISSIONDATAS": "Mission data",
+ "KPIMISSIONDATASDESCRIPTION": "Analyze specific answers to your missions",
+ "KPIMISSIONPHOTOS": "Photos Carousel",
+ "KPIMISSIONPHOTOSDESCRIPTION": "See your latest photos for a specific mission",
+ "SCORE.VALUE": "ملاحظة",
+ "CAMPAIGNCREATIONTYPELESSONDESCRIPTION": "A lesson is a quiz that will be used in Boost",
+ "WITHDRAWALDELAY": "Withdrawal delay (in days)",
+ "MARKDOWNDELAY": "Markdown delay (in days)",
+ "MYPRODUCTBATCHESSHORT": "Expiry date",
+ "ADDNEWSCORING": "New Scoring",
+ "SCORINGINSTRUCTIONS": "Start adding Block Scoring from each block",
+ "SHOWBLOCK": "Then show block",
+ "SHOWPAGE": "Then show page",
+ "CREATENEWAISLE": "Create a new aisle",
+ "STARTINVENTORY": "Click to start inventory",
+ "PRODUCTBATCHDAILYKPIMARKDOWN": "Markdown Alerts",
+ "PRODUCTBATCHDAILYKPIWITHDRAWAL": "Withdrawal Alerts",
+ "PRODUCTBATCHDAILYKPIALL": "All Alerts",
+ "MARKDOWN": "Markdown",
+ "WITHDRAWAL": "Withdrawal",
+ "SHOWAISLES": "Show Aisles",
+ "KPICAMPAIGNSACTIVEPOS": "نقاط بيع نشطة",
+ "KPICAMPAIGNSACTIVEPOSDESCRIPTION": "النسبة المئوية لنقاط البيع المتضمنة لمهمة منتهية واحدة على الأقل",
+ "KPICAMPAIGNSAUDITPROGRESS": "تقدم المعاينة",
+ "KPICAMPAIGNSAUDITPROGRESSDESCRIPTION": "عرض الأعداد المرضية/غير المرضية لكل معاينة",
+ "KPICAMPAIGNSCONFORMITYPROGRESSDESCRIPTION": "نسبة المهمات المطابقة",
+ "KPICAMPAIGNSCONFORMITYRELATIVEPROGRESS": "امتثال المهام النسبي",
+ "KPICAMPAIGNSCONFORMITYRELATIVEPROGRESSDESCRIPTION": "مطابقة المهمات المنجزة مقارنة بعدد المهمات المنتهية",
+ "KPICAMPAIGNSCORRELATIONPOSDESCRIPTION": "الارتباط بين عدد الزيارات وامتثال المتجر",
+ "KPICAMPAIGNSDURATION": "مدة الحملات",
+ "KPICAMPAIGNSDURATIONDESCRIPTION": "تعقب استكمال وتأكيد صحة مدة الحملات",
+ "KPICAMPAIGNSFREQENCYPOSDESCRIPTION": "نسبة الزيارات إلى نقاط البيع الخاصة بك",
+ "KPICAMPAIGNSLEARNINGCURVEDESCRIPTION": "تطور معدل المطابقة",
+ "KPICAMPAIGNSMAP": "خارطة",
+ "KPICAMPAIGNSMAPDESCRIPTION": "خارطة لتحليل مهماتك",
+ "KPICAMPAIGNSPIVOTTABLE": "جدول ديناميكي",
+ "KPICAMPAIGNSPIVOTTABLEDESCRIPTION": "أنشئ جدولا ديناميكيا لتحليل بيانات مهماتك",
+ "KPICAMPAIGNSPROGRESSDESCRIPTION": "مشاهدة تقدم إنجاز المهمات",
+ "KPICAMPAIGNSTEMPORALLEARNINGCURVE": "المنحنى التعليمي في المتاجر",
+ "KPICAMPAIGNSTEMPORALPOS": "زيارات نقاط البيع",
+ "KPICAMPAIGNSTEMPORALPOSDESCRIPTION": "متابعة زيارات نقاط البيع زمنياً",
+ "KPICAMPAIGNSTEMPORALPROGRESSDESCRIPTION": "متابعة نشاط المهمات المنتهية زمنياً",
+ "KPICAMPAIGNSTEMPORALUSER": "مستخدمون نشطون",
+ "KPICAMPAIGNSTEMPORALUSERDESCRIPTION": "متابعة المستخدمين النشطين زمنياً",
+ "KPICAMPAIGNSTEMPORALVALIDATION": "نشاط المصادقة زمنيا",
+ "KPICAMPAIGNSTEMPORALVALIDATIONDESCRIPTION": "متابعة نشاط المهمات المصادق عليها زمنياً",
+ "KPICAMPAIGNSTRANSFORMATIONRATE": "معدل التحويل",
+ "KPICAMPAIGNSTRANSFORMATIONRATEDESCRIPTION": "أحسب معدل التحويل الخاص بعملياتك",
+ "KPICAMPAIGNSVALIDATIONPROGRESSDESCRIPTION": "تقدم تحليل المهمات المنتهية",
+ "KPICAMPAIGNSFREQENCYPOS": "نسبة الزيارات",
+ "KPICAMPAIGNSPROGRESS": "معدل الاستكمال",
+ "KPICAMPAIGNSVALIDATIONPROGRESS": "مُعدل التحقق",
+ "KPICAMPAIGNSCONFORMITYPROGRESS": "معدل الامتثال",
+ "KPICAMPAIGNSTEMPORALPROGRESS": "نشاط وقتي",
+ "KPICAMPAIGNSLEARNINGCURVE": "المنحنى التعليمي في المتاجر",
+ "KPICAMPAIGNSCORRELATIONPOS": "ارتباط تكرار الزيارة",
+ "PRICEAUDIT": "Price Audit",
+ "PRICECHECK": "Price Check",
+ "SCANPRICE": "Scan a price",
+ "VALIDPRODUCTSCANNED": "Product recognised",
+ "SCANAPRICE": "Scan a price 🏷️",
+ "RESCAN": "Rescan",
+ "TREATEDDATE": "Treated Date",
+ "REMOVEDCOUNT": "Removed Count",
+ "ISOUTOFSTOCK": "Is out of stock",
+ "NOTHINGTODECLARE": "Nothing to remove in this aisle today",
+ "REJECT": "غير مطابق(ة)",
+ "NEEDGEOPERMISSION": "Please enable location service for augmented reality to work",
+ "IMAGERECOOFFLINE": "Image Recognition can not be used in Offline mode. Go back online and try again.",
+ "GEOCODECSV": "Import CSV/Excel",
+ "GEOCODING": "Geocoding",
+ "PUBLISHMULTIPLECAMPAIGNCONFIRM": "Are you sure you want to publish {{count}} campaigns ?",
+ "TASKLIST": "قائمة المهام",
+ "TASKLISTS": "قوائم المهام",
+ "REQUESTS": "طلبات",
+ "TODOS": "مخططات العمل",
+ "PASTMISSION": "المهمة السابقة",
+ "MYACTIONPLANS2": "My Action Plans",
+ "POLLANONYMOUS": "Hide voters' names",
+ "EDITAISLE": "Edit Aisle",
+ "SCANMANUALLY": "Manually enter the reference",
+ "NOMAX": "To add a scoring to this field please add a maximum value in the field settings.",
+ "POLLVALUES": "قيم",
+ "SERVICE": "طلب",
+ "NEWCATALOG": "New Catalogue",
+ "USERSCOUNT": "Users count",
+ "MYACTIONPLANS": "مخططات العمل",
+ "PRODUCTBATCHTREATEDPERDAYDESCRIPTION": "The number of products treated divided by the number of products to control. (Updated at midnight)",
+ "PRODUCTBATCHTIMESPENTPERDAYDESCRIPTION": "The number of products to control divided by the number of products in my aisle. (Updated at midnight)",
+ "PRODUCTBATCHDAILYKPIDESCRIPTION": "Overview of the advancement of today's controls",
+ "TOVALIDATEVISIT": "Visits to validate",
+ "VISITNOTIFTITLE": "Visit scheduled on {{date}} - {{store_name}}.",
+ "VISITVALIDATED": "The visit has been approved.",
+ "VISITREJECTED": "The visit has been rejected.",
+ "OUTOFSTOCKSINCE": "Out of stock since",
+ "PRODUCTBATCHOUTOFSTOCKDELAY": "Out of stock",
+ "OUTOFSTOCKDELAY": "Out of stock delay (in days)",
+ "KEEPINOUTOFSTOCK": "Keep in out of stock",
+ "VALUE/TRUE": "VALUE/TRUE",
+ "NOVALUE/FALSE": "NOVALUE/FALSE",
+ "ATTENDANCE": "Attendance"
+}

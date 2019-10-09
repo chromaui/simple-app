@@ -1,0 +1,115 @@
+.info {
+    font-size: large;
+    position: absolute;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: rgb(165, 37, 37);
+    text-align: center;
+    top: 0;
+    left: 0;
+    opacity: 0.7;
+    display: table;
+}
+
+.header {
+    font-size: large;
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    /*background-color: rgb(165, 37, 37);*/
+    text-align: center;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    position: relative;
+    /*background: lightgray;*/
+    display: flex;
+    justify-content: center;
+    flex: 2;
+}
+
+.containerProductName {
+    position: relative;
+    /*background: lightgray;*/
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.screen {
+    width: 100%;
+    height: 100%;
+    /*background:rgba(219, 175, 212, 0.62) ; */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.lowerDrawer {
+    width: 85%;
+    height: 10%;
+    background: rgb(243, 243, 243);
+    border-radius: 15px;
+    text-align: center;
+    position: fixed;
+    bottom: 25px;
+    align-self: center;
+    opacity: 1;
+    padding-top: 12px;
+    padding-bottom: 24px;
+    padding-left: 12px;
+    padding-right: 12px;
+    display: none;
+    flex-direction: column;
+}
+
+.buttonContainer {
+    flex: 1 1 auto;
+    /*background: rgba(129, 155, 35, 0.62);*/
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    border-radius: 15px;
+    background: rgba(2, 119, 252, 0.95);
+    border-color: rgba(2, 119, 252, 0.95);
+    color: aliceblue;
+    font-size: 16px;
+    opacity: 0.95;
+    width: 95%;
+    height: 80%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.productName {
+    /*background: rgba(155, 83, 35, 0.62);*/
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: left;
+    padding-left: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    flex: 1;
+}
+
+.productPrice {
+    /*background: rgba(155, 83, 35, 0.62);*/
+    display: flex;
+    flex: 1;
+    width: 50%;
+    align-items: flex-end;
+    direction: rtl;
+    text-align: justify;
+    font-size: 18px;
+}

@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <script src="/stencil.client.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="https://i.icomoon.io/public/882c830429/yoobicons-V6/style.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/icon/favicon.ico?=v3" />
+    <title>YOBI - Design System</title>
+    <script type="module" src="/build/design-system.esm.js"></script>
+    <link rel="stylesheet" type="text/css" href="/build/design-system.css" />
+    <script nomodule src="/build/design-system.js"></script>
+    <script src="login-helpers.js"></script>
+</head>
+
+<body>
+    <yoo-app class="web operations">
+        <yoo-login left-panel-web-header-icon='./assets/storybook/logo/logo.svg'
+            left-panel-mobile-header-icon="./assets/storybook/logo/logo.svg"
+            video-background-url="./assets/storybook/video/operations.mp4"
+            video-header-icon="./assets/storybook/logo/logo.svg" hide-advanced-login="true"
+            web-title-text="YOBI Design System" web-login-form-subtitle="Welcome to YOOBIC's design-system"
+            left-panel-footer-text="Powered BY" web-login-form-subtitle="" remember-me-text="Remember me"
+            forgot-password-text="Help" email-label="Email" password-label="Password" logo-subtitle="Glad to see you"
+            magic-link-button-text="Magic link" reset-password-button-text="Reset password" login-button-text="Login">
+        </yoo-login>
+        <yoo-ion-modal-controller></yoo-ion-modal-controller>
+    </yoo-app>
+</body>
+
+</html>
+<script>
+    window.YOOBIC = window.YOOBIC || {};
+    window.YOOBIC.config = { _isWeb: true, _isIonic: false };
+
+    const yooLogin = document.querySelector('yoo-login');
+    yooLogin.currentLanguage = 'en';
+    yooLogin.webSubtitleText = ['Welcome', 'to', 'YOOBIC Design System'];
+    yooLogin.addEventListener('doLogin', login);
+
+    function login(loginDetails) {
+        isValidUser(loginDetails).then(res => {
+            res.json().then((data) => {
+                const token = data.$mcfly$token;
+                localStorage.setItem("token", token);
+                if (token) {
+                    goToStorybook();
+                } else {
+                    alert('Something went wrong when logging in!');
+                }
+            })
+        }).catch(error => {
+            alert(error);
+        });
+    }
+</script>

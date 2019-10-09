@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="88px" viewBox="0 0 102 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>notemplate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="72" height="58" rx="4"></rect>
+        <filter x="-34.7%" y="-34.5%" width="169.4%" height="186.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="72" height="58" rx="4"></rect>
+        <filter x="-34.7%" y="-34.5%" width="169.4%" height="186.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-27.000000, -7126.000000)" id="Operations">
+            <g transform="translate(42.000000, 48.000000)">
+                <g id="notemplate" transform="translate(0.000000, 7088.000000)">
+                    <g id="Rectangle">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                        <rect fill="#E7EFF5" mask="url(#mask-5)" x="-1" y="0" width="73" height="11"></rect>
+                    </g>
+                    <circle id="Oval" fill="#04CC99" cx="35.5" cy="32.5" r="12.5"></circle>
+                    <path d="M41.2596811,31.7683101 L36.2403189,31.7683101 L36.2403189,26.7409518 C36.2403189,26.3317354 35.9088668,26 35.5,26 C35.0911332,26 34.7596811,26.3317354 34.7596811,26.7409518 L34.7596811,31.7683101 L29.7403189,31.7683101 C29.3314521,31.7683101 29,32.1000455 29,32.5092619 C29,32.9184783 29.3314521,33.2502137 29.7403189,33.2502137 L34.7596811,33.2502137 L34.7596811,38.2590482 C34.7596811,38.6682646 35.0911332,39 35.5,39 C35.9088668,39 36.2403189,38.6682646 36.2403189,38.2590482 L36.2403189,33.2502137 L41.2596811,33.2502137 C41.6685479,33.2502137 42,32.9184783 42,32.5092619 C42,32.1000455 41.6685479,31.7683101 41.2596811,31.7683101 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

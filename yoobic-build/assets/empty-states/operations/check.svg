@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="60.881%" y1="74.0327464%" x2="32.4700625%" y2="-13.3084847%" id="linearGradient-1">
+            <stop stop-color="#15DABA" offset="0%"></stop>
+            <stop stop-color="#13DEB4" offset="20.5%"></stop>
+            <stop stop-color="#0DE8A2" offset="49.01%"></stop>
+            <stop stop-color="#04F884" offset="82.08%"></stop>
+            <stop stop-color="#00FF78" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-42.000000, -1974.000000)" fill="#04CC99" id="Operations">
+            <g transform="translate(42.000000, 48.000000)">
+                <g id="check" transform="translate(0.000000, 1926.000000)">
+                    <g id="success">
+                        <path d="M25,0 C11.2153846,0 0,11.2144231 0,25 C0,38.7855769 11.2153846,50 25,50 C38.7846154,50 50,38.7855769 50,25 C50,11.2144231 38.7846154,0 25,0 Z M38.9375,16.6625 L23.5528846,33.9701923 C23.1740385,34.3961538 22.6461538,34.6153846 22.1144231,34.6153846 C21.6923077,34.6153846 21.2682692,34.4769231 20.9134615,34.1942308 L11.2980769,26.5019231 C10.4692308,25.8394231 10.3346154,24.6288462 10.9980769,23.7990385 C11.6605769,22.9692308 12.8721154,22.8346154 13.7009615,23.4980769 L21.8903846,30.0490385 L36.0625,14.1057692 C36.7663462,13.3115385 37.9836538,13.2403846 38.7769231,13.9461538 C39.5711538,14.6528846 39.6432692,15.8682692 38.9375,16.6625 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

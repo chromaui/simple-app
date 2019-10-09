@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="80px" viewBox="0 0 106 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>mobile/operations/speedometer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="76" height="50" rx="3"></rect>
+        <filter x="-32.9%" y="-40.0%" width="165.8%" height="200.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#F46885" offset="0%"></stop>
+            <stop stop-color="#F46885" offset="27.475%"></stop>
+            <stop stop-color="#FDB93F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile-Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustrations" transform="translate(-491.000000, -7613.000000)">
+            <g id="Operations" transform="translate(40.000000, 56.000000)">
+                <g id="mobile/operations/speedometer" transform="translate(466.000000, 7567.000000)">
+                    <g id="stats">
+                        <rect id="Rectangle" fill="#BFD0DA" transform="translate(34.000000, 51.656854) rotate(-315.000000) translate(-34.000000, -51.656854) " x="32.5" y="45.1568542" width="3" height="13" rx="1.5"></rect>
+                        <rect id="Rectangle" fill="#BFD0DA" transform="translate(42.000000, 51.656854) rotate(-45.000000) translate(-42.000000, -51.656854) " x="40.5" y="45.1568542" width="3" height="13" rx="1.5"></rect>
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="dashboard" transform="translate(8.000000, 16.000000)" fill="#04CC99">
+                            <path d="M20,0.0353190729 L20,18 L0,18 L0,7.12215515 C2.41396025,6.78485764 3.6839554,7.30156872 4.39360155,7.83980944 C5.70625303,8.82478995 5.51817741,10.147068 6.88124091,10.9203405 C7.93213766,11.5159935 9.50848279,11.5572586 10.6291808,11.0495182 C13.7896268,9.61420966 12.1958313,4.57089416 15.5249636,1.59083474 C15.8526418,1.29659648 17.6597189,-0.251742642 20,0.0353190729 Z" id="Path"></path>
+                        </g>
+                        <g id="graph" transform="translate(42.000000, 18.000000)" fill="#B3C2CC">
+                            <g id="Group">
+                                <path d="M4.27565367,15 L0.633416026,15 C0.283604864,15 0,14.7366354 0,14.4117532 L0,0.588246797 C0,0.263380031 0.283604864,0 0.633416026,0 L4.27565367,0 C4.62548605,0 4.90909091,0.263380031 4.90909091,0.588246797 L4.90909091,14.4117532 C4.90909091,14.7320648 4.63342231,14.9925728 4.27565367,15 Z" id="Path"></path>
+                                <path d="M10.8211082,15 L7.17887057,15 C6.82905937,15 6.54545455,14.7951609 6.54545455,14.5424747 L6.54545455,3.79085862 C6.54545455,3.53818447 6.82905937,3.33333333 7.17887057,3.33333333 L10.8211082,3.33333333 C11.1709406,3.33333333 11.4545455,3.53818447 11.4545455,3.79085862 L11.4545455,14.5424747 C11.4545455,14.791606 11.1788769,14.9942233 10.8211082,15 Z" id="-copy-9"></path>
+                                <path d="M17.3665627,15 L13.7243251,15 C13.374514,15 13.0909091,14.8536863 13.0909091,14.6731962 L13.0909091,6.99347043 C13.0909091,6.81298891 13.374514,6.66666667 13.7243251,6.66666667 L17.3665627,6.66666667 C17.7163951,6.66666667 18,6.81298891 18,6.99347043 L18,14.6731962 C18,14.8511471 17.7243314,14.9958738 17.3665627,15 Z" id="-copy-10"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    <![CDATA[
+      .line-message1-a {animation:line-message1-bounce 1s ease-in-out infinite;}
+      .line-message1-b {animation:line-message1-bounce 1s ease-in-out 200ms infinite;}
+      .line-message1-c {animation:line-message1-bounce 1s ease-in-out 400ms infinite;}
+      @keyframes line-message1-bounce {
+        0%{transform:translate3d(0, 4px, 0);}
+        50%{transform:translate3d(0, -6px, 0);}
+        100%{transform:translate3d(0, 4px, 0);}
+      }
+    ]]>
+  </style>
+  <path d="M2 41C2 22.6872 20.407 3 50.5 3C76.6794 3 98 19.7547 98 41C98 62.3029 80.1586 83.3232 47.4022 81.2346C46.9775 81.2076 46.5423 81.315 46.1739 81.5551L23 96.6549L23 76.7615C23 75.9893 22.5507 75.3012 21.8873 74.9661C13.0259 70.4907 8.10589 65.6217 5.36744 60.143C2.61519 54.6366 2 48.3889 2 41Z" fill="white" stroke="black" stroke-width="2"/>
+  <circle class="line-message1-a" cx="28.5" cy="43" r="5" fill="white" stroke="black" stroke-width="2"/>
+  <circle class="line-message1-b" cx="50.5" cy="43" r="5" fill="white" stroke="black" stroke-width="2"/>
+  <circle class="line-message1-c" cx="72.5" cy="43" r="5" fill="white" stroke="black" stroke-width="2"/>
+</svg>

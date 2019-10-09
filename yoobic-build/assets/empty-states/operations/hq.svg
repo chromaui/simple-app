@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="89px" viewBox="0 0 122 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>hq</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.93" y="61.07" width="88.5" height="4.37"></rect>
+        <filter x="-33.9%" y="-549.2%" width="167.8%" height="1473.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0.93" y="61.07" width="88.5" height="4.37"></rect>
+        <filter x="-33.9%" y="-549.2%" width="167.8%" height="1473.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="52.9793633%" y1="96.5472702%" x2="49.1667944%" y2="78.7742812%" id="linearGradient-5">
+            <stop stop-color="#CFDDF3" offset="0%"></stop>
+            <stop stop-color="#B2C7ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="129.905135%" x2="-23.5971448%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#CFDDF3" offset="0%"></stop>
+            <stop stop-color="#A1B8E3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="228.789199%" y1="64.9967358%" x2="0%" y2="59.2705822%" id="linearGradient-7">
+            <stop stop-color="#CFDDF3" offset="0%"></stop>
+            <stop stop-color="#A1B8E3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="228.789199%" y1="80.9202916%" x2="0%" y2="69.1140998%" id="linearGradient-8">
+            <stop stop-color="#CFDDF3" offset="0%"></stop>
+            <stop stop-color="#A1B8E3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile-Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustrations" transform="translate(-25.000000, -4074.000000)">
+            <g id="Operations" transform="translate(40.000000, 56.000000)">
+                <g id="hq" transform="translate(1.000000, 4018.000000)">
+                    <g>
+                        <rect id="Rectangle" fill="#F8FAFC" x="3.85" y="17.77" width="21.17" height="46.28" rx="2"></rect>
+                        <rect id="Rectangle" fill="#F8FAFC" x="65.35" y="29.61" width="21.17" height="34.45" rx="2"></rect>
+                        <rect id="Rectangle-2" fill="#EDF4F9" x="24.16" y="0.27" width="42.03" height="64.29"></rect>
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                    <g>
+                        <rect id="Rectangle" fill="#F8FAFC" x="3.85" y="17.77" width="21.17" height="46.28" rx="2"></rect>
+                        <rect id="Rectangle" fill="#F8FAFC" x="65.35" y="29.61" width="21.17" height="34.45" rx="2"></rect>
+                        <rect id="Rectangle-2" fill="#EDF4F9" x="24.16" y="0.27" width="42.03" height="64.29"></rect>
+                        <rect id="Rectangle" fill="#E3E7F2" x="39" y="40" width="12" height="21"></rect>
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                    <g id="tree-3" transform="translate(4.000000, 27.000000)" opacity="0.8">
+                        <g id="tree">
+                            <path d="M8.768243,27.7756943 C11.565899,26.8421782 16.847357,25.4268193 12.949155,19.4963931 C11.414667,17.1619555 14.047712,14.4333066 12.526569,12.470015 C10.88119,10.3463872 8.696605,9.4242599 9.772025,7.28461285 C10.836735,5.16619057 10.975591,2.63733637 9.506961,1.7573998 C6.853941,0.167871283 4.564823,3.37718368 1.899631,6.60921637 C0.275009,8.57935283 0.579649,10.7644117 1.140088,12.2589176 C1.851674,14.1564355 4.998425,16.6370306 4.343653,18.7133772 C3.688881,20.7897526 0.161347,22.5131295 2.093431,25.8679092 C3.286967,27.940287 6.497553,28.5333728 8.768243,27.7756943 Z" id="leaves" fill="#E3EDFA"></path>
+                            <path d="M8.62685984,33.5125448 C9.20209213,29.5512706 5.59001447,27.213862 7.80506626,23.1708781 C9.91095433,19.327172 9.42693236,15.4350251 7.3610137,13.3230645 C5.62361269,11.5468996 6.22921434,7.28422581 7.12219225,4.08789068" id="stem" stroke="url(#linearGradient-5)" stroke-width="0.6" fill-opacity="0" fill="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M8.7537283,19.2544808 C7.6947846,18.8313621 6.92731275,18.3035851 6.21641385,17.5483893" id="branch" stroke="url(#linearGradient-6)" stroke-width="0.6" fill-opacity="0" fill="#000000" opacity="0.40234375" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M7.35820845,24.8602187 C8.44002299,24.9355298 11.57469,23.837437 11.9253681,22.6666693" id="branch" stroke="url(#linearGradient-7)" stroke-width="0.6" fill-opacity="0" fill="#000000" opacity="0.40234375" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M6.72388529,12.186377 C6.38547669,12.0837282 4.27547196,11.0250121 3.5522383,9.74910346" id="branch" stroke="url(#linearGradient-8)" stroke-width="0.6" fill-opacity="0" fill="#000000" opacity="0.40234375" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                    <g id="tree-2" transform="translate(72.000000, 21.000000)">
+                        <g id="tree">
+                            <path d="M11.056804,36.1591689 C8.289358,35.4236074 0.125576,31.8670543 2.512818,27.7046413 C4.90006,23.5422282 7.287302,22.343703 4.90006,20.4414249 C2.512818,18.5391469 4.208886,14.3082574 6.568914,12.5669289 C8.928942,10.8255631 3.34015,5.63817083 5.900334,2.89343024 C8.460496,0.148727024 16.644408,4.38858723 16.833916,9.57840907 C17.023424,14.7682309 18.927414,14.4089163 19.895106,16.7521799 C20.862798,19.0954061 14.159442,22.6127124 15.138992,25.1586768 C16.11852,27.7046413 21.832272,30.3598989 18.485632,33.7897407 C15.138992,37.2195825 13.82425,36.8947678 11.056804,36.1591689 Z" id="leaves" fill="#04CC99"></path>
+                            <path d="M11.7927954,41.5981016 C12.1156507,35.7292965 6.1482742,33.2820877 10.3927298,25.0203527 C14.6371764,16.7586533 11.6879121,9.62507228 10.3927298,6.90856774" id="stem" stroke="#EEEEEE" stroke-width="0.6" fill-opacity="0" fill="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M11.3963932,21.4019143 C10.6566331,21.0450073 9.29520652,20.0396437 8.62161409,18.4880416" id="branch" stroke="url(#linearGradient-9)" stroke-width="0.5" fill-opacity="0" fill="#FFFFFF" opacity="0.3" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9.11712108,32.0526294 C7.96775338,31.5701701 5.61708311,30.2456362 5.45044649,28.2344473" id="branch" stroke="url(#linearGradient-10)" stroke-width="0.5" fill-opacity="0" fill="#FFFFFF" opacity="0.3" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9.51351173,27.1291878 C10.5480054,27.4243919 12.0822472,27.1557294 13.3783802,25.2200981" id="branch" stroke="url(#linearGradient-11)" stroke-width="0.5" fill-opacity="0" fill="#FFFFFF" opacity="0.3" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M12.3873897,12.1578931 C13.0614031,11.6189988 14.3720641,9.49090016 14.2702707,7.63637057" id="branch" stroke="url(#linearGradient-12)" stroke-width="0.5" fill-opacity="0" fill="#FFFFFF" opacity="0.3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

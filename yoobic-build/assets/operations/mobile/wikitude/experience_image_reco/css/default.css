@@ -1,0 +1,112 @@
+body {
+    font-family: 'Lato';
+}
+
+
+.screen {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    font-size: large;
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: right;
+    direction:rtl;
+}
+
+.button {
+    border-radius: 15px;
+    background: rgba(2, 119, 252, 0.95);
+    border-color: rgba(2, 119, 252, 0.95);
+    color: #fff;
+    font-size: 16px;
+    opacity: 1;
+    width: 95%;
+    height: 40px;
+    line-height: 40px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.button-close {
+    width: 30%;
+    height: 100%;
+}
+
+.lower-drawer {
+    width: 85%;
+    height: 80px;
+    background: #fff;
+    border-radius: 15px;
+    text-align: center;
+    position: fixed;
+    bottom: 45px;
+    align-self: center;
+    opacity: 1;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.product-container {
+    position: relative;
+    display: flex;
+    flex: 1;
+    justify-content: left;
+}
+
+.product-name {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: left;
+    padding-left: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    flex: 3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.product-price {
+    display: flex;
+    flex: 1;
+    width: 50%;
+    align-items: flex-end;
+    direction: rtl;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.button-outercontainer {
+    position: relative;
+    display: flex;
+    justify-content: left;
+    flex: 2;
+}
+
+.button-innercontainer {
+    flex: 1 1 auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+}

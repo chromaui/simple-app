@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="145px" viewBox="0 0 155 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M98.208982,-5 L123.354088,-5 C125.924734,-5 128.008654,-2.92883243 128.008654,-0.373917749 L128.008654,22.1618964 C128.008654,37.1629976 115.772981,49.3237929 100.679512,49.3237929 L91.780478,49.3237929 L98.208982,-5 Z M98.2917557,3.46389033 L95.9747114,40.8392386 L102.551945,39.0076859 C111.65192,36.4736288 118.142193,28.4942745 118.72843,19.1197837 L119.553858,5.92041634 C119.556845,5.87264566 119.55834,5.82479432 119.55834,5.77693146 C119.55834,4.49947412 118.51638,3.46389033 117.231056,3.46389033 L98.2917557,3.46389033 Z" id="path-1"></path>
+        <filter x="-6.9%" y="-4.6%" width="113.8%" height="109.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-5" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-17.2516688%" y1="22.181187%" x2="81.7440693%" y2="93.6013846%" id="linearGradient-3">
+            <stop stop-color="#B6B0B0" offset="0%"></stop>
+            <stop stop-color="#313439" offset="100%"></stop>
+        </linearGradient>
+        <path d="M86.2124421,19.8372538 L124.887694,19.8372538 C126.165681,19.8372538 127.201694,20.8732669 127.201694,22.1512538 L127.201694,60.4069387 C127.201694,71.6210006 122.967436,82.1376993 114.498921,91.9570348 C102.747514,105.58292 90.7977548,107.6431 92.4663466,123.830108 L86.3433385,123.878617 L80.2203303,123.830108 C81.8889222,107.6431 69.9391629,105.58292 58.1877556,91.9570348 C49.7192406,82.1376993 45.484983,71.6210006 45.484983,60.4069387 L45.484983,22.1512538 C45.484983,20.8732669 46.5209961,19.8372538 47.798983,19.8372538 L86.2124421,19.8372538 Z" id="path-4"></path>
+        <filter x="-3.1%" y="-2.4%" width="106.1%" height="104.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="5" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="-9" y="45.6362849" width="58.1820843" height="31.2260552"></rect>
+        <filter x="-24.9%" y="-40.0%" width="149.8%" height="192.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Store-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Battle---Defeat" transform="translate(-187.000000, -114.000000)">
+            <g id="Header">
+                <g id="Group" transform="translate(197.727356, 110.701120)">
+                    <path d="M81.7350088,99.0125729 L106.880115,99.0125729 C109.450761,99.0125729 111.534681,101.08374 111.534681,103.638655 L111.534681,126.174469 C111.534681,141.175571 99.2990076,153.336366 84.2055391,153.336366 L75.3065048,153.336366 L81.7350088,99.0125729 Z M81.8177826,107.476463 L79.5007382,144.851812 L86.0779715,143.020259 C95.1779467,140.486202 101.668219,132.506847 102.254457,123.132357 L103.079885,109.932989 C103.082872,109.885219 103.084367,109.837367 103.084367,109.789504 C103.084367,108.512047 102.042406,107.476463 100.757083,107.476463 L81.8177826,107.476463 Z" id="Combined-Shape" fill="#ADADAD" transform="translate(93.420593, 126.174469) rotate(-261.000000) translate(-93.420593, -126.174469) "></path>
+                    <g id="Combined-Shape" transform="translate(109.894566, 22.161896) scale(-1, 1) rotate(261.000000) translate(-109.894566, -22.161896) ">
+                        <use fill="#ADADAD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Combined-Shape" transform="translate(86.343338, 71.858454) rotate(-261.000000) translate(-86.343338, -71.858454) ">
+                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Rectangle" transform="translate(20.091042, 61.249312) rotate(-261.000000) translate(-20.091042, -61.249312) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <use fill="#535458" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    </g>
+                    <polygon id="Star" fill="#FFFFFF" transform="translate(100.621914, 74.004150) rotate(-261.000000) translate(-100.621914, -74.004150) " points="100.621914 84.991095 87.6264574 91.7814006 90.1083688 77.3993024 79.5948232 67.213844 94.1241859 65.1155241 100.621914 52.0302589 107.119643 65.1155241 121.649006 67.213844 111.13546 77.3993024 113.617371 91.7814006"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

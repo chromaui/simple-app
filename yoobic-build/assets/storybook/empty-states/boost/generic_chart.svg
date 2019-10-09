@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="31px" viewBox="0 0 80 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-219.731463%" x2="50%" y2="101.772461%" id="linearGradient-1">
+            <stop stop-color="#D0D0D0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Store-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---SM-concept-5/a" transform="translate(-261.000000, -340.000000)">
+            <g id="1" transform="translate(15.000000, 244.000000)">
+                <g id="Group-4" transform="translate(20.000000, 88.000000)">
+                    <g id="chart" transform="translate(227.000000, 9.000000)">
+                        <polygon id="Path-18" fill="url(#linearGradient-1)" fill-rule="nonzero" points="0 19.0706153 3.66395098 10.6662696 10.8454133 11.263912 14.7945662 5.37644526 23.3392899 1.89586793 29.5862282 6.57988996 37.394901 1.89586793 43.6418394 9.70257127 53.0122469 6.57988996 60.8209195 9.70257127 68.5873824 6.57988996 74.9060648 0 78 8.14123061 78 30 0 30"></polygon>
+                        <path d="M0,19 C0,19 1.29364749,16.1483925 3.88087919,10.4451964 L10.1538736,11.6887737 L14.9790129,5.09728385 L22.9738861,1.89041149 L29.9580259,6.53093206 L37.5133952,1.89041149 L43.7421038,9.47091551 L53.0851665,6.53093206 L60.8710517,9.47091551 L68.6148504,6.53093206 L74.8856459,0 L78,7.8924296" id="Path" stroke="#D0D0D0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="100px" viewBox="0 0 102 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>call</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M66,0 L6,0 C2.6875,0 0,2.6875 0,6 L0,72 L17.109376,56 L66,56 C69.3125,56 72,53.3125 72,50 L72,6 C72,2.6875 69.3125,0 66,0 Z" id="path-1"></path>
+        <filter x="-34.7%" y="-27.8%" width="169.4%" height="169.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-670.000000, -9159.000000)" id="Boost">
+            <g transform="translate(683.000000, 38.000000)">
+                <g id="call" transform="translate(2.000000, 9131.000000)">
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F46885" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <polygon id="Path" fill-opacity="0.574133832" fill="#FFFFFF" points="56 40 44 32 44 24 56 16"></polygon>
+                    <path d="M42,40 L20,40 C17.789062,40 16,38.210938 16,36 L16,20 C16,17.789062 17.789062,16 20,16 L42,16 C44.210938,16 46,17.789062 46,20 L46,36 C46,38.210938 44.210938,40 42,40 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="110px" viewBox="0 0 105 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>payments</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M73.5166269,80 L1.83213466,80 C0.820278593,80 0,79.1802203 0,78.1688539 L0,1.83114609 C0,0.819779651 0.820278593,0 1.83213466,0 L73.5166269,0 C74.5285586,0 75.3488372,0.819779651 75.3488372,1.83114609 L75.3488372,78.1688539 C75.3488372,79.1768507 74.5340842,79.9945444 73.5166269,80 Z" id="path-1"></path>
+        <filter x="-33.2%" y="-25.0%" width="166.4%" height="162.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M73.5166269,80 L1.83213466,80 C0.820278593,80 0,79.1802203 0,78.1688539 L0,1.83114609 C0,0.819779651 0.820278593,0 1.83213466,0 L73.5166269,0 C74.5285586,0 75.3488372,0.819779651 75.3488372,1.83114609 L75.3488372,78.1688539 C75.3488372,79.1768507 74.5340842,79.9945444 73.5166269,80 Z" id="path-3"></path>
+        <filter x="-33.2%" y="-25.0%" width="166.4%" height="162.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="60.881%" y1="74.0327464%" x2="32.4700625%" y2="-13.3084847%" id="linearGradient-5">
+            <stop stop-color="#15DABA" offset="0%"></stop>
+            <stop stop-color="#13DEB4" offset="20.5%"></stop>
+            <stop stop-color="#0DE8A2" offset="49.01%"></stop>
+            <stop stop-color="#04F884" offset="82.08%"></stop>
+            <stop stop-color="#00FF78" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile-Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustrations" transform="translate(-26.000000, -7293.000000)">
+            <g id="Operations" transform="translate(40.000000, 56.000000)">
+                <g id="payments" transform="translate(1.000000, 7237.000000)">
+                    <g id="analytics" transform="translate(0.000000, 10.000000)">
+                        <g id="base">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="base">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-3" fill="#BFD0DA" x="7" y="47" width="32.9411765" height="2.84263959" rx="1.4213198"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#BFD0DA" x="7" y="54" width="32.9411765" height="2.84263959" rx="1.4213198"></rect>
+                    <rect id="Rectangle-3-Copy-2" fill="#BFD0DA" x="7" y="60" width="32.9411765" height="2.84263959" rx="1.4213198"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#BFD0DA" x="33" y="20" width="32.9411765" height="2.84263959" rx="1.4213198"></rect>
+                    <rect id="Rectangle-3-Copy-2" fill="#BFD0DA" x="33" y="26" width="22.9411765" height="2.84263959" rx="1.4213198"></rect>
+                    <g id="Group-15" transform="translate(54.688808, 75.467070) rotate(51.000000) translate(-54.688808, -75.467070) translate(20.188808, 39.467070)">
+                        <g id="Group-9" transform="translate(0.000000, 0.000000)">
+                            <rect id="Rectangle" fill="#04CC99" transform="translate(34.787240, 35.989220) rotate(-51.000000) translate(-34.787240, -35.989220) " x="4.78724039" y="16.4892205" width="60" height="39" rx="4"></rect>
+                            <rect id="Rectangle" fill="#000000" opacity="0.2" transform="translate(30.016085, 32.200000) rotate(-51.000000) translate(-30.016085, -32.200000) " x="0.0160854805" y="26.7" width="60" height="11"></rect>
+                            <circle id="Oval" fill="#FFFFFF" cx="51.3" cy="37.41" r="1.87"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="55.22" cy="32.2" r="1.87"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="59.42" cy="27.01" r="1.87"></circle>
+                            <rect id="Rectangle" fill="#000000" opacity="0.2" transform="translate(33.861433, 58.223731) rotate(-51.000000) translate(-33.861433, -58.223731) " x="24.861433" y="55.7237313" width="18" height="5" rx="1"></rect>
+                        </g>
+                    </g>
+                    <g id="check" transform="translate(62.000000, 0.000000)">
+                        <g id="success">
+                            <path d="M11,0 C4.93476922,0 0,4.93434616 0,11 C0,17.0656538 4.93476922,22 11,22 C17.0652308,22 22,17.0656538 22,11 C22,4.93434616 17.0652308,0 11,0 Z" id="Shape" fill="#04CC99"></path>
+                            <path d="M17.1325,7.3315 L10.3632692,14.9468846 C10.1965769,15.1343077 9.96430767,15.2307692 9.73034616,15.2307692 C9.54461539,15.2307692 9.35803845,15.1698462 9.20192306,15.0454616 L4.97115384,11.6608462 C4.60646155,11.3693462 4.54723078,10.8366923 4.83915384,10.4715769 C5.13065384,10.1064616 5.66373078,10.0472308 6.02842306,10.3391538 L9.63176922,13.2215769 L15.8675,6.20653845 C16.1771923,5.85707694 16.7128077,5.82576922 17.0618462,6.13630767 C17.4113077,6.44726922 17.4430384,6.98203845 17.1325,7.3315 Z" id="Shape-path" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

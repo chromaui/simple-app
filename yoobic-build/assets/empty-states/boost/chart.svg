@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="75px" viewBox="0 0 100 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>mobile/operations/chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="75" rx="1"></rect>
+        <filter x="-23.0%" y="-29.3%" width="146.0%" height="161.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="56.5924134%" y1="-5.565106%" x2="50%" y2="57.658648%" id="linearGradient-3">
+            <stop stop-color="#D2DFE8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="mobile/operations/chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="lateral-cell" transform="translate(11.000000, 17.000000)">
+            <g id="Rectangle">
+                <g id="path-1-link">
+                    <g id="Group-19">
+                        <polygon id="Path-18" fill="url(#linearGradient-3)" fill-rule="nonzero" points="0 19.0706153 3.66395098 10.6662696 10.8454133 11.263912 14.7945662 5.37644526 23.3392899 1.89586793 29.5862282 6.57988996 37.394901 1.89586793 43.6418394 9.70257127 53.0122469 6.57988996 60.8209195 9.70257127 68.5873824 6.57988996 74.9060648 0 78 8.14123061 78 30 0 30"></polygon>
+                        <polyline id="Path-19" stroke="#D2DFE8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(39.500000, 12.000000) scale(-1, 1) translate(-39.500000, -12.000000) " points="3 16 9 15 16 18 26 13 45 14 57 7 66 12 76 6"></polyline>
+                        <path d="M0,19 C0,19 1.29364749,16.1483925 3.88087919,10.4451964 L10.1538736,11.6887737 L14.9790129,5.09728385 L22.9738861,1.89041149 L29.9580259,6.53093206 L37.5133952,1.89041149 L43.7421038,9.47091551 L53.0851665,6.53093206 L60.8710517,9.47091551 L68.6148504,6.53093206 L74.8856459,0 L78,7.8924296" id="Path" stroke="#F46885" stroke-width="1.57777583" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <rect id="Info" fill="#F46885" fill-rule="nonzero" x="4.04840717" y="37.0455154" width="8.00331936" height="8" rx="1.60793594"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="5.82500608" y="38.939759" width="4.40182565" height="4.167336" rx="0.374402604"></rect>
+                        <rect id="Rectangle" fill="#C8D8E4" fill-rule="nonzero" opacity="0.20047433" x="16.2293212" y="38.5609103" width="19.6081324" height="4.47649087" rx="0.803967972"></rect>
+                        <rect id="Info" fill="#D2DFE8" fill-rule="nonzero" x="41.8399433" y="37.0455154" width="8.00331936" height="8" rx="1.60793594"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="43.6165422" y="38.939759" width="4.40182565" height="4.167336" rx="0.374402604"></rect>
+                        <rect id="Rectangle" fill="#C8D8E4" fill-rule="nonzero" opacity="0.20047433" x="54.0208575" y="38.5609103" width="19.6081324" height="4.47649087" rx="0.803967972"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

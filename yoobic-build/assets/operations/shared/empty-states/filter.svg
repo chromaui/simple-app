@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="94px" viewBox="0 0 98 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>filter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="68" height="64" rx="4"></rect>
+        <filter x="-36.8%" y="-31.2%" width="173.5%" height="178.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-27.000000, -3412.000000)" id="Operations">
+            <g transform="translate(42.000000, 48.000000)">
+                <g id="filter" transform="translate(0.000000, 3374.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <circle id="Oval" fill="#07CCC0" cx="14" cy="54" r="4"></circle>
+                    <circle id="Oval" fill="#04CC99" cx="14" cy="54" r="4"></circle>
+                    <circle id="Oval" fill="#04CC99" cx="34" cy="54" r="4"></circle>
+                    <circle id="Oval" fill="#E3EBF0" cx="53" cy="54" r="4"></circle>
+                    <path d="M14,43 C13.4477153,43 13,42.669484 13,42.2617717 L13,6.73822825 C13,6.33051605 13.4477153,6 14,6 C14.5522847,6 15,6.33051605 15,6.73822825 L15,42.2617717 C15,42.669484 14.5522847,43 14,43 Z" id="Path" fill="#E7EFF5"></path>
+                    <path d="M33,43 C32.4477153,43 32,42.669484 32,42.2617717 L32,6.73822819 C32,6.33051601 32.4477153,6 33,6 C33.5522847,6 34,6.33051601 34,6.73822819 L34,42.2617717 C34,42.669484 33.5522847,43 33,43 Z" id="Path" fill="#E7EFF5"></path>
+                    <path d="M53,43 C52.4477153,43 52,42.669484 52,42.2617717 L52,6.73822825 C52,6.33051605 52.4477153,6 53,6 C53.5522847,6 54,6.33051605 54,6.73822825 L54,42.2617717 C54,42.669484 53.5522847,43 53,43 Z" id="Path" fill="#E7EFF5"></path>
+                    <rect id="Rectangle" fill="#E3EBF0" x="8" y="25" width="13" height="6" rx="3"></rect>
+                    <rect id="Rectangle" fill="#E3EBF0" x="27" y="12" width="13" height="6" rx="3"></rect>
+                    <rect id="Rectangle" fill="#04CC99" x="47" y="31" width="13" height="6" rx="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

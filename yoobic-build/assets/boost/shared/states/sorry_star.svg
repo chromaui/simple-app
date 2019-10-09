@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="237px" height="235px" viewBox="0 0 237 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>almost-there</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFD701" offset="0%"></stop>
+            <stop stop-color="#F9B62B" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-18.2%" y="-21.2%" width="136.0%" height="137.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#FDDF47" offset="0%"></stop>
+            <stop stop-color="#FABC22" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#5C5C5C" offset="0%"></stop>
+            <stop stop-color="#2F2F2F" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,12.46875 C1.93371232,4.15625 8.26704565,1.15267171e-13 19,1.14575016e-13 C28.3333333,0.791666667 34.3333333,4.94791667 37,12.46875 C29,14.65625 23,15.75 19,15.75 C14.7777778,15.75 8.44444444,14.65625 0,12.46875 Z" id="path-5"></path>
+    </defs>
+    <g id="Store-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Popup---Failed-quiz-screen" transform="translate(-69.000000, -101.000000)">
+            <g id="almost-there" transform="translate(82.000000, 67.000000)">
+                <g id="star" filter="url(#filter-2)" transform="translate(0.000000, 55.000000)" fill="url(#linearGradient-3)" stroke="url(#linearGradient-3)" stroke-width="9">
+                    <polygon id="Star-2" points="105.211111 157 43.3695716 189.343779 55.1802547 120.838556 5.1493983 72.3228879 74.2903414 62.3281106 105.211111 0 136.131881 62.3281106 205.272824 72.3228879 155.241968 120.838556 167.052651 189.343779"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(78.000000, 139.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-4)" cx="7" cy="7" r="7"></circle>
+                    <circle id="Oval" fill="#2F2F2F" cx="48" cy="7" r="7"></circle>
+                    <path d="" id="Path-24" stroke="#979797"></path>
+                    <g id="Path-26" transform="translate(7.000000, 36.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Mask" fill="#484848" xlink:href="#path-5"></use>
+                        <path d="M7,19.9270833 C8.25429988,15.3090278 12.362408,13 19.3243243,13 C25.3783784,13.4398148 29.2702703,15.7488426 31,19.9270833 C25.8108108,21.1423611 21.9189189,21.75 19.3243243,21.75 C16.5855856,21.75 12.4774775,21.1423611 7,19.9270833 Z" fill="#FE7D7D" mask="url(#mask-6)"></path>
+                    </g>
+                </g>
+                <g id="star" transform="translate(201.863467, 211.027111) rotate(45.000000) translate(-201.863467, -211.027111) translate(195.363467, 204.527111)" fill="#FED05B">
+                    <g id="path-15-link" transform="translate(0.898179, 0.332510)">
+                        <path d="M0.933333333,9.96547131 C2.23515133,6.73600219 1.91690489,3.07952179 0.0766997778,0.123220548 L0,0 L0.125128889,0.0780441888 C3.076234,1.91867687 6.73036778,2.23694648 9.95555556,0.934263518 C8.65660756,4.15660902 9.00445933,7.80874249 10.8883958,10.7282658 L11.2,11.211156 L10.7153682,10.8978039 C7.80113911,9.01353556 4.15137333,8.66567387 0.933333333,9.96547131 Z" id="path-15"></path>
+                    </g>
+                </g>
+                <g id="star" transform="translate(103.430087, 85.497387) rotate(45.000000) translate(-103.430087, -85.497387) translate(37.930087, 30.497387)" fill="#FED05B">
+                    <g id="path-17-link" transform="translate(0.845178, 0.847857)">
+                        <path d="M11.96,107.255865 C13.2990137,103.932289 12.9716745,100.169259 11.0788919,97.1268103 L11,97 L11.1287036,97.080318 C14.1641267,98.9745862 17.922664,99.3021315 21.24,97.9614874 C19.9039399,101.277733 20.2617301,105.036289 22.1994937,108.040888 L22.52,108.537849 L22.0215217,108.215367 C19.0240285,106.276191 15.2699848,105.918192 11.96,107.255865 Z" id="path-17"></path>
+                        <path d="M122.666667,7.11111116 C123.596537,4.80664244 123.369218,2.19746942 122.054786,0.0879265137 L122,0 L122.089377,0.0556901051 C124.19731,1.36911916 126.807406,1.59622933 129.111111,0.666666673 C128.183292,2.96605236 128.431757,5.57212296 129.777426,7.65542207 L130,8 L129.653835,7.77640074 C127.572242,6.43183388 124.965267,6.1836084 122.666667,7.11111116 Z" id="path-17-copy-2"></path>
+                        <path d="M1.41666661,62.1111112 C3.3926417,57.2141152 2.90958906,51.6696225 0.11642028,47.1868438 L0,47 L0.189927144,47.1183415 C4.66928415,49.9093782 10.2157368,50.3919873 15.1111111,48.4166667 C13.1394946,53.3028613 13.6674836,58.8407613 16.5270306,63.2677719 L17,64 L16.2643983,63.5248516 C11.8410143,60.667647 6.30119281,60.1401679 1.41666661,62.1111112 Z" id="path-17-copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

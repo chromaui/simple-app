@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>channel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="40" cy="40" r="40"></circle>
+        <path d="M25.7627119,16.2711864 L54.2372881,16.2711864 C59.8537431,16.2711864 64.4067797,20.8242229 64.4067797,26.440678 L64.4067797,80.6779661 L15.5932203,80.6779661 L15.5932203,26.440678 C15.5932203,20.8242229 20.1462568,16.2711864 25.7627119,16.2711864 Z" id="path-3"></path>
+        <filter x="-51.2%" y="-31.1%" width="202.4%" height="177.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-5" cx="40" cy="40" r="40"></circle>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-684.000000, -1642.000000)" id="Boost">
+            <g transform="translate(683.000000, 38.000000)">
+                <g id="channel" transform="translate(2.000000, 1605.000000)">
+                    <g id="clip" opacity="0.5" fill="#F7FAFB" stroke="#1B3554" stroke-opacity="0.0198992301">
+                        <circle id="Oval" cx="40" cy="40" r="39.8305085"></circle>
+                    </g>
+                    <g id="base-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="base" mask="url(#mask-2)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                    <g id="screen-Clipped">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="screen" mask="url(#mask-6)">
+                            <g transform="translate(17.966102, 29.152542)">
+                                <g id="path-3-link" stroke-width="1" fill="none">
+                                    <rect id="path-3" fill="#FFFFFF" x="0" y="0" width="43.7288136" height="51.5254237"></rect>
+                                </g>
+                                <rect id="Rectangle" fill="#EDF2F6" x="0.169491525" y="0.169491525" width="43.3898305" height="51.1864407"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="1-Clipped" transform="translate(21.000000, 32.000000)">
+                        <g id="1" transform="translate(0.355932, 0.542373)">
+                            <g id="Group">
+                                <rect id="Rectangle" fill="#F46885" x="0" y="0" width="36.9491525" height="13.559322" rx="3"></rect>
+                                <rect id="Rectangle-2" fill="#FFFFFF" x="3.05084746" y="3.38983051" width="26.440678" height="1.3559322" rx="0.677966102"></rect>
+                                <rect id="Rectangle-2-Copy" fill="#FFFFFF" x="3.05084746" y="6.10169492" width="19.3220339" height="1.3559322" rx="0.677966102"></rect>
+                                <rect id="Rectangle-2-Copy-2" fill="#FFFFFF" opacity="0.550000012" x="3.05084746" y="9.49152542" width="5.76271186" height="1.3559322" rx="0.677966102"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="2-Clipped" transform="translate(40.000000, 56.500000) scale(-1, 1) translate(-40.000000, -56.500000) translate(21.000000, 49.000000)">
+                        <g id="2" transform="translate(0.355932, 0.491525)">
+                            <g id="Group">
+                                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="36.9491525" height="13.559322" rx="3"></rect>
+                                <rect id="Rectangle-2" fill="#BFD0DA" x="3.05084746" y="3.38983051" width="26.440678" height="1.3559322" rx="0.677966102"></rect>
+                                <rect id="Rectangle-2-Copy" fill="#BFD0DA" x="3.05084746" y="6.10169492" width="19.3220339" height="1.3559322" rx="0.677966102"></rect>
+                                <rect id="Rectangle-2-Copy-2" fill="#BFD0DA" opacity="0.550622747" x="3.05084746" y="9.49152542" width="5.76271186" height="1.3559322" rx="0.677966102"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

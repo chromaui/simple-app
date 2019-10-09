@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="210px" viewBox="0 0 142 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFD701" offset="0%"></stop>
+            <stop stop-color="#F9B62B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M128,70 C128,103.692969 100.692969,131 67,131 C33.3070312,131 6,103.692969 6,70 C6,36.3070312 33.3070312,9 67,9 C100.692969,9 128,36.3070312 128,70 Z" id="path-2"></path>
+        <filter x="-15.2%" y="-9.4%" width="130.3%" height="130.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.200775589 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Popup---Time's-up" transform="translate(-117.000000, -72.000000)">
+            <g id="Group" transform="translate(121.000000, 72.000000)">
+                <g id="alarm" transform="translate(0.000000, 62.000000)">
+                    <path d="M111.214104,132.841978 L99,120.489748 L105.417177,114 L117.631281,126.352231 C119.45624,128.209892 119.45624,130.984317 117.631281,132.841978 C116.104518,134.386007 113.050992,134.386007 111.214104,132.841978 Z" id="Path" fill="#F46885"></path>
+                    <path d="M22.7858954,132.841978 L35,120.489748 L28.5828255,114 L16.368721,126.352231 C14.5437597,128.209892 14.5437597,130.984317 16.368721,132.841978 C17.895484,134.386007 20.9490102,134.386007 22.7858954,132.841978 Z" id="Path" fill="#F46885"></path>
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <path stroke="url(#linearGradient-1)" stroke-width="11.5425" d="M122.22875,70 C122.22875,39.4944046 97.5055954,14.77125 67,14.77125 C36.4944046,14.77125 11.77125,39.4944046 11.77125,70 C11.77125,100.505595 36.4944046,125.22875 67,125.22875 C97.5055954,125.22875 122.22875,100.505595 122.22875,70 Z" stroke-linejoin="square" fill="#FABC22" fill-rule="evenodd"></path>
+                    </g>
+                    <polygon id="Path" fill="#FFFFFF" points="64 30 70 30 70 70 64 70"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" transform="translate(81.677670, 69.677670) rotate(-45.000000) translate(-81.677670, -69.677670) " points="94.1776695 77.1704654 89.1824723 82.1776695 69.1776695 62.1728668 74.1848737 57.1776695"></polygon>
+                    <path d="M73,70 C73,73.316407 70.316407,76 67,76 C63.683593,76 61,73.316407 61,70 C61,66.683593 63.683593,64 67,64 C70.316407,64 73,66.683593 73,70 Z" id="Path" fill="#E7B438"></path>
+                    <path d="M70,70 C70,71.652343 68.652343,73 67,73 C65.347657,73 64,71.652343 64,70 C64,68.347657 65.347657,67 67,67 C68.652343,67 70,68.347657 70,70 Z" id="Path" fill="#FFFFFF"></path>
+                    <polygon id="Path" fill="#F46885" points="61 0 73 0 73 9 61 9"></polygon>
+                    <path d="M129.030835,46 C136.637001,35.3504154 135.424767,20.4457496 125.988368,11.0085076 C116.563849,1.58315055 101.648634,0.358922989 91,7.96576916 L129.030835,46 Z" id="Path" fill="#F46885"></path>
+                    <path d="M4.96916634,46 C-2.6370004,35.3504154 -1.42476909,20.4457496 8.01163303,11.0085076 C17.4361482,1.58315055 32.3513666,0.358922989 43,7.96576916 L4.96916634,46 Z" id="Path" fill="#F46885"></path>
+                </g>
+                <circle id="Oval" fill="#F46885" transform="translate(86.171452, 37.171452) rotate(-88.000000) translate(-86.171452, -37.171452) " cx="86.1714516" cy="37.1714516" r="5"></circle>
+                <circle id="Oval" fill="#1FB6FF" transform="translate(94.620016, 53.620016) rotate(-88.000000) translate(-94.620016, -53.620016) " cx="94.6200161" cy="53.6200161" r="3.5"></circle>
+                <circle id="Oval" fill="#1FB6FF" transform="translate(60.171452, 28.171452) rotate(-88.000000) translate(-60.171452, -28.171452) " cx="60.1714516" cy="28.1714516" r="5"></circle>
+                <circle id="Oval" fill="#1FB6FF" transform="translate(15.102871, 47.102871) rotate(-88.000000) translate(-15.102871, -47.102871) " cx="15.102871" cy="47.102871" r="3"></circle>
+                <circle id="Oval" fill="#FCAE49" transform="translate(78.722887, 6.722887) rotate(-88.000000) translate(-78.722887, -6.722887) " cx="78.7228871" cy="6.7228871" r="6.5"></circle>
+                <circle id="Oval" fill="#FCAE49" transform="translate(62.360156, 47.360156) rotate(-64.000000) translate(-62.360156, -47.360156) " cx="62.3601564" cy="47.3601564" r="7"></circle>
+                <circle id="Oval" fill="#D0D0D0" transform="translate(105.011496, 23.011496) rotate(-64.000000) translate(-105.011496, -23.011496) " cx="105.011496" cy="23.0114956" r="3"></circle>
+                <circle id="Oval" fill="#D0D0D0" transform="translate(55.011496, 9.011496) rotate(-64.000000) translate(-55.011496, -9.011496) " cx="55.0114956" cy="9.01149558" r="3"></circle>
+                <circle id="Oval" fill="#F46885" transform="translate(101.965710, 42.102871) rotate(-88.000000) translate(-101.965710, -42.102871) " cx="101.96571" cy="42.102871" r="3"></circle>
+                <circle id="Oval" fill="#F46885" transform="translate(38.240032, 42.240032) rotate(-88.000000) translate(-38.240032, -42.240032) " cx="38.2400323" cy="42.2400323" r="7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

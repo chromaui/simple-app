@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="40px" viewBox="0 0 33 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Store</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="60.881%" y1="74.0327464%" x2="32.4700625%" y2="-13.3084847%" id="linearGradient-1">
+            <stop stop-color="#15DABA" offset="0%"></stop>
+            <stop stop-color="#13DEB4" offset="20.5%"></stop>
+            <stop stop-color="#0DE8A2" offset="49.01%"></stop>
+            <stop stop-color="#04F884" offset="82.08%"></stop>
+            <stop stop-color="#00FF78" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stores---AM---Map-view" transform="translate(-99.000000, -144.000000)" fill-rule="nonzero">
+            <g id="Store" transform="translate(99.000000, 144.000000)">
+                <circle id="Oval-4" fill="#FFFFFF" cx="16" cy="16" r="15"></circle>
+                <path d="M16.5,0 C7.84708282,0.0101028341 0.835001806,7.09301295 0.825,15.8333333 C0.825,26.74 11.61105,36.645 14.91765,39.4216667 C15.8344599,40.1909776 17.1638901,40.1909776 18.0807,39.4216667 C21.3807,36.645 32.175,26.74 32.175,15.8316667 C32.1640892,7.09199716 25.1522739,0.0101009726 16.5,0 Z M25.95615,11.9716667 L14.99025,23.8333333 C14.5310164,24.3283616 13.8929615,24.6145388 13.22145,24.6266667 L13.1769,24.6266667 C12.5207103,24.6260832 11.8916073,24.3623083 11.4279,23.8933333 L7.08345,19.5116667 C6.45814585,18.8577019 6.46708858,17.818192 7.10354935,17.1753024 C7.74001012,16.5324127 8.76912484,16.5233797 9.41655,17.155 L12.55155,20.3216667 C12.7098834,20.4812973 12.9256061,20.5691363 13.1492755,20.5650514 C13.3729448,20.5609664 13.5853829,20.4653078 13.7379,20.3 L23.5389,9.69166667 C24.1608417,9.01879975 25.2050367,8.98260943 25.871175,9.61083333 C26.5373133,10.2390572 26.5731417,11.2937997 25.9512,11.9666667 L25.95615,11.9716667 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

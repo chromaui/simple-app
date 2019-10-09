@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="128px" viewBox="0 0 139 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>courses</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="4.47641924e-13" y="-2.20978791e-12" width="70" height="90.4265403" rx="5"></rect>
+        <filter x="-27.9%" y="-17.1%" width="155.7%" height="143.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="70" height="90.4265403" rx="5"></rect>
+        <filter x="-27.9%" y="-17.1%" width="155.7%" height="143.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="2.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Mobile-Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustrations" transform="translate(-1046.000000, -11708.000000)">
+            <g id="Boost" transform="translate(41.000000, 44.000000)">
+                <g id="courses" transform="translate(1016.000000, 11671.000000)">
+                    <g id="card" transform="translate(76.474331, 56.835299) rotate(7.000000) translate(-76.474331, -56.835299) translate(41.474331, 11.335299)">
+                        <g id="Rectangle-7">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use stroke="#FFFFFF" stroke-width="5" fill="#EEF1F4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <rect id="Rectangle-4" fill="#FFFFFF" x="1" y="63.8009479" width="68" height="26.1232227"></rect>
+                        <rect id="Rectangle-3" fill="#1B3554" opacity="0.300000012" x="2.5" y="71.3364929" width="57.502538" height="4.21990521" rx="2.1"></rect>
+                        <rect id="Rectangle-3-Copy" fill="#1B3554" opacity="0.149999991" x="3.5" y="79.3744076" width="33.5431472" height="4.21990521" rx="2.1"></rect>
+                    </g>
+                    <g id="card" transform="translate(41.285680, 50.276478) rotate(-8.000000) translate(-41.285680, -50.276478) translate(6.285680, 4.776478)">
+                        <g id="Rectangle-7">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use stroke="#FFFFFF" stroke-width="5" fill="#00D095" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <rect id="Rectangle-4" fill="#FFFFFF" x="1" y="63.8009479" width="68" height="26.1232227"></rect>
+                        <rect id="Rectangle-3" fill="#1B3554" opacity="0.300000012" x="2.5" y="71.3364929" width="57.502538" height="4.21990521" rx="2.1"></rect>
+                        <rect id="Rectangle-3-Copy" fill="#1B3554" opacity="0.149999991" x="3.5" y="79.3744076" width="33.5431472" height="4.21990521" rx="2.1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>memo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="40.9325316" cy="40.9325316" r="40.9325316"></circle>
+        <rect id="path-3" x="0.284445848" y="0.235526555" width="41.1905597" height="53.6739781" rx="1.2"></rect>
+        <rect id="path-5" x="0.284445848" y="0.235526555" width="41.1905597" height="53.6739781" rx="1.2"></rect>
+        <rect id="path-7" x="0.284445848" y="0.235526555" width="41.1905597" height="53.6739781" rx="1.2"></rect>
+        <rect id="path-9" x="4.46753745e-13" y="4.00124378e-13" width="4.05756819" height="6.08913694" rx="2.02878409"></rect>
+        <polygon id="path-11" points="0 0 4.05756819 0 2.02878409 6.08913694"></polygon>
+        <rect id="path-13" x="0" y="0" width="4.05756819" height="25.0331185"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="memo" transform="translate(-1.000000, 0.000000)">
+            <g id="paper" transform="translate(1.000000, 0.000000)">
+                <g id="Mask" fill="#F8FAFC" fill-opacity="0.5" fill-rule="nonzero">
+                    <circle id="path-1" cx="40.9325316" cy="40.9325316" r="40.9325316"></circle>
+                </g>
+                <g id="Group-4-Clipped">
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="Group-4" mask="url(#mask-2)">
+                            <g transform="translate(11.000000, 28.000000)" id="Group">
+                                <g transform="translate(0.071730, 0.755274)">
+                                    <g transform="translate(29.735011, 33.763167) rotate(-22.000000) translate(-29.735011, -33.763167) translate(8.735011, 6.763167)">
+                                        <g id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero">
+                                            <rect id="path-4" x="0.284445848" y="0.235526555" width="41.1905597" height="53.6739781" rx="1.2"></rect>
+                                        </g>
+                                        <g id="Group-5-Clipped">
+                                            <g>
+                                                <mask id="mask-4" fill="white">
+                                                    <use xlink:href="#path-3"></use>
+                                                </mask>
+                                                <g id="path-3"></g>
+                                                <g id="Group-5" mask="url(#mask-4)">
+                                                    <g transform="translate(4.000000, 6.000000)" id="Group">
+                                                        <g transform="translate(0.843882, 0.573840)">
+                                                            <g transform="translate(0.117637, 0.041519)" fill-rule="nonzero">
+                                                                <rect id="Rectangle-3" fill="#1B3554" opacity="0.200000003" x="11.4520994" y="1.88230821" width="19.0191561" height="1.65383966" rx="0.82691983"></rect>
+                                                                <rect id="Rectangle-3-Copy" fill="#1B3554" opacity="0.200000003" x="11.363081" y="5.4137895" width="10.7499578" height="1.65383966" rx="0.82691983"></rect>
+                                                                <rect id="Rectangle-4" fill="#1B3554" opacity="0.200000003" x="0.302052285" y="0.219449949" width="8.68265823" height="8.68265823" rx="3.2"></rect>
+                                                                <path d="M4.86869281,5.41858754 C4.98994296,5.53983769 5.14840543,5.60030771 5.30717802,5.60030771 C5.46595057,5.60030771 5.62441304,5.53983769 5.74566322,5.41858754 L8.84669009,2.31756063 C9.08888031,2.07537043 9.08888031,1.68278043 8.84669009,1.44059023 C8.60449991,1.19840003 8.21190989,1.19840003 7.96971971,1.44059023 L5.30717802,4.1028218 L3.88504707,2.68100099 C3.64285689,2.43881078 3.25026687,2.43881078 3.00807667,2.68100099 C2.76588647,2.92319119 2.76588647,3.31578119 3.00807667,3.55797138 L4.86869281,5.41858754 Z" id="Shape" fill="#FFFFFF"></path>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="Group-5-Copy-Clipped">
+                                            <g>
+                                                <mask id="mask-6" fill="white">
+                                                    <use xlink:href="#path-5"></use>
+                                                </mask>
+                                                <g id="path-5"></g>
+                                                <g id="Group-5-Copy" mask="url(#mask-6)">
+                                                    <g transform="translate(4.000000, 18.000000)" id="Group">
+                                                        <g transform="translate(0.843882, 0.337553)">
+                                                            <g transform="translate(0.151994, 0.333664)" fill-rule="nonzero">
+                                                                <rect id="Rectangle-3" fill="#1B3554" opacity="0.200000003" x="11.4520994" y="1.88230821" width="19.0191561" height="1.65383966" rx="0.82691983"></rect>
+                                                                <rect id="Rectangle-3-Copy" fill="#1B3554" opacity="0.200000003" x="11.363081" y="5.4137895" width="10.7499578" height="1.65383966" rx="0.82691983"></rect>
+                                                                <rect id="Rectangle-4" fill="#1B3554" opacity="0.200000003" x="0.302052285" y="0.219449949" width="8.68265823" height="8.68265823" rx="3.2"></rect>
+                                                                <path d="M4.86933286,5.41700335 C4.99058301,5.5382535 5.14904548,5.59872351 5.30781807,5.59872351 C5.46659062,5.59872351 5.62505309,5.5382535 5.74630327,5.41700335 L8.84733014,2.31597645 C9.08952036,2.07378625 9.08952036,1.68119625 8.84733014,1.43900605 C8.60513996,1.19681585 8.21254994,1.19681585 7.97035976,1.43900605 L5.30781807,4.10123765 L3.88568712,2.6794168 C3.64349694,2.4372266 3.25090692,2.4372266 3.00871672,2.6794168 C2.76652652,2.921607 2.76652652,3.31419701 3.00871672,3.55638719 L4.86933286,5.41700335 Z" id="Shape" fill="#FFFFFF"></path>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="Group-5-Copy-2-Clipped">
+                                            <g>
+                                                <mask id="mask-8" fill="white">
+                                                    <use xlink:href="#path-7"></use>
+                                                </mask>
+                                                <g id="path-7"></g>
+                                                <g id="Group-5-Copy-2" mask="url(#mask-8)">
+                                                    <g transform="translate(4.000000, 30.000000)" id="Group">
+                                                        <g transform="translate(0.843882, 0.447257)">
+                                                            <g transform="translate(0.186838, 0.278171)" fill-rule="nonzero">
+                                                                <rect id="Rectangle-3" fill="#1B3554" opacity="0.200000003" x="11.4520994" y="1.88230821" width="19.0191561" height="1.65383966" rx="0.82691983"></rect>
+                                                                <rect id="Rectangle-3-Copy" fill="#1B3554" opacity="0.200000003" x="11.363081" y="5.4137895" width="10.7499578" height="1.65383966" rx="0.82691983"></rect>
+                                                                <rect id="Rectangle-4" fill="#04CC99" x="0.302052285" y="0.219449949" width="8.68265823" height="8.68265823" rx="3.2"></rect>
+                                                                <path d="M4.86948648,5.41706542 C4.99073663,5.53831557 5.1491991,5.59878559 5.30797169,5.59878559 C5.46674424,5.59878559 5.62520671,5.53831557 5.74645686,5.41706542 L8.84748376,2.31603852 C9.08967398,2.07384832 9.08967398,1.68125831 8.84748376,1.43906811 C8.60529358,1.19687791 8.21270356,1.19687791 7.97051338,1.43906811 L5.30797169,4.10129968 L3.88584074,2.67947887 C3.64365056,2.43728867 3.25106054,2.43728867 3.00887034,2.67947887 C2.76668013,2.92166907 2.76668013,3.31425907 3.00887034,3.55644926 L4.86948648,5.41706542 Z" id="Shape" fill="#FFFFFF"></path>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="coffee" transform="translate(18.774744, 16.863587) rotate(22.000000) translate(-18.774744, -16.863587) translate(3.274744, 5.863587)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#B6C1CD" x="-2.38031816e-13" y="9.09611814" width="9.9185" height="4.13459916" rx="2.06729958"></rect>
+                <ellipse id="Oval" stroke="#B6C1CD" stroke-width="2.4" fill="#8996A2" cx="19.6303646" cy="10.9566878" rx="10.9516771" ry="10.9566878"></ellipse>
+            </g>
+            <g id="pencil" transform="translate(63.509917, 26.463160) rotate(-43.000000) translate(-63.509917, -26.463160) translate(61.009917, 8.963160)">
+                <g id="Rectangle-38-Copy-4">
+                    <g id="Mask">
+                        <g id="path-9" transform="translate(-0.000000, -0.000000)">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <use id="Mask" fill="#04CC99" fill-rule="nonzero" xlink:href="#path-9"></use>
+                            <rect fill-opacity="0.2" fill="#000000" fill-rule="nonzero" mask="url(#mask-10)" x="-7.99360578e-15" y="-5.46229728e-14" width="4.05756819" height="6.08913694" rx="2.02878409"></rect>
+                        </g>
+                    </g>
+                    <g id="Clipped" fill="#04CC99" fill-rule="nonzero">
+                        <g id="Rectangle-Clipped">
+                            <rect id="Rectangle" x="-2.02878409" y="-1.35314154" width="4.05756819" height="6.08913694" rx="2.02878409"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Rectangle-38-Copy-3" transform="translate(0.000000, 27.739401)">
+                    <g id="Mask" fill="#FBFBFB" fill-rule="nonzero">
+                        <polygon id="path-11" points="0 0 4.05756819 0 2.02878409 6.08913694"></polygon>
+                    </g>
+                    <g id="Clipped">
+                        <g id="Path-Clipped">
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <g id="path-11"></g>
+                            <polygon id="Path" fill="#B0BBC4" fill-rule="nonzero" mask="url(#mask-12)" points="0 3.38285386 4.05756819 3.38285386 2.02878409 9.47199078"></polygon>
+                        </g>
+                    </g>
+                    <g id="Mask-Copy" opacity="0.497622283" style="mix-blend-mode: multiply;" fill="#DFE6EE" fill-rule="nonzero">
+                        <polygon id="path-13" points="0 0 2.02878409 0 2.02878409 6.08913694"></polygon>
+                    </g>
+                </g>
+                <g id="Rectangle-38-Copy-2" transform="translate(0.000000, 2.706283)">
+                    <g id="Mask" fill="#DFE6EE" fill-rule="nonzero">
+                        <rect id="path-15" x="0" y="0" width="4.05756819" height="25.0331185"></rect>
+                    </g>
+                    <g id="Clipped">
+                        <g id="Rectangle-Clipped">
+                            <mask id="mask-14" fill="white">
+                                <use xlink:href="#path-13"></use>
+                            </mask>
+                            <g id="path-13"></g>
+                            <rect id="Rectangle" fill="#C9D6E2" fill-rule="nonzero" mask="url(#mask-14)" x="-2.02878409" y="0" width="4.05756819" height="25.0331185"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

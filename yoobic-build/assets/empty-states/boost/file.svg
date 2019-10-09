@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="104px" viewBox="0 0 95 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>file</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M65,19.1633161 L65,71 C65,72.6568542 63.6568542,74 62,74 L60.9064985,74 L55.9029757,74 L48.5495241,74 L47.7017977,74 L40.6666667,74 L32.5878275,74 L32.2365174,74 L24.7962769,74 L16.542122,74 L15.8700505,74 L7.21301105,74 L4.4964335,74 L3,74 C1.34314575,74 7.85251895e-15,72.6568542 -4.4408921e-16,71 L0,2.20082902 C0.00811380786,0.997665174 0.970843518,0.0207888782 2.16895782,0 L45.9146986,0 L46.0674421,0.153367876 L65,19.1633161 Z" id="path-1"></path>
+        <filter x="-38.5%" y="-27.0%" width="176.9%" height="167.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-670.000000, -3250.000000)" id="Boost">
+            <g transform="translate(683.000000, 38.000000)">
+                <g id="file" transform="translate(2.000000, 3222.000000)">
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F8FAFC" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M65,18.7426295 L65,19 L56.868092,19 C50.8745401,18.9792368 46.0210228,14.1856634 46,8.26613546 L46,0 L65,18.7426295 Z" id="Path" fill="#E1EBF4"></path>
+                    <polygon id="Path" fill="#FFFFFF" points="48.59 73.52 48.41 73.52 48.48 73.48 48.49 73.48"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" points="48.59 73.52 48.41 73.52 48.48 73.48 48.49 73.48"></polygon>
+                    <rect id="Rectangle-3" fill="#BFD0DA" x="15" y="23" width="32.9411765" height="2.84263959" rx="1.4213198"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#BFD0DA" x="15" y="30" width="32.9411765" height="2.84263959" rx="1.4213198"></rect>
+                    <rect id="Rectangle-3-Copy-2" fill="#BFD0DA" x="15" y="36" width="32.9411765" height="2.84263959" rx="1.4213198"></rect>
+                    <rect id="Rectangle-3-Copy-3" fill="#BFD0DA" x="15" y="51" width="14.6405229" height="2.84263959" rx="1.4213198"></rect>
+                    <rect id="Rectangle-3-Copy-4" fill="#BFD0DA" x="15" y="56" width="8.9469862" height="2.84263959" rx="1.4213198"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

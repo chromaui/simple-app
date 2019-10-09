@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="104px" viewBox="0 0 102 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>trial</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M36,12 C16.152,12 0,28.152 0,48 C0,67.848 16.152,84 36,84 C55.848,84 72,67.848 72,48 C72,28.152 55.848,12 36,12 Z" id="path-1"></path>
+        <filter x="-34.7%" y="-27.8%" width="169.4%" height="169.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-27.000000, -9018.000000)" id="Operations">
+            <g transform="translate(42.000000, 48.000000)">
+                <g id="trial" transform="translate(0.000000, 8970.000000)">
+                    <g id="Path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#04CC99" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M24,2 L24,6 C24,7.1045695 24.8954305,8 26,8 L46,8 C47.1045695,8 48,7.1045695 48,6 L48,2 C48,0.8954305 47.1045695,-2.02906125e-16 46,0 L26,0 C24.8954305,2.02906125e-16 24,0.8954305 24,2 Z" id="Path" fill="#E3EBF1" fill-rule="nonzero"></path>
+                    <path d="M62.5427389,8.69753611 L59.9573069,11.7478155 C59.243109,12.5903969 59.347165,13.8524115 60.1897249,14.5666347 L68.9352756,21.9802399 C69.7778534,22.6944782 71.0399023,22.5904385 71.7541406,21.7478607 C71.7541534,21.7478456 71.7541661,21.7478306 71.7541789,21.7478155 L74.3395694,18.6974975 C75.0537678,17.8549161 74.949712,16.5929008 74.1071516,15.8786775 L65.3615969,8.46507232 C64.519019,7.75083413 63.2569701,7.85487405 62.5427319,8.69745199 C62.5427191,8.69746717 62.5427062,8.69748234 62.5426934,8.69749752 Z" id="Path" fill="#E3EBF1" fill-rule="nonzero"></path>
+                    <path d="M35,24 L37,24 C38.6568542,24 40,25.3431458 40,27 L40,49 C40,50.6568542 38.6568542,52 37,52 L35,52 C33.3431458,52 32,50.6568542 32,49 L32,27 C32,25.3431458 33.3431458,24 35,24 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

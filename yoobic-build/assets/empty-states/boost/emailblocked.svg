@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="83px" viewBox="0 0 105 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M67.5,0 L7.5,0 C3.35449312,0 0,3.38644068 0,7.57142857 L0,45.4285714 C0,49.6135612 3.35449312,53 7.5,53 L67.5,53 C71.6455088,53 75,49.6135612 75,45.4285714 L75,7.57142857 C75,3.38644068 71.6455088,0 67.5,0 Z" id="path-1"></path>
+        <filter x="-33.3%" y="-37.7%" width="166.7%" height="194.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-670.000000, -2759.000000)" id="Boost">
+            <g transform="translate(683.000000, 38.000000)">
+                <g id="Group-14" transform="translate(2.000000, 2731.000000)">
+                    <g id="icons8-new-post">
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M75,7.51593485 C75,6.630147 74.8242188,5.79646476 74.5532231,5 L38.6861162,31.4146803 C37.9807139,31.9341807 37.0193196,31.9341353 36.3139663,31.4145683 L0.4541025,5 C0.17578125,5.79646476 0,6.63759011 0,7.51593485 L0,9.37683176 L35.720754,35.6893757 C36.7788763,36.4688074 38.2211237,36.4688074 39.279246,35.6893757 L75,9.37683176 L75,7.51593485 Z" id="Path" fill="#E7EFF5"></path>
+                    </g>
+                    <g id="lock" transform="translate(68.000000, 39.000000)">
+                        <g id="Group-7" fill="#F46885">
+                            <path d="M7.25471175,-3.55271368e-15 L7.40292406,-3.55271368e-15 C10.3074704,-3.55271368e-15 12.6620704,2.58717255 12.6620704,5.77861163 L12.6620704,7.50168856 C12.6620704,8.01812142 12.2810533,8.43677298 11.8110449,8.43677298 C11.3410365,8.43677298 10.9600194,8.01812142 10.9600194,7.50168856 L10.9600194,5.79437148 C10.9573814,3.63494865 9.36344742,1.88592676 7.39814302,1.88592871 L7.25949279,1.88592871 C5.29418839,1.88592676 3.7002544,3.63494865 3.69761641,5.79437148 L3.69761641,7.50168856 C3.69761641,8.01812142 3.31659931,8.43677298 2.84659091,8.43677298 C2.3765825,8.43677298 1.99556541,8.01812142 1.99556541,7.50168856 L1.99556541,5.77861163 C1.99556541,2.58717255 4.35016543,-3.55271368e-15 7.25471175,-3.55271368e-15 Z" id="Combined-Shape"></path>
+                            <rect id="Rectangle" x="0.13386918" y="7.28105066" width="14.86426" height="13.0281426" rx="1.4"></rect>
+                        </g>
+                        <rect id="Rectangle" fill="#FFFFFF" x="6.6518847" y="13.6585366" width="1.33037694" height="3.41463415" rx="0.66518847"></rect>
+                        <ellipse id="Oval" fill="#FFFFFF" cx="7.31707317" cy="12.9756098" rx="1.99556541" ry="2.04878049"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

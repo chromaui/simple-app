@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Badges/Magic Learner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="5.19846563%" x2="50%" y2="86.9501742%" id="linearGradient-1">
+            <stop stop-color="#49D170" offset="0%"></stop>
+            <stop stop-color="#38CB62" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="30" cy="30" r="30"></circle>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="81.7904185%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5FFF8" offset="100%"></stop>
+        </linearGradient>
+        <path d="M19.5294118,17.8235294 L23.9705882,17.8235294 C24.815259,17.8235294 25.5,18.5082704 25.5,19.3529412 L25.5,19.3529412 C25.5,20.197612 24.815259,20.8823529 23.9705882,20.8823529 L19.5294118,20.8823529 C18.684741,20.8823529 18,20.197612 18,19.3529412 L18,19.3529412 C18,18.5082704 18.684741,17.8235294 19.5294118,17.8235294 Z" id="path-5"></path>
+        <filter x="-93.3%" y="-163.5%" width="286.7%" height="557.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180172692   0 0 0 0 0.788584184   0 0 0 0 0.352883051  0 0 0 0.546818388 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges/Magic-Learner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shape">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-1)" opacity="0.1" xlink:href="#path-2"></use>
+            <g id="Path" opacity="0.176734561" fill-rule="nonzero" mask="url(#mask-3)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+            </g>
+            <path d="M18,20.8 L18,37.9411765 C18,39.4361765 19.11875,40.6470588 20.5,40.6470588 L28.34668,40.6470588 C28.7795163,41.4529166 29.5763175,42 30.5,42 C31.4236825,42 32.2204837,41.4529166 32.65332,40.6470588 L40.5,40.6470588 C41.88125,40.6470588 43,39.4361765 43,37.9411765 L43,20.8 C43,19.8058875 42.1941125,19 41.2,19 L35.5,19 C33.42875,19 31.75,20.817 31.75,23.0588235 L31.75,36.6911765 C31.75,37.3815324 31.1903559,37.9411765 30.5,37.9411765 L30.5,37.9411765 C29.8096441,37.9411765 29.25,37.3815324 29.25,36.6911765 L29.25,23.0588235 C29.25,20.817 27.57125,19 25.5,19 L19.8,19 C18.8058875,19 18,19.8058875 18,20.8 Z" fill="#3ECD67" fill-rule="nonzero" mask="url(#mask-3)"></path>
+            <path d="M22.0585714,22.68 L25.5485714,22.68 C26.3107244,22.68 26.9285714,23.297847 26.9285714,24.06 L26.9285714,24.06 C26.9285714,24.822153 26.3107244,25.44 25.5485714,25.44 L22.0585714,25.44 C21.2964185,25.44 20.6785714,24.822153 20.6785714,24.06 L20.6785714,24.06 C20.6785714,23.297847 21.2964185,22.68 22.0585714,22.68 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+            <path d="M35.4514286,22.68 L38.9414286,22.68 C39.7035815,22.68 40.3214286,23.297847 40.3214286,24.06 L40.3214286,24.06 C40.3214286,24.822153 39.7035815,25.44 38.9414286,25.44 L35.4514286,25.44 C34.6892756,25.44 34.0714286,24.822153 34.0714286,24.06 L34.0714286,24.06 C34.0714286,23.297847 34.6892756,22.68 35.4514286,22.68 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+            <path d="M22.0585714,28.2 L25.5485714,28.2 C26.3107244,28.2 26.9285714,28.817847 26.9285714,29.58 L26.9285714,29.58 C26.9285714,30.342153 26.3107244,30.96 25.5485714,30.96 L22.0585714,30.96 C21.2964185,30.96 20.6785714,30.342153 20.6785714,29.58 L20.6785714,29.58 C20.6785714,28.817847 21.2964185,28.2 22.0585714,28.2 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+            <path d="M35.4514286,28.2 L38.9414286,28.2 C39.7035815,28.2 40.3214286,28.817847 40.3214286,29.58 L40.3214286,29.58 C40.3214286,30.342153 39.7035815,30.96 38.9414286,30.96 L35.4514286,30.96 C34.6892756,30.96 34.0714286,30.342153 34.0714286,29.58 L34.0714286,29.58 C34.0714286,28.817847 34.6892756,28.2 35.4514286,28.2 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+            <path d="M22.0585714,33.72 L25.5485714,33.72 C26.3107244,33.72 26.9285714,34.337847 26.9285714,35.1 L26.9285714,35.1 C26.9285714,35.862153 26.3107244,36.48 25.5485714,36.48 L22.0585714,36.48 C21.2964185,36.48 20.6785714,35.862153 20.6785714,35.1 L20.6785714,35.1 C20.6785714,34.337847 21.2964185,33.72 22.0585714,33.72 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-3)"></path>
+        </g>
+    </g>
+</svg>

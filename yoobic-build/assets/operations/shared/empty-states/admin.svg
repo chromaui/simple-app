@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="105px" viewBox="0 0 130 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>admin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="4.87804878" y="0" width="100.487805" height="75.1219512" rx="2"></rect>
+        <filter x="-24.9%" y="-26.6%" width="149.8%" height="166.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-32.000000, -144.000000)" id="Operations">
+            <g transform="translate(42.000000, 48.000000)">
+                <g id="admin" transform="translate(0.000000, 106.000000)">
+                    <g id="laptop_frame">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect id="screen" fill="#E3ECF3" x="12.6829268" y="6.82926829" width="84.8780488" height="67.3170732"></rect>
+                    <rect id="laptop_base" fill="#FFFFFF" x="0" y="71.2195122" width="110.243902" height="8.7804878" rx="2"></rect>
+                    <g id="lock" transform="translate(44.000000, 23.000000)">
+                        <g id="Group-7" fill="#04CC99">
+                            <path d="M10.6402439,-3.55271368e-15 L10.857622,-3.55271368e-15 C15.1176232,-3.55271368e-15 18.5710366,3.69596079 18.5710366,8.25515947 L18.5710366,10.7166979 C18.5710366,11.4544592 18.0122115,12.0525328 17.3228659,12.0525328 C16.6335202,12.0525328 16.0746951,11.4544592 16.0746951,10.7166979 L16.0746951,8.27767355 C16.0708261,5.19278379 13.7330562,2.69418109 10.8506098,2.69418386 L10.6472561,2.69418386 C7.76480963,2.69418109 5.42703979,5.19278379 5.42317073,8.27767355 L5.42317073,10.7166979 C5.42317073,11.4544592 4.86434566,12.0525328 4.175,12.0525328 C3.48565434,12.0525328 2.92682927,11.4544592 2.92682927,10.7166979 L2.92682927,8.25515947 C2.92682927,3.69596079 6.38024263,-3.55271368e-15 10.6402439,-3.55271368e-15 Z" id="Combined-Shape"></path>
+                            <rect id="Rectangle" x="0.196341463" y="10.4015009" width="21.8009146" height="18.6116323" rx="2"></rect>
+                        </g>
+                        <rect id="Rectangle" fill="#FFFFFF" x="9.75609756" y="19.5121951" width="1.95121951" height="4.87804878" rx="0.975609756"></rect>
+                        <circle id="Oval" fill="#FFFFFF" cx="10.7317073" cy="18.5365854" r="2.92682927"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

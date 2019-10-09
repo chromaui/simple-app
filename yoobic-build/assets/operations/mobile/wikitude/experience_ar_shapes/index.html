@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes" name="viewport">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="https://i.icomoon.io/public/882c830429/yoobicons-V6/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/default.css">
+    <script src="https://www.wikitude.com/libs/architect.js"></script>
+    <script src="https://unpkg.com/@yoobic/design-system@6.0.276-8/design-system.js"></script>
+</head>
+
+<body>
+    <div class="screen">
+        <div id="header" class="header">
+            <yoo-button onclick="World.clickStart()" id="buttonTopLeft" class="success" text="Start" style="padding: 8px"></yoo-button>
+            <yoo-button onclick="World.closeArExperience()" id="buttonTop" class="success" text="Close AR" style="padding: 8px"></yoo-button>
+        </div>
+        <div id="buttonDrawer" class="lowerDrawer">
+            <div class="containerProductName">
+                <div id="boxTitle" class="productName"></div>
+                <div id="boxText" class="productPrice"></div>
+            </div>
+            <div class="container">
+                <yoo-button onclick="World.ClickNext()" id="buttonLeft" class="success" text="Next" style="padding: 8px"></yoo-button>
+                <yoo-button onclick="World.clickReset()" id="buttonRight" class="success" text="Reset" style="padding: 8px"></yoo-button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="94px" viewBox="0 0 87 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>category</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.720072007" y="0.545454545" width="56.8856886" height="64.0864086" rx="5"></rect>
+        <filter x="-43.9%" y="-31.2%" width="187.9%" height="178.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-28.000000, -1487.000000)" id="Operations">
+            <g transform="translate(42.000000, 48.000000)">
+                <g id="category" transform="translate(0.000000, 1448.400000)">
+                    <polygon id="Path" fill="#04CC99" points="45.4545455 64.1818182 45.4545455 75.2853285 49.6813681 71.2025203 54.3618362 74.9828983 54.3618362 64.1818182"></polygon>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect id="Rectangle" fill="#EDF2F6" x="13.6363636" y="16" width="31.8181818" height="17.2727273" rx="2"></rect>
+                    <rect id="Rectangle" fill="#BFD0DA" x="17.2817282" y="19.9873987" width="24.4824482" height="2.16021602" rx="1.08010801"></rect>
+                    <rect id="Rectangle" fill="#BFD0DA" x="17.2817282" y="25.0279028" width="16.5616562" height="2.16021602" rx="1.08010801"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

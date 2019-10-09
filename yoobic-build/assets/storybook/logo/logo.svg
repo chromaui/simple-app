@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="650px" height="736px" viewBox="0 0 650 736" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Cube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="7.2892743%" y1="-30.8837652%" x2="72.367%" y2="66.2820511%" id="linearGradient-1">
+            <stop stop-color="#45E2FF" offset="0%"></stop>
+            <stop stop-color="#7C6AFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M399.311183,14.0360681 L675.448343,173.463932 C690.492156,182.149481 699.759526,198.201038 699.759526,215.572136 L699.759526,534.427864 C699.759526,551.798962 690.492156,567.850519 675.448343,576.536068 L399.311183,735.963932 C384.267371,744.649481 365.732629,744.649481 350.688817,735.963932 L74.5516567,576.536068 C59.5078442,567.850519 50.2404736,551.798962 50.2404736,534.427864 L50.2404736,215.572136 C50.2404736,198.201038 59.5078442,182.149481 74.5516567,173.463932 L350.688817,14.0360681 C365.732629,5.35051895 384.267371,5.35051895 399.311183,14.0360681 Z" id="path-2"></path>
+        <path d="M199.655592,7.01803407 L337.724172,86.7319659 C345.246078,91.0747405 349.879763,99.1005189 349.879763,107.786068 L349.879763,267.213932 C349.879763,275.899481 345.246078,283.925259 337.724172,288.268034 L199.655592,367.981966 C192.133685,372.324741 182.866315,372.324741 175.344408,367.981966 L37.2758284,288.268034 C29.7539221,283.925259 25.1202368,275.899481 25.1202368,267.213932 L25.1202368,107.786068 C25.1202368,99.1005189 29.7539221,91.0747405 37.2758284,86.7319659 L175.344408,7.01803407 C182.866315,2.67525947 192.133685,2.67525947 199.655592,7.01803407 Z" id="path-4"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="YOBI-•-Design-System" transform="translate(-717.000000, -487.000000)">
+            <g id="1" transform="translate(667.000000, 480.000000)">
+                <g id="Group">
+                    <g id="Cube">
+                        <g id="Path-+-Path-+-Path-Mask">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <polygon id="Path" fill="#000000" fill-rule="nonzero" opacity="0.03" mask="url(#mask-3)" points="376 837.396552 1 649.793103 1 188 376 375.603448"></polygon>
+                            <polygon id="Path" fill="#000000" fill-rule="nonzero" opacity="0.08" mask="url(#mask-3)" points="376 837.396552 751 649.793103 751 188 376 375.603448"></polygon>
+                            <polygon id="Path" fill="#000000" fill-rule="nonzero" opacity="0" mask="url(#mask-3)" points="1 187.603448 361.576923 2.84217094e-14 751 187.603448 376 375.206897"></polygon>
+                            <g id="Group-2" mask="url(#mask-3)">
+                                <g transform="translate(188.000000, 188.000000)">
+                                    <mask id="mask-5" fill="white">
+                                        <use xlink:href="#path-4"></use>
+                                    </mask>
+                                    <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    <polygon id="Path" stroke="none" fill="#000000" fill-rule="nonzero" opacity="0.02" mask="url(#mask-5)" points="188 649.396552 -187 461.793103 -187 0 188 187.603448"></polygon>
+                                    <polygon id="Path" stroke="none" fill="#000000" fill-rule="nonzero" opacity="0.08" mask="url(#mask-5)" points="188 649.396552 563 461.793103 563 -1.13686838e-13 188 187.603448"></polygon>
+                                    <polygon id="Path" stroke="none" fill="#000000" fill-rule="nonzero" opacity="0" mask="url(#mask-5)" points="-187 -0.396551724 173.576923 -188 563 -0.396551724 188 187.206897"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

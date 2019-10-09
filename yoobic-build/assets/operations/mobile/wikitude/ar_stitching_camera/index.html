@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes" name="viewport">
+
+    <!-- disables pinch-scaling of the webview, so that gestures only do what they're supposed to -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
+
+    <title></title>
+
+    <script src="https://www.wikitude.com/libs/architect.js"></script>
+    <script type="text/javascript" src="../ade.js"></script>
+
+
+
+    <link rel="stylesheet" href="css/default.css">
+</head>
+
+<body>
+    <div class="screen" id="screen">
+        <div id="header" class="header" style="direction:rtl;">
+            <button onclick="World.clickClose()" id="buttonTop" class="button" style="width:30%; height:100%">Close AR</button>
+            <button onclick="World.clickRecalibrate()" id="buttonTopLeft" class="button" style="width:30%; height:100%; justify-self: right">Reset</button>
+
+        </div>
+        <div id="buttonDrawer" class="lowerDrawer">
+            <div class="containerBoxText">
+                <div id="boxTitle" class="boxTitle">title</div>
+                <div id="boxDescription" class="boxDescription">description</div>
+
+            </div>
+            <div class="container">
+                <div class="buttonContainer">
+                    <button onclick="World.clickPhoto()" id="buttonLeft" class="button">Photo</button>
+                </div>
+                <div class="buttonContainer">
+                    <button onclick="World.clickFinish()" id="buttonRight" class="button" style="display:none">Finish</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/turf.min.js" charset="utf-8"></script>
+    <script src="js/index.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="91px" viewBox="0 0 105 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>database</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="75.6043956" height="61.5384615" rx="5"></rect>
+        <filter x="-33.1%" y="-32.5%" width="166.1%" height="181.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-27.000000, -2606.000000)" id="Operations">
+            <g transform="translate(42.000000, 48.000000)">
+                <g id="database" transform="translate(0.000000, 2568.000000)">
+                    <rect id="Rectangle" fill="#E7EFF5" x="10.5494505" y="74.7252747" width="54.5054945" height="2.63736264" rx="1.31868132"></rect>
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <polygon id="Path" fill="#E7EFF5" points="75.6043956 43.0769231 0.149003539 43.0769231 0 23.7362637 75.6043956 23.7362637"></polygon>
+                    <circle id="Oval" fill="#BFD0DA" cx="52.7472527" cy="14.9450549" r="4.3956044"></circle>
+                    <circle id="Oval" fill="#BFD0DA" cx="65.0549451" cy="14.9450549" r="4.3956044"></circle>
+                    <circle id="Oval" fill="#04CC99" cx="52.7472527" cy="33.4065934" r="4.3956044"></circle>
+                    <circle id="Oval" fill="#BFD0DA" cx="65.0549451" cy="33.4065934" r="4.3956044"></circle>
+                    <circle id="Oval" fill="#BFD0DA" cx="52.7472527" cy="51.8681319" r="4.3956044"></circle>
+                    <circle id="Oval" fill="#BFD0DA" cx="65.0549451" cy="51.8681319" r="4.3956044"></circle>
+                    <circle id="Oval" fill="#BFD0DA" cx="38.2417582" cy="76.043956" r="3.95604396"></circle>
+                    <rect id="Rectangle" fill="#04CC99" x="6.15384615" y="12.3076923" width="28.1318681" height="3.51648352" rx="1.75824176"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="6.15384615" y="31.6483516" width="26.3736264" height="3.51648352" rx="1.75824176"></rect>
+                    <rect id="Rectangle" fill="#04CC99" x="6.15384615" y="50.1098901" width="32.5274725" height="3.51648352" rx="1.75824176"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1 @@
+import{r as t,g as o}from"./p-0d847530.js";import{N as r}from"./p-384bfcf6.js";import"./p-0f3d65ca.js";import"./p-8cff990b.js";import"./p-0d62bf9d.js";import"./p-d70b188c.js";import"./p-815d6c40.js";const s=class{constructor(o){t(this,o)}render(){return r(this.text||"")||""}get host(){return o(this)}static get style(){return""}};export{s as yoo_polyglot};

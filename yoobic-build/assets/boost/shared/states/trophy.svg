@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="146px" viewBox="0 0 142 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="27.7626626%" y1="0%" x2="72.2373374%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFD701" offset="0%"></stop>
+            <stop stop-color="#F9B62B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M7.22335822,0.70254267 L32.368464,0.70254267 C34.9391102,0.70254267 37.0230307,2.77371024 37.0230307,5.32862492 L37.0230307,27.8644391 C37.0230307,42.8655403 24.7873569,55.0263355 9.69388846,55.0263355 L0.7948542,55.0263355 L7.22335822,0.70254267 Z M7.30613195,9.166433 L4.98908763,46.5417813 L11.5663209,44.7102285 C20.6662961,42.1761714 27.1565688,34.1968171 27.7428063,24.8223264 L28.568234,11.622959 C28.5712213,11.5751883 28.5727161,11.527337 28.5727161,11.4794741 C28.5727161,10.2020168 27.5307558,9.166433 26.2454327,9.166433 L7.30613195,9.166433 Z" id="path-2"></path>
+        <filter x="-6.9%" y="-4.6%" width="113.8%" height="109.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-5" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="19.1559755%" y1="0%" x2="80.8440245%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFD701" offset="0%"></stop>
+            <stop stop-color="#F9B62B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M71.8584861,0.582422452 L110.533738,0.582422452 C111.811725,0.582422452 112.847738,1.61843552 112.847738,2.89642241 L112.847738,41.1521073 C112.847738,52.3661692 108.61348,62.8828679 100.144965,72.7022034 C88.3935581,86.3280883 76.4437988,88.388269 78.1123907,104.575276 L71.9893825,104.623785 L65.8663744,104.575276 C67.5349662,88.388269 55.585207,86.3280883 43.8337997,72.7022034 C35.3652846,62.8828679 31.1310271,52.3661692 31.1310271,41.1521073 L31.1310271,2.89642241 C31.1310271,1.61843552 32.1670402,0.582422452 33.4450271,0.582422452 L71.8584861,0.582422452 Z" id="path-5"></path>
+        <filter x="-3.1%" y="-2.4%" width="106.1%" height="104.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="5" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="42.7839578" y="104.086851" width="58.1820843" height="31.2260552"></rect>
+        <filter x="-24.9%" y="-40.0%" width="149.8%" height="192.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Store-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Battle---Victory" transform="translate(-198.000000, -122.000000)">
+            <g id="Group-4" transform="translate(197.000000, 121.000000)">
+                <ellipse id="Oval" fill="#1FB6FF" transform="translate(42.763735, 26.195796) rotate(-88.000000) translate(-42.763735, -26.195796) " cx="42.7637354" cy="26.1957964" rx="3.12121673" ry="3.12499539"></ellipse>
+                <ellipse id="Oval" fill="#F46885" transform="translate(62.337973, 15.724534) rotate(-88.000000) translate(-62.337973, -15.724534) " cx="62.3379733" cy="15.7245344" rx="2.67532863" ry="2.67856747"></ellipse>
+                <g id="Celebration" transform="translate(0.000000, 0.558442)">
+                    <g id="Group-3">
+                        <g id="Group-3-Copy">
+                            <g id="Group" transform="translate(105.620609, 9.252165)" fill="url(#linearGradient-1)">
+                                <path d="M7.22335822,0.70254267 L32.368464,0.70254267 C34.9391102,0.70254267 37.0230307,2.77371024 37.0230307,5.32862492 L37.0230307,27.8644391 C37.0230307,42.8655403 24.7873569,55.0263355 9.69388846,55.0263355 L0.7948542,55.0263355 L7.22335822,0.70254267 Z M7.30613195,9.166433 L4.98908763,46.5417813 L11.5663209,44.7102285 C20.6662961,42.1761714 27.1565688,34.1968171 27.7428063,24.8223264 L28.568234,11.622959 C28.5712213,11.5751883 28.5727161,11.527337 28.5727161,11.4794741 C28.5727161,10.2020168 27.5307558,9.166433 26.2454327,9.166433 L7.30613195,9.166433 Z" id="Combined-Shape"></path>
+                            </g>
+                            <g id="Group-Copy" transform="translate(19.129391, 37.252165) scale(-1, 1) translate(-19.129391, -37.252165) translate(0.129391, 9.252165)">
+                                <g id="Combined-Shape">
+                                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                </g>
+                            </g>
+                            <g id="Combined-Shape">
+                                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            </g>
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#F46885" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                            <polygon id="Star" fill="#FFFFFF" points="71.875 49.1521239 58.879543 55.9424296 61.3614544 41.5603314 50.8479088 31.3748729 65.3772715 29.2765531 71.875 16.1912879 78.3727285 29.2765531 92.9020912 31.3748729 82.3885456 41.5603314 84.870457 55.9424296"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

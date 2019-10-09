@@ -1,0 +1,1524 @@
+{
+ "THECLIENTASKS": "سؤال العميل",
+ "WHATSTHECORRECTRESPONSE": "ما هي الإجابة الصحيحة؟",
+ "PROFILE": "ملف التعريف",
+ "ALL": "الكل",
+ "Error": "تأكد أنك متصل بالإنترنت",
+ "FORM": "استمارة",
+ "LANGUAGE": "اللغة",
+ "OR": "أو",
+ "undefined": "خطأ مجهول",
+ "WHATSNEW": "مستجدات",
+ "WALKTHROUGH1": "برنامج تعليمي",
+ "HELP": "مساعدة",
+ "ENVIRONMENT": "محيط",
+ "TO-DO": "قائمة الواجبات",
+ "GETSTARTED": "إبدأ",
+ "LOGOUT": "إنهاء الاتصال",
+ "LOGOUTCONFIRM": "هل أنت متأكد أنك تريد الخروج من التطبيق؟",
+ "PASSWORD": "كلمة المرور",
+ "LOGIN": "اتصال",
+ "POWEREDBY": "يعمل بواسطة",
+ "RESETPASSWORDINSTRUCTION": "يُرجى إدخال عنوان البريد الإلكتروني الخاص بك لإعادة تعيين كلمة المرور الخاصة بك.",
+ "MAGICLINKINSTRUCTION": "يُرجى إدخال عنوان البريد الإلكتروني الخاص بك ليصلك رابط سحري.",
+ "CHANGEPASSWORD": "غيّر كلمة المرور",
+ "CONFIRMPASSWORD": "تأكيد كلمة المرور",
+ "ABOUT": "حول التطبيق",
+ "LIVEUPDATE": "تحديث مباشر",
+ "NEWVERSION": "إصدار جديد",
+ "NEWVERSIONAVAILABLE": "يتوفّر إصدار جديد",
+ "NONEWVERSIONAVAILABLE": "لا يتوفر إصدار جديد. عذراً",
+ "ADVANCEDFILTERS": "البحث المتقدم",
+ "VIEWUSERS": "عرض المستخدمين",
+ "InvalidCredentials": "بيانات اعتماد غير صالحة، حاول مرة أخرى أو انقر فوق 'هل نسيت كلمة المرور؟' لإعادة تعيينها.",
+ "LISTEMPTY": "يبدو أنه لا يوجد شيئا للعرض الآن.",
+ "NEWTAGFOUND": "تم العثور على علامة جديدة!",
+ "NEWTAGFOUNDDESCRIPTION": "يبدو أنه تم العثور على علامة جديدة, هل تريد إضافتها إلى القائمة؟",
+ "NUMBEROFITEMSPERPAGE": "عدد السلع في الصفحة",
+ "TOTALITEMS": "مجموع العناصر",
+ "INCORRECTFORMAT": "تنسيق غير صحيح",
+ "SUPPORTANDPREFERENCES": "الدعم والتفضيلات",
+ "SEARCHORADD": "بحث أو إضافة",
+ "SENTTO": "أُرسل إلى",
+ "EVENTS": "الأحداث",
+ "DARKMODE": "سمة الظلام",
+ "DAYS": "الأيام",
+ "SUN": "الأحد",
+ "MON": "الإثنين",
+ "WED": "الأربعاء",
+ "LOW": "منخفض",
+ "MAGICLINKTITLE": "الرابط السحري",
+ "SELECTTAG": "تحديد علامة",
+ "SELECTTAGS": "تحديد علامات",
+ "SELECTFILE": "تحديد ملف",
+ "SELECTADDRESS": "تحديد عنوان",
+ "SELECTADDRESSES": "تحديد عناوين",
+ "SELECTPRODUCTS": "تحديد منتجات",
+ "SELECTITEM": "تحديد سلعة",
+ "SELECTITEMS": "تحديد سلع",
+ "SELECTSTORE": "تحديد متجر",
+ "SELECTSTORES": "تحديد متاجر",
+ "SELECTGROUP": "تحديد مجموعة",
+ "SELECTGROUPS": "تحديد مجموعات",
+ "DISCARDPHOTO": "هل ترغب في تجاهل التغييرات؟",
+ "AREYOUSURE": "إذا قمت بالرجوع الآن, فستفقد تغييراتك.",
+ "KEEP": "حفظ",
+ "EXPAND": "توسع",
+ "SYNCED": "تمت المزامنة",
+ "SYNCDATABASE": "مزامنة قاعدة البيانات",
+ "SYNCINGDATABASE": "جاري مزامنة قاعدة البيانات, يُرجى الانتظار ...",
+ "FINISH": "إنهاء",
+ "ASSIGNEE": "المعين للمهمة",
+ "LIVEUPDATEPROGRESS": "نحن نقوم بتنزيل أحدث إصدار, وهذا لن يستغرق وقتاً طويلاً.",
+ "PERFORMANCE": "الأداء",
+ "DIRECT": "مباشر",
+ "LOWEST": "الأدنى",
+ "CURRENT": "جارٍ",
+ "HIGHEST": "الأعلى",
+ "COMPARISON": "مقارنة",
+ "STARTNOW": "Start now!",
+ "FIRSTCOMMENT": "كن أول من يبدأ بالتعليق",
+ "VIEWALLCOMMENTS": "عرض جميع التعليقات ({{count}})",
+ "PHOTO": "صورة",
+ "USERNAME": "اسم المستخدم",
+ "VIEWLIST": "منظر على شكل قائمة",
+ "USEBIGFONTS": "خطوط كبيرة",
+ "PULLTOREFRESH": "تحديث الصفحة جارٍ...",
+ "CHANGE": "تغيير",
+ "ASSIGNED": "تم التعيين",
+ "SELECTALL": "تحديد الكل",
+ "DELETEMESSAGES": "حذف الرسائل",
+ "DELETE_MESSAGE": "حذف الرسالة",
+ "DELETE_MESSAGES": "حذف {{number}} رسائل",
+ "SEEHISTORY": "عرض السجل",
+ "MEMOS": "المهام",
+ "BOOKEDDATE": "بدأت بتاريخ",
+ "BOOKEDUNTIL": "إلى غاية",
+ "DISABLENOTIFICATIONS": "تعطيل الإشعارات",
+ "DISABLELIKES": "تعطيل الإعجابات",
+ "DISABLECOMMENTS": "تعطيل التعليقات",
+ "SHOWCALENDAR": "العرض في الجدول الزمني",
+ "SHOWTESTFORM": "أظهر نموذج الاختبار",
+ "CLEARALL": "مسح الكل",
+ "HIGH": "عالي",
+ "PROFILEEDIT": "تعديل ملف التعريف",
+ "IMPERSONATE": "انتحال شخصية",
+ "USEOFFLINEMODE": "وضع غير متصل بالشبكة",
+ "LEADERBOARD": "ترتيب",
+ "STATS": "إحصاءات",
+ "SELECTEDTAG": "تم تحديد 1 علامة",
+ "SELECTEDTAGS": "تم تحديد {{n}} علامات",
+ "SELECTFILES": "تحديد الملفات",
+ "SELECTEDFILE": "تم تحديد 1 ملف",
+ "SELECTEDFILES": "تم تحديد {{n}} ملفات",
+ "SELECTEDADDRESS": "تم تحديد 1 عنوان",
+ "SELECTEDADDRESSES": "تم تحديد {{n}} عناوين",
+ "SELECTPRODUCT": "تحديد منتج",
+ "SELECTEDPRODUCT": "تم تحديد 1 منتج",
+ "SELECTEDPRODUCTS": "تم تحديد {{n}} منتجات",
+ "SELECTEDITEM": "تم تحديد 1 سلعة",
+ "SELECTEDITEMS": "تم تحديد {{n}} سلع",
+ "SELECTEDSTORE": "تم تحديد 1 متجر",
+ "SELECTEDSTORES": "تم تحديد {{n}} متاجر",
+ "SELECTEDGROUP": "تم تحديد 1 مجموعة",
+ "SELECTEDGROUPS": "تم تحديد {{n}} مجموعات",
+ "SELECTCAMPAIGN": "تحديد حملة",
+ "SELECTCAMPAIGNS2": "تحديد حملات",
+ "SELECTEDCAMPAIGN": "تم تحديد 1 حملة",
+ "SELECTEDCAMPAIGNS": "تم تحديد {{n}} حملات",
+ "SELECTCOMPANY": "تحديد شركة",
+ "SELECTCOMPANIES": "تحديد شركات",
+ "SELECTEDCOMPANY": "تم تحديد 1 شركة",
+ "SELECTEDCOMPANIES": "تم تحديد {{n}} شركات",
+ "SELECTEMAIL": "تحديد عنوان بريد إلكتروني",
+ "SELECTEMAILS": "تحديد عناوين بريد إلكتروني",
+ "SELECTEDEMAIL": "تم تحديد 1 عنوان بريد إلكتروني",
+ "SELECTEDEMAILS": "تم تحديد {{n}} عناوين بريد إلكتروني",
+ "SELECTCATALOG": "تحديد كتالوج",
+ "SELECTCATALOGS": "تحديد كتالوجات",
+ "SELECTEDCATALOG": "تم تحديد 1 كتالوج",
+ "SELECTEDCATALOGS": "تم تحديد {{n}} كتالوجات",
+ "STORE": "متجر",
+ "INSIGHTS": "وجهات النظر",
+ "KPI": "مؤشر الأداء الرئيسي",
+ "DASHBOARDS": "لوحات التحكم",
+ "TAKEANEWAUDIO": "تسجيل مقطع صوتي جديد",
+ "TAKEANEWPHOTO": "التقاط صورة جديدة",
+ "TAKEANEWVIDEO": "تسجيل مقطع فيديو جديد",
+ "STOREPROFILE": "الملف التعريفي للمتجر",
+ "SELECTALOCATION": "تحديد متجر",
+ "EDITEDON": "تم التعديل في",
+ "ONTIME": "في الوقت المناسب",
+ "ANALYZED": "تم التحليل",
+ "STICKY": "صعب",
+ "PHOTOSINAPPENDIX": "إضافة صور كبيرة في الملحق",
+ "PHOTOSONLY": "صور فقط",
+ "PHOTOSONLYOPTIONS": "Photos only options",
+ "HIDEHEADER": "إخفاء العنوان",
+ "HIDELEGEND": "إخفاء التعليق التفسيري",
+ "HIDEPAGETITLE": "إخفاء عناوين الصفحات",
+ "HIDEREGRESSION": "إخفاء الانحدار الخطي",
+ "INCLUDEFIELDDESCRIPTION": "عرض وصف الحقل",
+ "GETDIRECTIONS": "الحصول على الاتجاهات",
+ "USEAPPLEMAPS": "استخدام تطبيق Apple Map",
+ "USEGOOGLEMAPS": "استخدام تطبيق Google Maps",
+ "USECITYMAPPER": "استخدام تطبيق Citymapper",
+ "COPYADDRESS": "نسخ العنوان",
+ "DERIVEDFROM": "مشتق من",
+ "BY": "بواسطة",
+ "USERPROFILE": "الملف التعريفي للمستخدم",
+ "LINK": "الرابط",
+ "START": "البدء",
+ "OTHERAPPS": "تطبيقات YOOBIC ",
+ "APPS": "تطبيقات",
+ "SWITCH": "Switch",
+ "BOOST": "تعزيز",
+ "OPERATIONS": "العمليات",
+ "OWNER": "المالك",
+ "OPENUNTIL": "مفتوح حتى",
+ "DIRECTIONS": "الطريق",
+ "INVALIDFIELD": "يُرجى التحقق من إجاباتك: بعض الحقول لا تحتوي على إجابة صحيحة.",
+ "INVALIDFIELDS": "يُرجى التحقق من إجاباتك: {{n}} من حقول لا تحتوي على إجابة صحيحة.",
+ "LINKEDTO": "متصل بـ",
+ "DISABLEHAPTICFEEDBACK": "تعطيل ردود الفعل اللمسية",
+ "DELETEALLFILTERS": "هل أنت متأكد من أنك تريد مسح جميع الفلاتر السابقة؟",
+ "GRADE": "الدرجة",
+ "AUTORELOAD": "احتفظ بالقيمة",
+ "OUTOF100": "من أصل 100",
+ "RATED": "مصنّف",
+ "TOP": "أعلى",
+ "VIEWALL": "View All",
+ "LOCATIONEMPTY": "لم يتم العثور على متاجر من حولك.",
+ "SELECTMEMO": "تحديد قائمة مهام",
+ "SELECTMEMOS": "تحديد قوائم المهام",
+ "SELECTEDMEMO": "تم تحديد 1 قائمة مهام",
+ "SELECTEDMEMOS": "تم تحديد {{n}} قوائم مهام",
+ "SEEALL": "عرض الكل",
+ "JOINEDON": "انضم في",
+ "ADMIN": "المشرف",
+ "NONAPPLICABLE": "غير قابل للتطبيق",
+ "SUMMARY": "الملخص",
+ "MISC": "متنوع",
+ "TUE": "الثلاثاء",
+ "THU": "الخميس",
+ "FRI": "الجمعة",
+ "SAT": "السبت",
+ "DRAFT": "مسودة",
+ "COMPLETED": "مكتمل",
+ "FILTERBY": "تصفية حسب",
+ "SELECTLOCATIONS": "اختر متجرًا أو أكثر",
+ "BOOKYOURJOURNEY": "احجز يومك التالي",
+ "HELLO_USER": "👋 {{day_period}}, {{user_firstname}}",
+ "MORNING": "صباح الخير",
+ "AFTERNOON": "نهار سعيد",
+ "EVENING": "مساء الخير",
+ "PHOTOTAKEN": "الصور الإلزامية: {{captured_number}}",
+ "UNSELECTALL": "\tإلغاء تحديد الكل",
+ "SELECT2": "حدد",
+ "ALLPHOTOTAKEN": "كل الصور التي التُقِطت",
+ "VIEWINSIGHTS": "عرض الرؤى",
+ "NETWORKSCORE": "درجة الشبكة",
+ "STARTDATE": "تاريخ البدء",
+ "ENDDATE": "تاريخ الانتهاء",
+ "TASKDETAIL": "تفاصيل المهمة",
+ "EDITTASK": "تحرير المهمة",
+ "NEXT": "التالي",
+ "GOBACK": "العودة",
+ "CONTACTSUPPORT": "الاتصال بالدعم",
+ "MAGICLINKREQUESTED": "لقد طلبت رابطًا سحريًا, انظر صندوق البريد الإلكتروني الوارد.  ",
+ "RESETPASSWORDREQUESTED": "لقد طلبت تغيير كلمة المرور, انظر صندوق البريد الإلكتروني الوارد.",
+ "JOURNEY": "تنزيل",
+ "GLADTOSEEYOU": "مرحبًا بك مرة أخرى!",
+ "UPLOADDATABASECONFIRM": "عدت للاتصال بالإنترنت! هل تريد مزامنة التغيرات التي لم تُحفظ؟",
+ "HELPPORTAL": "مركز التعليمات",
+ "UPLOADDATABASE": "تحميل قاعدة البيانات",
+ "SYNCINGDATABASECONFIRM": "جاري تنزيل إعدادات الوضع \"غير متصل\"",
+ "NETWORK": "الشبكة",
+ "SYCINGDATABASECONFIRM": "Back online! Do you want to sync unsaved changes?",
+ "SYNCHRONISATION": "المزامنة",
+ "ANDROIDPDFCONFIRM": "هل تريد تثبيت تطبيق PDF Viewer لأجهزة الجوال التي تعمل بنظام Android؟ ",
+ "MOVERIGHTTOTAKEPICTURE": "تحرك إلى اليمين لالتقاط صورة أخرى",
+ "VIDEOCALL": "مكالمة فيديو",
+ "VIDEOCALLCALLING": "{{user}} يتصل بك...",
+ "PICKANUMBER": "اختيار رقم",
+ "NODUEDATE": "لا يوجد تاريخ استحقاق",
+ "CONSTRUCTINGYOURSEARCH": "يُرجى الانتظار حتى نقوم بجلب جميع معلمات البحث خاصتك",
+ "COMPAREWITHLASTYEAR": "مقارنة مع العام الماضي",
+ "MAXIMUMCAPTURE": "الحد الأقصى لـ {{captured_number}}",
+ "YESTERDAY": "الأمس",
+ "DOWNLOAD": "تنزيل",
+ "6MONTHS": "ستة أشهر",
+ "3MONTHS": "3 اشهر",
+ "SUBMIT": "إرسال",
+ "IMAGES": "الصور",
+ "AUDIOS": "المقاطع الصوتية",
+ "MICROPHONE": "الميكروفون",
+ "AUDIOOUTPUT": "خرج الصوت",
+ "CAMERA": "الكاميرا",
+ "TABLEAU": "Tableau",
+ "COLLECTION": "مجموعة",
+ "IMPORTFROMLIBRARY": "استيراد من المكتبة",
+ "WAITINGTOCONNECT": "قيد انتظار المستخدم للاتصال",
+ "OPERATIONSTESTSETTINGSLOKALISE2": "[uk] test settings lokalise 2",
+ "CONTINUE": "مواصلة",
+ "CLONINGTENANT": "Cloning a company",
+ "SALESDATA": "بيانات المبيعات",
+ "ADDANACTIVITY": "تحديد خيار",
+ "PLUGININSTALL": "Chrome Web Extension {{link}}",
+ "PLUGINNOTINSTALL": "يُرجى تثبيت المكون الإضافي التالي",
+ "SEND": "إرسال",
+ "EDIT": "تعديل",
+ "RECENT": "Recent",
+ "WITHDATA": "مع بيانات",
+ "WEBSUBPLACEHOLDER": "Start browsing {{item}} from the left column",
+ "POSTS": "منشورات",
+ "WEBSUBPLACEHOLDERGENERIC": "Start browsing from the left column",
+ "LIKECOUNT": "إعجاب بـ {{count}}",
+ "CHATPLACEHOLDER": "💬 Chat with everyone in your team.",
+ "NEWCHAT": "دردشة جديدة",
+ "REPLY": "رد",
+ "APPLY": "طبّق",
+ "ADVANCED": "متقدم",
+ "ADVANCEDLOGIN": "تسجيل دخول متقدم",
+ "ASK": "إسأل",
+ "CLEAR": "حذف",
+ "CANCEL": "إلغاء",
+ "YES": "نعم",
+ "DEVICE": "جهاز",
+ "DONE": "منجز",
+ "GROUPS": "مجموعات",
+ "GROUP": "المجموعة",
+ "OLDPASSWORD": "كلمة المرور الخاصة السابقة",
+ "PLATFORM": "منصة",
+ "TAGS": "وسوم",
+ "SEARCH": "بحث",
+ "POSITION": "المركز",
+ "VERSION": "إصدار",
+ "DISABLEALLEMAILS": "إيقاف البريد الإلكتروني",
+ "TARGET": "الهدف",
+ "MAGICLINK": "إرسال رابط خفي",
+ "NO": "لا",
+ "COMPANY": "الشركة",
+ "TELEPHONE": "رقم الهاتف",
+ "ROLE": "الوظيفة",
+ "QUESTION": "Question",
+ "OK": "موافق",
+ "MOBILEVERSION": "إصدار الهاتف المحمول",
+ "GENDER": "الجنس",
+ "DATEOFBIRTH": "تاريخ الميلاد",
+ "CREATE": "إنشاء",
+ "HIRINGDATE": "Hiring date",
+ "ADDCOMMENT": "إضافة تعليق",
+ "LASTSEEN": "آخر اتصال",
+ "ONGOING": "جارٍ",
+ "GRIDSELECT": "حدد",
+ "CLIENTID": "معرّف العميل",
+ "CONTACTPHONE": "هاتف جهة الاتصال",
+ "SKIP": "تجاوز",
+ "ME": "Me",
+ "COMBO": "اختيار وحيد",
+ "SELECT": "اختيار وحيد",
+ "COMBOMULTI": "اختيار متعدد",
+ "NUMBER": "العدد",
+ "RANKING": "ترتيب",
+ "SELECTIMAGE": "خيار الصور",
+ "HTTPERRORRESPONSE": "يُرجى التحقق من اتصالك بالإنترنت",
+ "DATE": "تاريخ",
+ "CREATIONDATE": "تم إنشاؤه في",
+ "TIME": "الساعة",
+ "TEL": "رقم الهاتف",
+ "ADD": "إضافة",
+ "NEW": "جديد",
+ "COPY": "نسخ",
+ "LOAD": "تحميل",
+ "ALLOWCOMMENTS": "تعليقات",
+ "SAVING": "الحفظ جارٍ",
+ "RETRY": "Start again",
+ "DATA": "بيانات",
+ "PIE": "دائرة",
+ "BAR": "شريط",
+ "COLUMN": "أعمدة",
+ "LINE": "خط",
+ "BYDATE": "حسب التاريخ",
+ "INFORMATION": "معلومات",
+ "ROLES": "سجلات",
+ "SUPPORT": "دعم",
+ "VALUE": "قيمة",
+ "TEAM": "فريق",
+ "ALLOWLIBRARY": "السماح باستيراد المكتبة",
+ "OFFLINEMODE": "لا يوجد اتصال بالإنترنت / نمط غير متصل",
+ "NOTIFICATIONEMAILS": "بريد إلكتروني للإشعار",
+ "VALIDATEDBY": "تمت المصادقة عليه من قبل",
+ "INFO": "معلومات",
+ "FILTERS": "تصفيات",
+ "DUEDATE": "آخر أجل",
+ "LOADMORE": "إظهار المزيد...",
+ "OFFLINE": "غير متصل",
+ "SHOWANSWERS": "Show Answers",
+ "CHECK": "تحقق",
+ "NOTAVAILABLE": "غير متوفر",
+ "VIDEOS": "فيديوهات",
+ "DOWNLOADSUCCESS": "تم التنزيل بنجاح",
+ "COMMENTNOUN": "تعليق",
+ "GEOFILTER": "فلتر جغرافي",
+ "GEOFILTERS": "فلاتر جغرافية",
+ "PDFEXPORT": "التصدير على شكل PDF",
+ "FAVOURITE": "إضافة إلى المفضلة",
+ "UNFAVOURITE": "إزالة من المفضلة",
+ "EDITINGCOMMENT": "تعديل تعليقك",
+ "POST": "منشور",
+ "QUIZZ": "Quiz",
+ "QUESTIONS": "Questions",
+ "DOCUMENT": "Document",
+ "NOTIFICATIONS": "إشعارات",
+ "LESSON": "Lesson",
+ "ROLEMANAGER": "المدير",
+ "ROLEEDITOR": "المحرر",
+ "ROLEVIEWER": "المشاهد",
+ "ROLEFIELD": "الفريق الميداني",
+ "ROLESTOREMANAGER": "مدير المتجر",
+ "ROLESTORE": "فريق المتجر",
+ "ROLEADMIN": "مدير",
+ "QUERYISTOOBIG": "الاستفسار كبير للغاية",
+ "RECENTS": "الحديثة",
+ "BROWSE": "تصفح",
+ "REMEMBERME": "تذكرني",
+ "VIDEOPLAYER": "مُشغل مقاطع الفيديو",
+ "BADGE": "الشارة",
+ "INSTAGRAM": "انستجرام",
+ "PROPERTIES": "الخصائص",
+ "SYNC": "مزامنة",
+ "GAME": "الألعاب",
+ "TENANT": "المستأجر",
+ "TENANTS": "المستأجرون",
+ "EXPLANATIONDOCUMENT": "وثيقة التفسير",
+ "MULTIPHOTOS": "صور متعددة",
+ "MISSINGWORD": "كلمات مفقودة",
+ "SWIPESELECT": "سحب",
+ "KNOB": "زر",
+ "SENTENCE": "جملة",
+ "CONNECT": "اتصال",
+ "HOUR": "ساعة",
+ "MINUTE": "دقيقة",
+ "PAUSE": "إيقاف مؤقت",
+ "GAMEOVER": "انتهت اللعبة",
+ "MEMORY-GAME-INSTRUCTIONS": "احفظ البطاقات المقترنة!",
+ "ASSIGN": "تعيين",
+ "TOMORROW": "غدًا",
+ "USERACTIVE": "المستخدمون النشطون",
+ "VIEWLESS": "عرض أقل",
+ "STOREMANAGER": "مدير المتجر",
+ "REGIONALMANAGER": "المدير الإقليمي",
+ "HEADQUARTER": "المقر الرئيسي",
+ "INTRODUCTION": "المقدمة",
+ "LATE": "متأخر",
+ "DELETECONFIRM": "هل أنت متأكد من أنك تريد حذف هذا العنصر؟",
+ "PASSWORDENTER": "أدخل كلمة المرور الخاصة بك",
+ "TIMEFORMAT": "HH:mm (الساعة:الدقيقة)",
+ "SMS": "رسالة قصيرة",
+ "DISABLEALLSMS": "فصل كافة الرسائل القصيرة",
+ "DISABLEALLPUSH": "إيقاف كافة الإشعارات",
+ "DATETIME": "التاريخ والوقت",
+ "FORMATDATE": "يوم/شهر/سنة",
+ "FORMATDATEPICKER": "يوم شهر سنة",
+ "FORMATDATETIME": "يوم/شهر/سنة ساعة:دقيقة",
+ "FORMATDATETIMEPICKER": "يوم شهر سنة ساعة:دقيقة",
+ "FORMATTIME": "ساعة:دقيقة",
+ "FORMATTIMEPICKER": "ساعة:دقيقة",
+ "COLUMNS": "أعمدة",
+ "TIMER": "كرونومتر",
+ "TIMEIN": "ساعة الانطلاق",
+ "TIMEOUT": "ساعة النهاية",
+ "HOURINITIAL": "س",
+ "MINUTEINITIAL": "د",
+ "RESET": "إعادة التهيئة",
+ "RESUME": "مواصلة",
+ "CREATEDBY": "قام بإنشائه",
+ "VIEWS": "تم مشاهدته",
+ "MORE": "متقدم",
+ "TAG": "وسم",
+ "XAXIS": "محور سيني",
+ "YAXIS": "محور ص",
+ "AGGRIDPAGE": "صفحة",
+ "AGGRIDMORE": "إظهار المزيد",
+ "AGGRIDTO": "من",
+ "AGGRIDOF": "إلى",
+ "AGGRIDNEXT": "التالي",
+ "AGGRIDLAST": "الأخير",
+ "AGGRIDFIRST": "الأول",
+ "AGGRIDPREVIOUS": "السابق",
+ "AGGRIDLOADINGOOO": "تحميل...",
+ "AGGRIDSELECTALL": "اختيار الكل",
+ "AGGRIDSEARCHOOO": "بحث...",
+ "AGGRIDBLANKS": "فارغ",
+ "AGGRIDFILTEROOO": "فلتر...",
+ "AGGRIDAPPLYFILTER": "تطبيق فلتر",
+ "AGGRIDEQUALS": "يساوي",
+ "AGGRIDLESSTHAN": "أصغر من",
+ "AGGRIDGREATERTHAN": "أكبر من",
+ "AGGRIDCONTAINS": "يتضمن",
+ "AGGRIDSTARTSWITH": "البدء بـ",
+ "AGGRIDENDSWITH": "الانتهاء بـ",
+ "AGGRIDGROUP": "المجموعة",
+ "AGGRIDCOLUMNS": "أعمدة",
+ "AGGRIDROWGROUPCOLUMNS": "أعمدة المجموعة",
+ "AGGRIDROWGROUPCOLUMNSEMPTYMESSAGE": "نقل أعمدة هنا لتجميعها",
+ "AGGRIDVALUECOLUMNS": "أعمدة القيمة",
+ "AGGRIDPIVOTMODE": "نمط المحور",
+ "AGGRIDGROUPS": "مجموعات",
+ "AGGRIDVALUES": "قيم",
+ "AGGRIDPIVOTS": "محاور",
+ "AGGRIDVALUECOLUMNSEMPTYMESSAGE": "نقل أعمدة هنا لتكديسها",
+ "AGGRIDPIVOTCOLUMNSEMPTYMESSAGE": "نقل أعمدة هنا لتدويرها",
+ "AGGRIDNOROWSTOSHOW": "لا توجد بيانات للعرض",
+ "AGGRIDPINCOLUMN": "تثبيت هذا العمود",
+ "AGGRIDVALUEAGGREGATION": "قيمة التراكم",
+ "AGGRIDAUTOSIZETHISCOLUMN": "تغيير أبعاد هذا العمود",
+ "AGGRIDAUTOSIZEALLCOLUMNS": "تغيير أبعاد كافة الأعمدة",
+ "AGGRIDGROUPBY": "تجميع حسب",
+ "AGGRIDUNGROUPBY": "عدم تجميع حسب",
+ "AGGRIDRESETCOLUMNS": "إعادة تهيئة الأعمدة",
+ "AGGRIDEXPANDALL": "توسيع الكل",
+ "AGGRIDCOLLAPSEALL": "غلق الكل",
+ "AGGRIDTOOLPANEL": "عرض/إخفاء الأدوات",
+ "AGGRIDPINLEFT": "تثبيت إلى اليسار",
+ "AGGRIDPINRIGHT": "تثبيت إلى اليمين",
+ "AGGRIDNOPIN": "لا تثبت",
+ "AGGRIDSUM": "مجموع",
+ "AGGRIDMIN": "أقصى",
+ "AGGRIDMAX": "أدنى",
+ "AGGRIDNONE": "لا شيء",
+ "AGGRIDCOUNT": "عملية حسابية",
+ "AGGRIDAVERAGE": "متوسط",
+ "AGGRIDCOPY": "نسخ",
+ "AGGRIDCTRLC": "CTRL + C",
+ "AGGRIDPASTE": "لصق",
+ "AGGRIDCTRLV": "CTRL + V",
+ "CLUSTER": "عرض عنقودي",
+ "CHARTTYPE": "نوع الرسم الغرافيكي",
+ "DATABASE": "قاعدة بيانات",
+ "WALKING": "مشياً",
+ "CYCLING": "باستخدام الدراجة",
+ "DRIVING": "في السيارة",
+ "RANK": "الموقع في الترتيب",
+ "UNDO": "العودة إلى الخلف",
+ "MAXWIDTH": "عرض أقصى (بكسل)",
+ "TRANSLATIONS": "ترجمات",
+ "LIKES": "إعجابات",
+ "LIST": "قائمة",
+ "IN": "من ضمن",
+ "EQUALS": "يساوي",
+ "GREATERTHAN": "أكبر من",
+ "LESSTHAN": "أصغر من",
+ "LIKE": "أعجبني",
+ "EXISTS": "موجود",
+ "VIEWUSER": "مشاهدة المستخدم",
+ "COLLAPSE": "إخفاء",
+ "VISIBLE": "عرض",
+ "YEAR": "سنة",
+ "QUARTER": "فصل",
+ "MONTH": "شهر",
+ "WEEK": "أسبوع",
+ "DAY": "يوم",
+ "CHART": "رسم جرافيكي",
+ "GRID": "جدول",
+ "DEBUG": "تشغيل نمط التصحيح",
+ "PDF": "PDF",
+ "OPTIONS": "خيارات",
+ "GROUPBYDATE": "تجميع حسب التاريخ",
+ "DATETIMEFORMAT": "صيغة التاريخ والوقت",
+ "GROUPBY": "تجميع حسب",
+ "MISSINGCREDENTIALS": "يطلب إدخال اسم المستخدم/كلمة المرور",
+ "RequestError": "تأكد أنك متصل بالإنترنت",
+ "NoAccess": "للأسف لا يمكنك الدخول إلى هذا التطبيق",
+ "UNKNOWN_ERROR": "خطأ مجهول",
+ "ERROR": "خطأ",
+ "MALE": "رجل",
+ "FEMALE": "امرأة",
+ "YEARS": "عام (أعوام)",
+ "CONFIRM": "تأكيد",
+ "CREATED": "تم إنشاؤه",
+ "COMMENTS": "تعليقات",
+ "SHARE": "تقاسم",
+ "COMMENT": "تعليق",
+ "LOADING": "تحميل",
+ "FILTER": "فلتر",
+ "LIBRARY": "مكتبة",
+ "PREVIEW": "لمحة",
+ "UserLockedDown": "لقد تم تعليق حسابك.",
+ "AlreadyLoggedIn": "إنك متصل",
+ "SocialError": "لا يمكن الاتصال بالفيسبوك حالياً",
+ "UserAlreadyExists": "اسم المستخدم هذا أخذه شخص آخر...",
+ "UserUnavailable": "اسم المستخدم هذا أخذه شخص آخر...",
+ "IncompleteRequestBody": "بيانات مفقودة",
+ "IMPORT": "استيراد",
+ "TODAY": "اليوم",
+ "TIMESCALE": "سلم الوقت",
+ "LAST7DAYS": "آخر 7 أيام",
+ "DURATION": "المدة",
+ "GENERAL": "عامْ",
+ "ANSWERS": "Answers",
+ "NAME": "الاسم",
+ "MIN": "أدنى",
+ "MAX": "أقصى",
+ "VALUES": "قيم",
+ "MANDATORY": "إجباري",
+ "ORDER": "ترتيب",
+ "MAP": "خارطة",
+ "ADDNEW": "إضافة...",
+ "NOTIFY": "إشعارات",
+ "TOTAL": "المجموع",
+ "NOTIFICATION": "إشعار",
+ "DATES": "تواريخ",
+ "USERS": "مستخدمون",
+ "USER": "مستخدم",
+ "ICON": "أيقونة",
+ "COUNT": "كمية",
+ "SUM": "مجموع",
+ "AVERAGE": "متوسط",
+ "DELETEALL": "حذف الكل",
+ "DELETEALLCONFIRM": "هل أنت متأكد من حذف {{total}} الكيان (الكيانات)؟",
+ "EXPORT": "تصدير",
+ "ACL": "تراخيص",
+ "FIRST": "الأول",
+ "PREVIOUS": "السابق",
+ "AVG": "متوسط",
+ "LAST": "الأخير",
+ "SAVE": "حفظ",
+ "RESETPASSWORD": "إعادة ضبط كلمة المرور",
+ "RESETPASSWORDDESCRIPTION": "سيتم تزويدك بكلمة المرور الجديدة بالبريد الإلكتروني...",
+ "RESETPASSWORDOK": "تم إرسال كلمة المرور الجديدة بالبريد الإلكتروني...",
+ "RESETPASSWORDERROR": "لا يوجد أي مستخدم مطابق للعنوان المستخدم",
+ "REQUESTERROR": "لم نتمكن من الحصول على البيانات. تأكد أنك متصل بالإنترنت",
+ "SAVENOTVALID": "الرجاء التأكد من ملء كافة الحقول الإجبارية (*) كما ينبغي",
+ "SAVECONFIRMPROFILE": "هل أنت متأكد من حفظ ملف تعريفك؟",
+ "SECURITY": "إدارة الحقوق",
+ "SETTINGS": "الإعدادات",
+ "SHOW": "عرض",
+ "DESCRIPTION": "وصف",
+ "RATING": "ترتيب",
+ "DELETE": "حذف",
+ "UPDATE": "تحديث",
+ "VIEW": "مشاهدة",
+ "TITLE": "عنوان",
+ "REFRESH": "تحديث",
+ "FILES": "ملفات",
+ "DOCUMENTS": "مستندات",
+ "TYPE": "نوع",
+ "SIZE": "حجم",
+ "ADDRESS": "العنوان",
+ "END": "نهاية",
+ "BACK": "عودة",
+ "PASSWORDDONOTMATCH": "كلمات المرور غير متطابقة",
+ "CHANGEPASSWORDOK": "لقد تم تغيير كلمة المرور الخاصة بك.",
+ "CHANGEPASSWORDERROR": "لقد وقعت مشكلة أثناء تغيير كلمة المرور.",
+ "PASSWORDIDENTICAL": "كلمات المرور متطابقة",
+ "NEWPASSWORD": "كلمة المرور الخاصة الجديدة",
+ "INVALID_PASSWORD": "كلمة المرور المحددة غير صحيحة.",
+ "ADDAPHOTO": "انقر هنا لإضافة صورة",
+ "CHANGEPHOTO": "انقر على الصورة لتغييرها...",
+ "PERSONALINFO": "معلومات شخصية",
+ "EMAIL": "عنوان بريد إلكتروني",
+ "EMAILS": "عناوين بريد إلكتروني",
+ "FIRSTNAME": "الاسم الشخصي",
+ "LASTNAME": "الاسم العائلي",
+ "SIGNUP": "التسجيل",
+ "SIGNIN": "اتصل",
+ "FORGOTPASSWORD": "نسيت كلمة المرور؟",
+ "EMAILPLACEHOLDER": "بريدك الإلكتروني",
+ "PASSWORDPLACEHOLDER": "كلمة المرور الخاصة بك",
+ "TERMSANDCONDITION": "شروط عامة",
+ "EMAILREQUIRED": "يجب إدخال بريد إلكتروني صالح",
+ "PASSWORDREQUIRED": "يجب إدخال كلمة مرور صالحة",
+ "PASSWORDTOOSHORT": "يجب إدخال 6 رموز على الأقل",
+ "NONE": "لا شيء",
+ "FROM": "من",
+ "UNTIL": "إلى",
+ "ANSWER": "Answer",
+ "EXPLANATION": "توضيحات",
+ "VIEWPHOTO": "مشاهدة الصورة",
+ "DELETEPHOTO": "حذف الصورة",
+ "DELETEPHOTOSINALBUM": "لا تخزن الصور في الألبوم",
+ "COMPONENTS": "مكونات",
+ "CONTACTFIRSTNAME": "الاسم الشخصي",
+ "CONTACTLASTNAME": "الاسم العائلي",
+ "CUSTOMMODELS": "نماذج مُخصصة",
+ "EXPORTALLCONFIRM": "هل أنت متأكد من تصدير {{total}} الكيان (الكيانات)؟",
+ "EDITALLCONFIRM": "هل أنت متأكد من تعديل {{total}} الكيان (الكيانات)؟",
+ "EDITALL": "تعديل الكل",
+ "COLLECTIONS": "تشكيلات",
+ "VIDEO": "فيديو",
+ "AUDIO": "مقطع سمعي",
+ "IMAGE": "صورة",
+ "CUSTOMMODEL": "نموذج مُخصص",
+ "GRIDUNSELECTALL": "\tإلغاء تحديد الكل",
+ "GRIDSELECTALL": "تحديد الكل",
+ "CONTACTEMAIL": "البريد الإلكتروني لجهة الاتصال",
+ "CONTACTNAME": "اسم جهة الاتصال",
+ "MAXIMUMCAPTUREREACHED": "الحد الأقصى للصور التي تم التقاطها",
+ "SENDBY": "إرسال بواسطة",
+ "PROTECTED": "محمي",
+ "SSOONLY": "SSO فقط",
+ "LOCATIONKPIS": "Location KPIs definition",
+ "PLACEMENTINTRODUCTION": "Placement Introduction",
+ "DRAGRIGHTWORDS": "Drag the words into the correct spaces:",
+ "ALLNOTIFICATION": "الإشعارات + البريد الإلكتروني",
+ "VIEWPROFILE": "عرض الملف التعريفي",
+ "CHANGEDISPLAYMODE": "تغيير وضع العرض",
+ "DUPLICATE": "تكرار",
+ "TIMELINE": "Timeline",
+ "LASTNOTIFICATIONSENT": "أحدث إشعارات تم إرسالها",
+ "NOTIFICATIONSEND": "لقد أرسلنا {{count}} إشعارا (إشعارات)",
+ "NOTIFYCONFIRM": "هل أنت متأكد من إشعار {{total}} مستخدما (مستخدمين)؟",
+ "NOTIFYMISSIONBODY": "لا تنس إكمال مهمتك!",
+ "NOTIFYMISSIONHEADER": "إخطار مستخدمي المتجر الذين لم يكملوا المهمة",
+ "NOTIFYUSER": "إرسال إشعار",
+ "PREVIEWUSERS": "معاينة المستخدمين",
+ "SENDNOTIFICATION": "إرسال إشعار",
+ "SENDNOTIFICATIONCONFIRM": "هل أنت متأكد من إرسال {{total}} إشعار (إشعارات)؟",
+ "REPLY_TO": "إجابة لـ",
+ "STOREEMPLOYEE": "Store employee",
+ "CONNECTWORDS": "Connect the words",
+ "MATCHWORDS": "Match the words with their similar meaning",
+ "KEYBOARD": "لوحة المفاتيح",
+ "SENDANEWPHOTOINCHANNEL": "أرسل {{user}} صورة جديدة في {{channel}}",
+ "SENDANEWPHOTO": "أرسل {{user}} صورة جديدة",
+ "CATALOGS": "كتالوجات",
+ "SMARTTAGID": "Light up smart tags",
+ "STARTEDBY": "البداية حسب",
+ "SELECTALLAPPLY": "Please select all that apply",
+ "INSTRUCTIONS": "Instructions",
+ "DRAGDROPTAGS": "Drag and drop the tags onto the pins.",
+ "FLOP": "Flop",
+ "PUBLICAPITOKENS": "Service Accounts",
+ "CLOSE": "أغلق",
+ "OPEN": "Open",
+ "DOWNLOADFAILED": "Download Failed",
+ "UPDATEMEDIASETTINGS": "Update media settings",
+ "NOWEBCAM": "No camera found",
+ "CALLENDED": "Sorry, The caller has left",
+ "ATTACHMENTS": "Attachment",
+ "ATTACHMENT": "Attachments",
+ "DISABLETRACKING": "Disable tracking",
+ "DISABLEDATABASESYNC": "Disable database sync",
+ "PRINTEXCEL": "Print to excel",
+ "SELECTONE": "Please select one choice",
+ "SORTBY": "الفرز بواسطة",
+ "MAINCONTACT": "Main Contact",
+ "NA": "N/A",
+ "CAMPAIGNTYPE": "Campaign Type",
+ "EDITED": "Edited",
+ "ALLOWMULTIPLE": "Allow multiple",
+ "AUTORENEW": "Republish a new mission on the same store when a mission is finished",
+ "AUTORENEWONBOOKING": "Republish a new mission on the same store when a mission is started",
+ "TIMELINEENTERID": "Enter the entity ObjectId",
+ "DOC": "Doc",
+ "CTXDATA": "Context Data",
+ "CURRENTINSTANCE": "Current Instance",
+ "WHERE": "Where",
+ "DAOMETHODNAME": "Doa Method Name",
+ "SELECTACTION": "Select",
+ "SAVEANDCLOSE": "Save & Close",
+ "YOOBICADMIN": "YOOBIC Admin",
+ "SELECTEDUSER": "اخترت مستخدمًا واحدًا",
+ "SELECTEDUSERS": "اخترت {{n}} مستخدمًا",
+ "SELECTUSERS": "اختيار مستخدمين",
+ "RECIPIENTS": "Recipients",
+ "ISTYPING": "is typing",
+ "GRIDTOTAL": "🔎 You have {{total}} items",
+ "EDITTAG": "تحرير العلامة",
+ "ADDNEWTAG": "Add tag",
+ "FILTERTOVIEWMORE": "Add a filter to view more",
+ "CATEGORY": "فئة",
+ "CATEGORIES": "فئات",
+ "DASHBOARDPDFTWOCOLUMNS": "2 Columns",
+ "DASHBOARDPDFTWOCOLUMNSDESCRIPTION": "Export with a 2 column layout...",
+ "DASHBOARDPDFSINGLECOLUMN": "1 Column",
+ "DASHBOARDPDFSINGLECOLUMNDESCRIPTION": "Export in a single column with bigger charts ...",
+ "ALLTABS": "All tabs",
+ "EXPORTPNG": "Export PNG",
+ "EXPORTCSV": "Export CSV",
+ "EXPORTEXCEL": "Export Excel",
+ "EDITINFO": "Edit Info",
+ "EDITALLCHARTS": "Edit all charts",
+ "CONFIRMDELETEDASHBOARD": "Are you sure you want to delete this dashboard ?",
+ "CONFIRMDELETEDASHBOARDCHART": "Are you sure you want to delete this chart ?",
+ "CONFIRMDELETEDASHBOARDTAB": "Are you sure you want to delete this tab ?",
+ "DELETEDASHBOARD": "Delete this dashboard",
+ "DELETEDASHBOARDCHART": "Delete Chart",
+ "DELETEDASHBOARDTAB": "Delete Tab",
+ "COPYTOANOTHERTAB": "Copy to another tab",
+ "CLICKCHARTTOSEEDETAILS": "Click Chart to see details",
+ "ADDCHART": "Add a chart",
+ "IGNOREREJECTED": "Ignore not compliant missions",
+ "IGNOREUNVISITED": "Ignore unvisited",
+ "SHOWVALUES": "Show values labels",
+ "STACKED": "Stacked",
+ "SPLINE": "Spline",
+ "AREASPLINE": "Areaspline",
+ "RADAR": "Radar",
+ "DOUGHNUT": "Doughnut",
+ "TREEMAP": "Treemap",
+ "USECREATIONDATE": "Use creation date",
+ "POINTPADDING": "Column padding",
+ "NUMBERPRECISION": "Number precision",
+ "SHOWDELTA": "Show delta",
+ "SHOWCUMULATE": "Show cumulative",
+ "GROUPBYCAMPAIGN": "Group by campaign",
+ "GROUPBYTAG": "Group by tag",
+ "SPLITSERIESINCHARTS": "Split series in different charts",
+ "IGNORENA": "Ignore N/A",
+ "VALIDATEDONLY": "Validated only",
+ "SHOWLEGEND": "Show legend",
+ "LASTUPDATE": "آخر تحديث",
+ "SAVED": "تم الحفظ",
+ "USERDOESNTEXISTS": "Sorry, we could not find this user ...",
+ "TOGGLE": "تبديل",
+ "COMBOBUTTONS": "اختيار المفاتيح",
+ "COMBOMULTIBUTTONS": "اختيار مفاتيح متعدد",
+ "SELECTBUTTONS": "اختيار المفاتيح",
+ "SELECTBUTTONSMULTI": "اختيار مفاتيح متعدد",
+ "SELECTMULTI": "اختيار متعدد",
+ "ADDFIRSTCHART": "Start adding the first chart to the page",
+ "ENTERNEWTITLE": "Enter a new title",
+ "APPLYALLTAB": "Apply to all tabs",
+ "APPLYACTIVETAB": "Apply to active tab",
+ "DONTSAVE": "Don't save",
+ "SAVECHANGESCONFIRM": "Do you want to save your modifications ?",
+ "USEAUTOSAVE": "Use Auto Save",
+ "BETWEEN": "Between",
+ "TIMESPAN": "Timespan",
+ "ADDNEWTAB": "Add a new tab",
+ "INVITEPEOPLE": "Invite People",
+ "PASTCHART": "Past Chart",
+ "PUBLISHDASHBOARDCOUNT": "This dashboard has been pushed to {{count}} user(s)",
+ "LASTPUBLISHEDDATE": "Last published",
+ "PERMISSIONSLIST": "Permissions list",
+ "TEAMS": "Teams",
+ "MULTIMEDIA": "Multimedia",
+ "FEEDBACK": "Feedback",
+ "NUMBERPICKER": "Number picker",
+ "ACTION": "Action",
+ "DATEANDTIME": "Date and Time",
+ "READONLY": "Readonly",
+ "CATALOGANDBARCODE": "Catalog and Barcode",
+ "CONTACTDETAIL": "Contact details",
+ "BLOCKS": "Blocks",
+ "CONTENT": "Content",
+ "NEWPAGE": "New Page",
+ "INSERTPAGEAFTER": "Insert Page After",
+ "MOVEUP": "Move Up",
+ "MOVEDOWN": "Move Down",
+ "SAVEASTEMPLATE": "Save as template",
+ "MARKASMANDATORY": "Mark as mandatory",
+ "IMPORTCSV": "Import CSV",
+ "PLACEHOLDER": "Placeholder",
+ "ADDNEWPAGE": "+ New Page",
+ "IMAGETAGGING": "Image Tagging",
+ "SWIPECARDS": "Swipe",
+ "CATEGORIZEWORDS": "Categorize Words",
+ "PLAN": "Plan",
+ "QUIZ": "Quiz",
+ "PAGETITLE": "Page Title",
+ "EMPTYFORMCREATOR": "Select or drop some fields here",
+ "SELECTCHAT": "Select Chat",
+ "LESSONS": "Lessons",
+ "OPTIONAL": "اختياري",
+ "CARDSWIPEDEFAULTINSTRUCTIONS": "Swipe the cards right or left to their correct categories",
+ "SWIPELEFT": "Swipe left",
+ "SWIPERIGHT": "Swipe right",
+ "TYPENUMBERBETWEEN": "Please answer between {{min}} and {{max}}",
+ "BADGES": "Badges",
+ "RESIZE": "Resize",
+ "FILEERROR": "File is too big or format is not supported",
+ "SECTION": "Section",
+ "DURATIONMIN": "Duration (minutes)",
+ "PREVENTRETRY": "Prevent retry",
+ "POINTS": "Points",
+ "TIMEDQUIZZ": "Timed Quiz",
+ "BATTLEQUIZZ": "Battle Quiz",
+ "MINCORRECTANSWERS": "Min. correct answers",
+ "ANNOTATIONS": "Annotations",
+ "MULTIPLE": "Multiple",
+ "TEXTIMAGE": "Text and Image",
+ "NEWVIDEOCALL": "New video call",
+ "VIDEOCHATCREATEDESCRIPTION": "Start a video call with anyone in your team",
+ "TYPENUMBERGREATERTHAN": "Please type a number greater than {{min}}",
+ "TYPENUMBERLOWERTHAN": "Please type a number lower than {{max}}",
+ "TYPENUMBER": "Please type a number",
+ "RANKITEMS": "Please order the items from most important to least important",
+ "SELECTFEEDBACK": "Please select from poor, neutral or excellent",
+ "USER_ARCHIVE": "Archived Users",
+ "ARCHIVE": "Archive",
+ "UNARCHIVE": "Unarchive",
+ "ARCHIVEUSERCONFIRM": "Are you sure you want to archive {{username}} ?",
+ "UNARCHIVEUSERCONFIRM": "Are you sure you want to unarchive {{username}} ?",
+ "BIC": "رمز مصرفي BIC",
+ "EN": "English",
+ "FR": "Français",
+ "US": "English US",
+ "ES": "Español",
+ "NL": "Nederlands",
+ "PL": "Polski",
+ "DE": "Deutsch",
+ "RU": "русский",
+ "IT": "Italiano",
+ "PT": "Portuguese PT",
+ "KR": "한국어",
+ "JA": "日本語",
+ "UA": "Українська",
+ "HE": "עברית",
+ "AR": "عربية",
+ "CZ": "česky",
+ "TH": "ไทย",
+ "TR": "Türkçe",
+ "BG": "Болгарьска",
+ "EL": "Ελληνικά",
+ "SL": "Slovenščina",
+ "SK": "Slovenčina",
+ "PLANASSIGN": "Course assign",
+ "ADDUSERS": "Assign employees",
+ "CHANNELS": "Channels",
+ "TAGGROUPS": "Groups of tags",
+ "ADDPLANS": "Add Plans",
+ "DELETECONFIRMFIELD": "Are you sure you want to delete this field?",
+ "DELETECONFIRMPAGE": "Are you sure you want to delete this page?",
+ "BR": "Portuguese BR",
+ "ET": "Eesti",
+ "HU": "Magyar",
+ "RO": "Română",
+ "ZHT": "繁體中文",
+ "ZHS": "简体中文",
+ "MAXHEIGHT": "Max height (px)",
+ "TERMSANDCONDITIONCONTENT": "",
+ "BLOCK": "Block",
+ "TODAYSACTIVITY": "Today's Activity",
+ "FOREIGN_KEY_CONSTRAINT": "You are not allowed to delete these {{parent_name}} because some entities are still linked to them",
+ "BLOCKCONDITION": "Block Condition",
+ "TAGCONDITION": "Tag Condition",
+ "GROUPCONDITION": "Group Condition",
+ "ENDIMPERSONATE": "End Impersonate",
+ "ADDUSER": "Add user",
+ "PERMISSIONS": "Permissions",
+ "PRODUCTBATCHCOMPLETIONRATE": "Completion Rate",
+ "PRODUCTBATCHACTIVITYTRACKING": "Activity Tracking",
+ "CONTROLLED": "Controlled",
+ "PRODUCTBATCHTOTAL": "Total",
+ "ACLROLE": "Security Role",
+ "AVAILABLEMISSIONS": "المهمات المتاحة",
+ "HSDESCRIPTIONEVOLUTION1": "تطور درجة الصحة للمتجر مع مرور الوقت (يتم تحديثها كل 3 ساعات). يتم عرض درجة الصحة الحالية بين أعلى وأقل نقاط في الفترة المحددة.",
+ "HSDESCRIPTIONCOMPARISON": "درجة الصحة الحالية لمتجري بالنسبة إلى المتاجر الأخرى (يتم تحديثها كل 3 ساعات)",
+ "CREATEDASHBOARD": "إضافة لوحة معلومات جديدة",
+ "SENDTODIRECTCHAT": "إرسال إلى الدردشة المباشرة",
+ "SENDTOGROUPCHAT": "إرسال إلى الدردشة الجماعية",
+ "CANCELIMAGERECO": "إلغاء التعرف",
+ "STARTIMAGERECO": "بدء التعرف",
+ "STOPIMAGERECO": "هل تريد إيقاف خاصية \"التعرف على الصور\"؟",
+ "RECOGNIZINGIMAGES": "جارٍ تحليل الصور...(قد يستغرق الأمر بعض الوقت)",
+ "IMAGERECODONE": "تم تحليل الصور👌",
+ "IMAGERECONOTDONE": "لم يتم التعرف على الصور بشكل صحيح. حاول مرة أخري.",
+ "UPLOADINGPHOTOS": "جارٍ تحميل الصور...",
+ "FORWARD": "إعادة التوجيه",
+ "FORWARDSUCCESS": "تمت إعادة التوجيه",
+ "IMAGERECOGNITIONERROR": "حدث خطأ أثناء معالجة التعرف على الصور. يُرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى. يُرجى عدم إغلاق التطبيق أثناء العملية.",
+ "SENDANEWVIDEO": "أرسل {{user}} مقطع فيديو جديد",
+ "SENDANEWVIDEOINCHANNEL": "أرسل {{user}} مقطع فيديو جديد في {{channel}}",
+ "COPYTOCLIPBOARD": "Copy to clipboard",
+ "TREE": "Tree",
+ "SHORTDESCRIPTION": "Short Description",
+ "AUGMENTEDREALITY": "Augmented Reality",
+ "ARMODEL": "Augmented Reality Model",
+ "UPDATEARMODEL": "Update AR Model",
+ "BUILDINGARMODEL": "Building AR Model",
+ "COURSENOTFOUND": "Course not found",
+ "GO": "Go",
+ "ISNOTIN": "Is not in",
+ "EDITARMODEL": "Edit AR Model",
+ "REMOVECONDITION": "Remove condition",
+ "OUTOFDATE": "يبدو أن تطبيقك لم بعد محدثًا 😢",
+ "UPTODATE": "تطبيقك محدث 👌",
+ "OUTOFDATESUB": "لقد قمنا بتحديث التطبيق {{appName}} لجعله أسرع وأكثر موثوقية بالنسبة لك",
+ "RATEUS": "هل تحب التطبيق؟ قيمنا!",
+ "RATETITLE": "قيّم {{appName}}",
+ "RATEMESSAGE": "إذا كنت تستمتع باستخدام {{appName}} فتأكد من تقييم التطبيق. ملاحظاتك هي موضع تقدير كبير",
+ "RATECANCEL": "لا، شكراً",
+ "RATEBUTTON": "قيّم ذلك الآن",
+ "RATELATER": "ذكرني لاحقاً",
+ "ADDNEWBLOCKFROMCOLUMN": "Add a new block from column on the left",
+ "ADDNEWCONDITIONFROMCOLUMN": "Select a block on the right to add a {{type}} condition",
+ "PLEASESELECTOPERATOR": "Please select an operator",
+ "GENERATEWTO": "Generate WTO",
+ "AREXPERIENCE": "Augmented Reality Experience",
+ "ISEQUAL": "Is equal to",
+ "ISNOTEQUAL": "Is not equal to",
+ "SELECTUSER": "اختيار مستخدم",
+ "SELECTCOURSE": "Select Course",
+ "SELECTCOURSES": "Select courses",
+ "SELECTEDCOURSE": "1 course selected",
+ "SELECTEDCOURSES": "{{n}} courses selected",
+ "ISMDM": "The client has an MDM",
+ "CONGRATULATIONS": "تهانينا!",
+ "SHOWFIELDCONTION": "Show block condition",
+ "SHOWTAGSCONTION": "Show tag condition",
+ "SHOWGROUPCONTION": "Show group condition",
+ "DUPLICATEONBLOCK": "Duplicate on a block",
+ "DUPLICATEONPAGE": "Duplicate on a page",
+ "SHIFTTENANTDATES": "Shift Tenant Dates",
+ "EDITUSER": "Edit User",
+ "UPDATEUSERAMEANDPASSWORD": "Update username and password",
+ "UPDATEUSERAME": "Update username",
+ "MAGICLINKADMIN": "Send the user a magic link",
+ "MAGICLINKADMINDONE": "The magic link has been sent to the user's email",
+ "MAGICLINKDESCRIPTION": "A magic link will be sent. Check your inbox...",
+ "FORCELOGOUT": "Force logout",
+ "FORCELOGOUTCONFIRM": "Are you sure you want to force this user to logout?",
+ "FORCELOGOUTDONE": "The user has been successfully logged out",
+ "RESETPASSWORDDONE": "The password has been changed successfully",
+ "SHOWDUPLICATES": "Show duplicates",
+ "SHOWDUPLICATESTOOMANY": "The selection is limited to 5000 photos, please refine your search to find duplicates",
+ "GENERATINGZIP": "Generation zip file",
+ "LOCATIONS_ARCHIVE": "Archived Stores",
+ "ARCHIVECONFIRM": "Are you sure you want to archive {{name}} ?",
+ "UNARCHIVECONFIRM": "Are you sure you want to unarchive {{name}} ?",
+ "INITIALIZESECURITY": "Initialize Security",
+ "LOCATIONS": "نقاط البيع",
+ "LOCATION": "نقطة بيع",
+ "LOCATIONTYPE": "نوع نقطة البيع",
+ "LOCATIONID": "معرّف نقطة بيع",
+ "LOCATIONTITLE": "عنوان نقطة بيع",
+ "LOCATIONTAGS": "وسوم نقطة البيع",
+ "INCLUDETAGS": "يتضمن وسوم الموقع الجغرافي",
+ "LOCATIONSTOREEXPLANATION": "تحقق مما حدث في متجرك أثناء غيابك",
+ "DISABLELOCATIONNOTIFICATIONEMAIL": "تعطيل البريد الإلكتروني للإخطار بالموقع",
+ "LOCATIONINFOEXPLANATION": "كل ما تحتاج لمعرفته عن المتجر",
+ "MYLOCATIONS": "متاجري",
+ "LOCATIONTYPES": "أنواع نقاط البيع",
+ "MISSIONDESCRIPTIONS": "Quizzes",
+ "STARTBROWSINGFROMLEFT": "Start browsing from the left column",
+ "MANAGERINSIGHTWEBHEADER": "📈 All your dashboards and campaigns in one place",
+ "KPICUSTOM": "إنشاء رسم غرافيكي خاص بك",
+ "KPICUSTOMDESCRIPTION": "أنشئ رسما غرافيكيا بإعدادات متقدمة",
+ "GENERATEWTC": "Generate WTC",
+ "BIO": "Bio",
+ "STARTINGDATE": "Starting date",
+ "TARGETDATE": "Target date",
+ "INVALIDATETOKEN": "Invalidate token",
+ "PRICE2": "Price",
+ "UPDATEUSERAMEDONE": "Username has been updated successfully",
+ "geocode": "Found",
+ "_GEOLOC": "Coordinates",
+ "OBJECT": "Object",
+ "DASHBOARDID": "معرّف لوحة المعلومات",
+ "PROVIDER": "المزود",
+ "remove": "Remove",
+ "MORE2": "إظهار المزيد",
+ "SELECTONEORMULTIPLE": "الرجاء تحديد إجابة أو عدة إجابات",
+ "ENDIMPERSONATECONFIRM": "Are you sure you want to end impersonation ?",
+ "INACTIVE": "Inactive",
+ "COLLABORATION": "Collaboration",
+ "WIKI": "Knowledge Base",
+ "LIKED": "Liked",
+ "EMPTY_TITLE_WIKI": "No Articles Yet",
+ "EMPTY_TEXT_WIKI": "Your Knowledge Base doesnt contain any article for now",
+ "REMOVE": "Remove",
+ "COURSES": "Courses",
+ "DOWNLOADCURRENITEM": "تنزيل العنصر الحالي",
+ "DOWNLOADALLITEMS": "تنزيل جميع العناصر",
+ "ANSWERPOLL": "الرد على الاستطلاع",
+ "VIEWPOLLRESULTS": "View Poll Results",
+ "WORKSPACES": "Workspaces",
+ "SOCIAL": "Social",
+ "CONFIGURATION": "Configuration",
+ "PERFORMANCES": "Performances",
+ "MYACTIVITY": "My Activity",
+ "NOTFOUNDDESCRIPTION": "Sorry but we could not find the page you re looking for ...",
+ "CUSTOMIZEUI": "Customize UI",
+ "LIGHTCOLOR": "White",
+ "BLACKCOLOR": "Black",
+ "SUCCESSCOLOR": "Green",
+ "DANGERCOLOR": "Red",
+ "ENERGIZEDCOLOR": "Yellow",
+ "DANGERLIGHTCOLOR": "Light Red",
+ "WARNINGCOLOR": "Orange",
+ "LIGHTORANGECOLOR": "Light Orange",
+ "STABLECOLOR": "Grey",
+ "ACCENTCOLOR": "Blue",
+ "INFOCOLOR": "Pink",
+ "ROYALCOLOR": "Purple",
+ "TEXTCOLORCOLOR": "Text Color",
+ "MULTIPLESESSIONSDETECTED": "Multiple sessions detected on different tabs. Click OK to refresh",
+ "CREATEFOLDER": "Create a folder",
+ "CREATEFILE": "Create a file",
+ "DOWNLOADFILE": "Download file",
+ "DOWNLOADFOLDER": "Download folder",
+ "MOVEFILE": "Move file",
+ "MOVEFOLDER": "Move folder",
+ "COPYFILE": "Copy file",
+ "COPYFOLDER": "Copy folder",
+ "DELETECHANNELCONFIRM": "Are you sure you want to delete this channel",
+ "STORYUNMUTE": "Touch to unmute",
+ "STORYKEYBOARDTIP": "Press space to see next",
+ "STORYVISITLINK": "Visit link",
+ "STORYAGO": "ago",
+ "STORYHOUR": "hour",
+ "STORYHOURS": "hours",
+ "STORYMINUTE": "minute",
+ "STORYMINUTES": "minutes",
+ "STORYFROMNOW": "from now",
+ "STORYSECONDS": "seconds",
+ "STORYYESTERDAY": "yesterday",
+ "STORYTOMORROW": "tomorrow",
+ "STORYDAYS": "days",
+ "FILEPONDLABELIDLE": "Drag & Drop your files or <span class=\"filepond--label-action\"> Browse </span>",
+ "FILEPONDLABELIDLEMULTIPLE": "Drag & Drop mulitple files <br> or <span class=\"filepond--label-action\"> click to upload them </span>",
+ "FILEPONDLABELINVALIDFIELD": "Field contains invalid files",
+ "FILEPONDLABELFILEWAITINGFORSIZE": "Waiting for size",
+ "FILEPONDLABELFILESIZENOTAVAILABLE": "Size not available",
+ "FILEPONDLABELFILELOADING": "Loading",
+ "FILEPONDLABELFILELOADERROR": "Error during load",
+ "FILEPONDLABELFILEPROCESSING": "Uploading",
+ "FILEPONDLABELFILEPROCESSINGCOMPLETE": "Upload complete",
+ "FILEPONDLABELFILEPROCESSINGABORTED": "Upload cancelled",
+ "FILEPONDLABELFILEPROCESSINGERROR": "Error during upload",
+ "FILEPONDLABELFILEPROCESSINGREVERTERROR": "Error during revert",
+ "FILEPONDLABELFILEREMOVEERROR": "Error during remove",
+ "FILEPONDLABELTAPTOCANCEL": "tap to cancel",
+ "FILEPONDLABELTAPTORETRY": "tap to retry",
+ "FILEPONDLABELTAPTOUNDO": "tap to undo",
+ "FILEPONDLABELBUTTONREMOVEITEM": "Remove",
+ "FILEPONDLABELBUTTONABORTITEMLOAD": "Abort",
+ "FILEPONDLABELBUTTONRETRYITEMLOAD": "Retry",
+ "FILEPONDLABELBUTTONABORTITEMPROCESSING": "Cancel",
+ "FILEPONDLABELBUTTONUNDOITEMPROCESSING": "Undo",
+ "FILEPONDLABELBUTTONRETRYITEMPROCESSING": "Retry",
+ "FILEPONDLABELBUTTONPROCESSITEM": "Upload",
+ "EMPTY_TITLE_QUESTIONS": "No questions",
+ "EMPTY_TEXT_QUESTIONS": "It seems to be no questions yet.",
+ "VALIDATEFEED": "Validate",
+ "SELECTAFOLDER": "Select a folder",
+ "PRIMARY": "Primary",
+ "SECONDARY": "Secondary",
+ "PRIMARYSCORING": "Primary scoring",
+ "SECONDARYSCORING": "Secondary scoring",
+ "PRIMARYSCORINGDESCRIPTION": "Primary scoring",
+ "SECONDARYSCORINGDESCRIPTION": "Secondary scoring",
+ "SCORINGTITLE": "Scoring title",
+ "EDITORDER": "تعديل",
+ "COURSEGROUPS": "Groups able to view/complete this course",
+ "ASKAQUESTION": "طرح سؤال",
+ "RENAME": "إعادة التسمية",
+ "TARGETOBJECTIVE": "الهدف",
+ "POLLQUESTION1": "إجابة",
+ "POLLQUESTION2": "إجابة",
+ "POLLQUESTION3": "إجابة",
+ "POLLQUESTION4": "إجابة",
+ "POLLQUESTION5": "إجابة",
+ "NOTFOUND": "لم يتم العثور عليه",
+ "DELETECONFIRMFIELDS": "Are you sure you want to delete these {{number}} fields?",
+ "BASELANGUAGE": "Base language",
+ "TRANSLATETO": "Translate to",
+ "GOOGLETRANSLATE": "Google Translate",
+ "SELECTLANGUAGES": "Select languages",
+ "PORTRAIT": "Portrait",
+ "LANDSCAPE": "Landscape",
+ "MISSIONSAVINGRAW": "جارٍ حفظ مهمتك...",
+ "SAVERAWMISSIONCONFIRM": "هل تريد حفظ المهمة الحالية؟ يمكنك الانتهاء من المهمة في وقت لاحق",
+ "FEEDNOTFOUND": "آسف، لم نتمكن من العثور على تغذية الأخبار المرتبطة بها.",
+ "FEEDVALIDATION": "التحقق من صحة موجز الأخبار",
+ "STOREMANAGERREORDERDESCRIPTION": "<div class=\"center\"><h1 class=\"black\">إعادة ترتيب عناصر واجهة المستخدم</h1><div>الحصول على معلومات في الوقت المناسب من عناصر واجهة المستخدم المفضلة لديك، وفي لمحة. أضف عناصر واجهة المستخدم وقم بتنظيمها أدناه.</div></div>",
+ "FEEDSHARED": "تم مشاركة أخبارك على شبكات التواصل الاجتماعي",
+ "NEWFEEDPUBLISHEDPENDINGVALIDATION": "تم إرسال الأخبار وننتظر التحقق من صحتها الآن",
+ "FEEDVALIDATIONEMPTY": "يبدو أنه لا يوجد أي أخبار للتحقق من الصحة الآن",
+ "DISABLESHARING": "تعطيل المشاركة",
+ "POLLTITLE": "عنوان الاستطلاع",
+ "POLLALLOWMULTIPLE": "السماح بخيارات متعددة",
+ "POLLHIDERESULTS": "إخفاء النتائج",
+ "REQUESTRECEIVED": "تلقى الطلب",
+ "REQUESTRAISED": "طلب مرفوع",
+ "MEMOINDIVIDUALTASK": "إنشاء مهمة فردية حسب المستخدم",
+ "POLLISLONG": "ربط الاستطلاع الحالي للرأي",
+ "POLLLINKEXISTING": "استطلاع حالي للرأي",
+ "TRAFFICIN": "حركة المرور في",
+ "TRANSACTIONS": "معاملات",
+ "TRANSACTION": "معاملة",
+ "FEEDEMPTY": "يبدو أنه لا توجد مستجدات للعرض الآن.",
+ "CHAT": "دردشة",
+ "FEED": "آخر الأخبار",
+ "FEEDS": "آخر الأخبار",
+ "NEWFEEDPUBLISHED": "مستجدات جديدة",
+ "WALKTHROUGH.TEAM.3.DESCRIPTION": "دردش في الوقت الحقيقي مع المقر الرئيسي أو فرق الدعم.<br/> تقييمات ومساعدة فورية!",
+ "FEEDTAGS": "علامات الأخبار",
+ "SHARETOFEED": "مشاركة في أحدث الأخبار",
+ "COMMENTEDYOURFEED": " علق على أخبارك ",
+ "LIKEDYOURFEED": " أعجب بأخبارك ",
+ "LIKEDYOURFEEDCOMMENT": "أعجب بتعليقك ",
+ "CHATCREATEDESCRIPTION": "ابدأ دردشةً مع أي شخص في فريقك",
+ "CHATWITHOWNER": "تحدّث مع مدير المتجر",
+ "CHATWITH": "دردشة مع",
+ "DELETETRANSLATIONCONFIRM": "Are you sure you want to delete this translation?",
+ "DELETEALLTRANSLATIONCONFIRM": "Are you sure you want to delete all the translations?",
+ "OVERWRITEEXISTINGTRANSLATIONS": "Do you want to override the existing translations or just translate the new fields?",
+ "SLIDE": "Slide",
+ "FEEDNEWSUBHEADING1": "Featured news",
+ "FEEDNEWSUBHEADING2": "News from your network",
+ "TRUE": "نعم",
+ "false": "لا",
+ "POLL": "سبر آراء",
+ "POLLS": "عمليات سبر آراء",
+ "POLLSAVEDSUCCESS": "لقد نجح حفظ سبر الآراء.",
+ "PHOTOS": "صور",
+ "ALLPHOTOS": "كل الصور",
+ "NEWPOST": "منشور جديد",
+ "FEEDCREATEDESCRIPTION": "شارِك الأخبار مع فريقك",
+ "POLLSAVING": "جاري إرسال استطلاع الرأي الخاص بك...",
+ "POLLSAVINGOFFLINE": "تم حفظ استطلاع الرأي الخاص بك, لا تنس إجراء مزامنة عند الاتصال بالإنترنت ",
+ "PHOTOSSMALL": "صور صغيرة",
+ "MYPOLLS": "استطلاعاتي",
+ "REJECT2": "رفض",
+ "NEEDHELP": "لديك أية مشكلة؟ نحن هنا للمساعدة ",
+ "EDITPOST": "تحرير مساهمة",
+ "FEEDPOSTEDBY": "تم مشاركة المنشور من قِبل {{user}}",
+ "SHAREDIN": "تمت المشاركة في",
+ "CAMPAIGNLOCATION": "الموقع",
+ "OVERRIDE": "Override",
+ "DONOTOVERRIDE": "Do not override",
+ "ACCEPT": "Accept",
+ "CALL": "إجراء مكالمة",
+ "STARTTIME": "Start Time",
+ "ENDTIME": "End Time",
+ "VISITTYPE": "Visit Type",
+ "HELPCREATECALL": "Need help ?",
+ "USERDECLINECALL": "User has declined your call",
+ "VIDEOCALLCANCEL": "Canceling video call",
+ "CALLRECORDED": "Video call has been recorded",
+ "CALLERLEFT": "Caller has left",
+ "MESSAGE": "رسالة",
+ "CHANNEL": "قناة",
+ "ENTERCHANNELNAME": "أعط محادثتك الجماعية اسمًا",
+ "SAVECONFIRM": "هل أنت متأكد من إرسال إجاباتك؟",
+ "MENTIONEDYOUINFEED": "You have been mentioned in the News feed",
+ "MENTIONEDYOUINCHAT": "You have been mentioned in a conversation",
+ "IMPORTGIF": "Import a gif",
+ "SELECTGIFS": "Select one or multiple gifs",
+ "SELECTGIF": "Select one gif",
+ "VIEWMEDIA": "View media",
+ "SHOWPAGES": "Show page/s",
+ "VOTES": "votes",
+ "FEATURED": "Featured",
+ "LINKTO": "Link to",
+ "MOVEFIELDSAFTER": "Move fields after...",
+ "DUPLICATEFIELDSAFTER": "Duplicate fields after...",
+ "DECLINED": "Declined",
+ "NEWBLOCK": "New Block",
+ "EXISTINGBLOCK": "Existing Block",
+ "EXISTINGPAGE": "Existing Page",
+ "REMOVECONDITIONCONFIRM": "Are you sure you want to remove this condition?",
+ "ADDCOURSES": "Add course(s)",
+ "APPROVED": "Approved",
+ "VIEWNUMBERCOMMENTS": "عرض جميع التعليقات",
+ "INDIVIDUALTASK": "Create an individual task by user",
+ "CALENDAREVENTTYPE": "Calendar Event Type",
+ "IMPORTUNSPLASH": "Import from Unsplash library",
+ "SELECTUNSPLASH": "Select a single photo",
+ "SELECTUNSPLASHS": "Select one or multiple photos",
+ "APPROVE": "Approve",
+ "DECLINE": "Decline",
+ "SENDANEWAUDIO": "{{user}} sent a new video",
+ "SENDANEWAUDIOINCHANNEL": "{{user}} sent a new video in {{channel}}",
+ "ITEMS": "Items",
+ "FEATUREDNEWS": "Featured news",
+ "ACCEPTED": "مقبول",
+ "REJECTEDSINGLE": "غير مطابق(ة)",
+ "ASSIGNUSERS": "Assign users",
+ "DELETEUSER": "حذف مستخدم",
+ "DELETEUSERCONFIRM": "هل أنت متأكد من حذف هذا المستخدم؟",
+ "FEEDPOLLANSWERED": "{{user}} has answered your poll: {{poll}}.",
+ "MOVE": "Move",
+ "VOTED": "Voted",
+ "IMPERSONATETENANTADMIN": "Impersonate Tenant Admin",
+ "THANKYOU": "شكرا",
+ "TO": "إلى",
+ "BODY": "جسم",
+ "SUBJECT": "الموضوع",
+ "USERTAGS": "وسوم المستخدم",
+ "CURRENTLANGUAGE": "Current language",
+ "QUESTIONSANSWERS": "Answers",
+ "BOOKMARKED": "Bookmarked",
+ "HIERARCHY": "Hierarchy",
+ "HIERARCHYLEVEL1": "Hierarchy Level 1",
+ "HIERARCHYLEVEL2": "Hierarchy Level 2",
+ "HIERARCHYLEVEL3": "Hierarchy Level 3",
+ "PASSWORDCHANGEQUESTIONCONFIRM": "Do you want to change your password ?",
+ "MENTIONEDYOUINQUESTION": "You have been mentioned in the Question",
+ "ARCHIVED": "محفوظ في الأرشيف",
+ "CREATEALLHEADING": "Let's start creating ...",
+ "MAYBE": "Maybe",
+ "TITLEPLACEHOLDER": "Write a title here",
+ "EMPTY_TITLE_COMMENTS": "No comments",
+ "EMPTY_TEXT_COMMENTS": "It seems to be no comments yet.",
+ "EDITCOMMENT": "Edit comment",
+ "DELETECOMMENT": "Delete comment",
+ "ENABLETRANSLATION": "Enable translations",
+ "TRUEABSOLUTE": "True",
+ "FALSEABSOLUTE": "False",
+ "FINISHCOURSEFROMMISSION": "You have to complete this course before submit the mission. You’ll be redirected to the course.",
+ "COURSEFROMMISSIONFINISHED": "You’ve successfully completed the course. Well done! 👏",
+ "OPENCOURSE": "Open course",
+ "LOCATIONPLURAL": "نقاط البيع",
+ "MISSIONPLURAL": "مهمات",
+ "TASKLISTPLURAL": "قوائم المهام",
+ "TODOPLURAL": "مخططات العمل",
+ "ASSIGNEDTOCOURSES": "You have been assigned to {{number}} new courses",
+ "ASSIGNEDTOCOURSE": "You have been assigned to a new course : {{title}}",
+ "REPLIEDTOYOURCOMMENT": "{{user_fullname}} رد على التعليق الخاص بك على المنشور {{newsfeed}}",
+ "SEETRANSLATION": "See translation",
+ "HIDETRANSLATION": "Hide translation",
+ "PERSONALEVENT": "Personal event",
+ "PUBLICEVENT": "Public event",
+ "PRIVATEEVENT": "Private event",
+ "YOUHAVEBEENINVITED": "You have been invited to: {{eventname}}",
+ "DISABLETRANSLATIONS": "Disable translations",
+ "YOUHAVEITEMS": "🔎 You have {{total}} items",
+ "ADDTOSTART": "Add to start...",
+ "MONDAY": "Monday",
+ "TUESDAY": "Tuesday",
+ "WEDNESDAY": "Wednesday",
+ "THURSDAY": "Thursday",
+ "FRIDAY": "Friday",
+ "SATURDAY": "Saturday",
+ "SUNDAY": "Sunday",
+ "WEEKLYCLOSEDDAYS": "Weekly closed days",
+ "CLOSINGDAYS": "Additional closed days",
+ "BROADCASTWATCH": "Watch",
+ "BROADCASTBROADCAST": "Broadcast",
+ "RECENTSTORIES": "Recent Stories",
+ "NEWBROADCAST": "Create a new live stream",
+ "BROADCASTCREATEDESCRIPTION": "Broadcast a video live stream to a group of users",
+ "WATCHALL": "Watch All",
+ "LIVE": "Live",
+ "BROADCAST": "Live stream",
+ "BROADCASTSTARTEDBY": "{{user}} started a live video. Watch it before it ends...",
+ "PREVIEWCAMPAIGN": "Preview Campaign",
+ "MISSIONANALYSIS": "Mission Analysis",
+ "USERNOTFOUND": "User not found. Please contact your admin ...",
+ "NOTNOW": "Not now",
+ "SYNCNOW": "Sync now",
+ "GOING": "Going",
+ "INTERESTED": "Interested",
+ "INVITED": "مدعو",
+ "SCHEDULEDPOSTS": "Scheduled posts",
+ "YOOASK": "YOOBIC Boost",
+ "WELCOME": "Welcome back! <br/> Sign in to continue to YOOBIC Boost.",
+ "BASELINE1": "Boost your conversion rate by training and motivating your employees",
+ "BASELINE2": "Mobile Learning.<br/> Knowledge spread.<br/> Perfomance tracking.",
+ "YOU": "You",
+ "MISSIONS": "Lessons",
+ "MISSION": "Lesson",
+ "HOME": "Home",
+ "MYSTORE": "My store",
+ "PLANS": "Courses",
+ "TOPIC": "Topic",
+ "TOPICS": "Topics",
+ "USER(S)": "User(s)",
+ "LEAVE": "Leave",
+ "ASKED": "Asked",
+ "WK_TITLE_1": "Learn on bite-sized lessons adapted to mobile learning",
+ "WK_SUBTITLE_1": "Gain and share knowledge you need for your job, in one place.",
+ "WK_TITLE_2": "Improve your sales performance",
+ "WK_SUBTITLE_2": "Improve your job skills with customised lessons.",
+ "WK_TITLE_3": "Become a continuous learner sales",
+ "WK_SUBTITLE_3": "No more pending questions. Ask questions and get help directly from your colleagues.",
+ "UPVOTE": "Up vote",
+ "SLIDEBACKGROUND": "Slide Background",
+ "TIMERENABLED": "Enable timer",
+ "TODO": "To do",
+ "TIMECONSTRAINT": "Time constraint",
+ "TIMECONSTRAINTDESCRIPTION": "This course will be available for the time limit you choose",
+ "CALENDAR": "Date range",
+ "AVAILABLEFOR": "Time period to finish the course (in days)",
+ "AVAILABLEFORDESCRIPTION": "Your employees will have this period of time to finish this course. You will be able to send them a reminder if they don't meet the deadline",
+ "AVAILABLEAFTER": "Make this course unavailable for a time period (in days)",
+ "AVAILABLEAFTERDESCRIPTION": "Your employees won't be able to access this course after the time period you decide",
+ "SOME": "some",
+ "YOUHAVELESSONTODO": "You have 1 lesson to do!",
+ "YOUHAVELESSONSTODO": "You have {{value}} lessons to do!",
+ "ANALYTICS": "Analytics",
+ "PERSONAL": "Personal",
+ "REGION": "Region",
+ "COUNTRY": "Country",
+ "GLOBAL": "Global",
+ "GETMOREPOINTS": "Get more points",
+ "LESSONOFCOURSE": "{{lesson}} of {{course}}",
+ "ONBOARDING": "Onboarding",
+ "CUSTOMERHERO": "Customer Hero",
+ "PRODUCTEXPERT": "Product Expert",
+ "CROSSSELLINGGENIUS": "Cross-selling Genius",
+ "INSTOREEXPERT": "In-store Expert",
+ "OUTSTANDINGLEARNER": "Outstanding Learner",
+ "HIGHSCORES": "High scores",
+ "EMPTY_TITLE_LESSONS": "All done!",
+ "EMPTY_TITLE_COURSES": "No Courses",
+ "EMPTY_TITLE_USERRANKS": "Nobody here",
+ "EMPTY_TITLE_ANALYTICS": "No analytics",
+ "EMPTY_TEXT_LESSONS": "You’ve reached all your goals.",
+ "EMPTY_TEXT_COURSES": "There are no courses to show",
+ "EMPTY_TEXT_USERRANKS": "It seems to be no leaderboard yet.",
+ "EMPTY_TEXT_ANALYTICS": "It seems to be no analytics yet.",
+ "ASKNOW": "Ask now",
+ "CANCELLESSONFORM": "Do you want to leave this lesson?",
+ "CANCELLESSONFORMCONFIRM": "You won't be able to catch up where you stop. Your progress will be lost.",
+ "TIMEDLESSON": "Timed Lesson",
+ "TIMEDLESSONCONFIRM": "You have {{duration}} to answer {{total}} questions.",
+ "IMREADY": "I'm ready!",
+ "TIMESUP": "Time's up!",
+ "TIMESUPCONFIRM": "Sorry, you took too much time to answer. The good news is you can try again and improve your score!",
+ "LESSON_CONGRATULATIONS": "Woohoo!",
+ "LESSON_CONGRATULATIONS_TEXT": "You've completed {{title}} answered {{nbAnswered}} questions correctly",
+ "LESSON_FAILURE": "Not quite…",
+ "LESSON_FAILURE_TEXT": "You need at least {{minForCompliance}} correct answers to pass the exam. It’s not the end! You can try again",
+ "LESSON_FAILURE_TEXT_NORETRY": "You need at least {{minForCompliance}} correct answers to pass the exam.",
+ "LESSONS_POINTS_EARNED": "You have gained new points for this lesson",
+ "LESSON_BADGE_AVAILABLE": "{{badge}} badge available",
+ "LESSON_BADGE_EARNED": "You’ve collected another badge",
+ "LESSON_FINISH_TEXT": "You just finished reading {{title}}",
+ "LESSON_FINISH_TEXT_JOURNEY": "You just finished reading {{title}}. You have unlocked the next lesson",
+ "READOURDOCUMENT": "Read our document",
+ "LESSONSAVING": "Saving your result ...",
+ "SELECTRIGHTWORDS": "Choose the right words between",
+ "MYCOURSES": "My courses",
+ "COURSESOF": "{{name}}'s courses",
+ "GETREADY": "Get Ready",
+ "NEW_BADGE_COLLECTED": "You’ve collected another badge",
+ "QUESTION_CONGRATULATIONS": "Congrats!",
+ "QUESTION_FAILURE": "Not quite…",
+ "COURSE": "Course",
+ "NEXT_WITH_DURATION": "Next ({{duration}})",
+ "GETMOREPOINTSBANNER": "🌟 Get more points!",
+ "GETMOREPOINTSBANNERSUBTEXT": "And speed up your position redoing this lessons:",
+ "ADDPOINTS": "Add points",
+ "LIKEDYOURQUESTION": "liked your question",
+ "YOURQUESTION": "Your question",
+ "COURSE_CONGRATULATIONS_TEXT": "You've completed {{title}} completed {{nbAnswered}} lessons",
+ "EMPTY_TITLE_ANSWERS": "No answers",
+ "EMPTY_TEXT_ANSWERS": "It seems to be no answers yet.",
+ "ANSWERQUESTIONPLACEHOLDER": "What do you think of this question ...",
+ "EARNEDPOINTS_TEXT": "and earned {{earnedPoints}} points!",
+ "NOTYET": "Not yet",
+ "VERIFIED": "Verified",
+ "EDITANSWER": "Edit answer",
+ "DELETEANSWER": "Delete answer",
+ "VERIFYANSWER": "Verify answer",
+ "UNVERIFYANSWER": "Un-verify answer",
+ "YOURQUESTIONPLACEHOLDER": "Write your question here",
+ "CORRECT": "Correct",
+ "INCORRECT": "Incorrect",
+ "WHY?": "Why ?",
+ "EXTRA": "Extra",
+ "SSOINSTRUCTION": "Please enter your company name to Log into Boost",
+ "EMPTY_TEXT_COURSES_YET": "There are no courses available yet.",
+ "NEWQUESTION": "New Question",
+ "USERSLATE": "Users Late",
+ "LESSONSFINISHED": "Lessons Finished",
+ "USERUNCOMPLETECOURSES": "Late Courses",
+ "USERCOMPLETECOURSES": "Fin. Courses",
+ "KEYINDICATORS": "Key Indicators",
+ "YOURINDICATORS": "Your Indicators",
+ "LOGINTOBOOST": "Log In to Boost",
+ "LOGINSUBTITLE": "Enter your details below",
+ "LOGINBASELINE1": "Boost your conversion rate by training and motivating your employees",
+ "COMPLETEDLESSONS": "Completed Lessons",
+ "TRAFFICEVOLLUTION": "Traffic Evolution",
+ "SENDNOTIFICATIONDESCRIPTION": "Send a notification to your members to remind them to complete their courses on time",
+ "SUCCESSQUIZZES": "Suc. Quizzes",
+ "REMINDERTEMPLATE": "Hi {{name}} ! You're late on {{number}} course(s). Click here to get back into the app and finish!",
+ "PERFECT": "Perfect!",
+ "NOTIFYLATEUSERS": "Notify late users",
+ "NOTIFYLATEUSER": "Notify late user",
+ "REMINDERCOURSETEMPLATE": "Hey, you are late on the course: {{course_title}}. Click here to get back into the app and finish it!",
+ "QUESTIONPUBLISHED": "Question published",
+ "ALREADYASSIGNEDCOURSESERVERERROR": "The user has already been assigned to this plan!",
+ "ALREADYASSIGNEDCOURSE": "One or more users were already assigned to the course",
+ "ASSIGNCOURSE": "Assign course",
+ "ASSIGNCOURSEDESCRIPTION": "Assign new courses to your users to help improve their in-store performance",
+ "EDITQUESTION": "Edit question",
+ "ASSIGNCOURSESUCCESS": "You have successfully invited {{number}} members to {{title}} course",
+ "QUESTIONCREATEDESCRIPTION": "Post your question in the company forum for a quick answer",
+ "INVITEUSER": "Invite user",
+ "INVITEUSERDESCRIPTION": "Invite your new employees to your team on Boost",
+ "INVITE": "Invite",
+ "INVITEUSERS": "Invite users",
+ "INVITATIONCOURSES": "You have successfully invited {{email}} and assigned {{number}} course(s).",
+ "DISCOVER": "Discover",
+ "AGO": "ago",
+ "LEFT": "left",
+ "LIVEBATTLE": "Instant Play",
+ "OFFLINEBATTLE": "Offline Battle",
+ "LIVEBATTLECREATEDESCRIPTION": "Play a live quiz against a random colleague in real time and win stars",
+ "OFFLINEBATTLECREATEDESCRIPTION": "Play an offline quiz against a colleague and win stars",
+ "REMOVECOURSETITLE": "Remove this course",
+ "REMOVECOURSEDESCRIPTION": "You are about to remove this course from your saved section. Any progress made will be deleted. Do you want to proceed?",
+ "UNSUPPORTEDFORMAT": "Media format is not supported",
+ "TOTALPLAYED": "Total played",
+ "DEFEAT": "Defeat",
+ "DEFEATS": "defeats",
+ "VICTORY": "Victory",
+ "VICTORIES": "Victories",
+ "DELETEREQUEST": "Delete request",
+ "PLAY": "Play",
+ "CORRECTANSWER": "Correct answer",
+ "CORRECTANSWERS": "Correct answers",
+ "ACCEPTBATTLE": "Are you sure you want to accept this battle request from {{name}} for {{points}}?",
+ "DECLINEBATTLE": "Are you sure you want to decline this battle request from {{name}} ?",
+ "NEWBATTLE": "New Battle",
+ "BETTABLEPOINTS": "Add points, Currently you have {{n}} points",
+ "OPPONENT": "Opponent",
+ "ASKQUESTION": "Ask question",
+ "STARSWON": "Stars Won",
+ "TROPHIESWON": "Trophies Won",
+ "CONGRATULATIONSWON": "Congratulations, you won this battle!",
+ "UNLUCKYLOST": "Unlucky, you lost this battle!",
+ "DELETEBATTLE": "Are you sure you want to delete this battle request from {{name}} ?",
+ "COURSECATEGORIES": "Categories",
+ "KPIBOOSTUSERSCOURSESPROGRESS": "Average Progress",
+ "KPIBOOSTUSERSCOURSESPROGRESSDESCRIPTION": "Average progress of a group of users in one or multiple courses",
+ "WIKICREATEDESCRIPTION": "Create a new entry in the knowledge base",
+ "EDITWIKI": "Edit article",
+ "NEWWIKI": "New article",
+ "WIKIPUBLISHED": "Article published",
+ "ARTICLE": "Article",
+ "Select Course": "",
+ "SELECTOPPONENT": "Select Opponent",
+ "TIMETAKEN": "Time taken",
+ "ASSIGNCOURSESSUCCESS": "You have successfully invited {{nb_users}} members to {{nb_courses}} course(s)",
+ "NOTENOUGHPOINTS": "You need to bet {{needed}} points to play the battle. Your current balance is {{available}}. Do you want to decline the game request?",
+ "SECS": "{{sec}} secs",
+ "BATTLES": "Battles",
+ "RECEIVED": "Received",
+ "SENT": "Sent",
+ "HISTORY": "History",
+ "WAITING": "Waiting",
+ "TOPLAY": "To Play",
+ "REQUESTS": "Requests",
+ "EMPTYBATTLES": "No Battles",
+ "SETUPBATTLE": "Setup your Battle",
+ "POINTSWON": "Points Won",
+ "SAVEBATTLE": "BATTLE",
+ "KPIBOOSTUSERSCOURSESREPARTITION": "Average progression - courses repartition",
+ "KPIBOOSTUSERSCOURSESREPARTITIONDESCRIPTION": "Progress repartition of a group of users in one or multiple courses",
+ "CANCELBATTLELESSONFORM": "Do you want to leave this battle?",
+ "CANCELBATTLELESSONFORMCONFIRM": "Your game will be lost.",
+ "BATTLELOADING": "The battle is being prepared.",
+ "BATTLEPLAYERROR": "Can't play now, please try later.",
+ "FINDCOURSE": "Find a course by name, type or list",
+ "STARTCREATINGLESSONS": "Start creating lessons",
+ "OPPONENTTURN": "It's now your opponent's turn!",
+ "REJECT": "Reject",
+ "NOPOINTTOBET": "You don't have enough points to play a battle!",
+ "DELETELESSONSCONFIRM": "Do you really want to delete {{n}} lessons?",
+ "ENABLEJOURNEY": "Enable Journey",
+ "DISCOVERABLE": "Discoverable",
+ "TIMEPERIOD": "Predefined phase",
+ "NEWWIKIPUBLISHED": "A new document has been published in the Knowledge Base !",
+ "NEWQUESTIONPUBLISHED": "A new question has been published!",
+ "WINRATE": "Win Rate"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="40px" viewBox="0 0 33 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>style-two-pin-marker</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stores---AM---Map-view" transform="translate(-318.000000, -179.000000)" fill-rule="nonzero">
+            <g id="style-two-pin-marker" transform="translate(318.000000, 179.000000)">
+                <circle id="Oval-4" fill="#FFFFFF" cx="16" cy="16" r="15"></circle>
+                <path d="M16.5,0 C7.84708282,0.0101028341 0.835001806,7.09301295 0.825,15.8333333 C0.825,26.745 11.6127,36.6466667 14.91765,39.4216667 C15.8344599,40.1909776 17.1638901,40.1909776 18.0807,39.4216667 C21.3807,36.6466667 32.175,26.7416667 32.175,15.8316667 C32.1640892,7.09199716 25.1522739,0.0101009726 16.5,0 Z M16.5,24.1666667 C11.9436508,24.1666667 8.25,20.4357062 8.25,15.8333333 C8.25,11.2309604 11.9436508,7.5 16.5,7.5 C21.0563492,7.5 24.75,11.2309604 24.75,15.8333333 C24.75,18.0434707 23.8808061,20.1630867 22.3336309,21.7258898 C20.7864558,23.288693 18.688036,24.1666667 16.5,24.1666667 Z" id="Shape" fill="#FF625F"></path>
+            </g>
+        </g>
+    </g>
+</svg>
